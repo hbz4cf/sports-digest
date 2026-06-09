@@ -1,19 +1,24 @@
 {
-  "generatedAt": "2026-06-08T20:34:00.864Z",
-  "intro": "Hey, welcome back to The Weekly Rundown — your weekly dose of everything worth talking about in the sports world! We've got chess-playing Broncos, a Melo superfan getting the surprise of a lifetime, a college kid shaking up the French Open, and a whole lot more to get into, so let's not waste any time.",
+  "generatedAt": "2026-06-09T14:34:24.509Z",
+  "intro": "Hey, welcome back to **The Weekly Rundown** — grab a snack, get comfortable, and maybe say a little prayer for Eric Weddle's knees while you're at it. It's been one of *those* weeks in sports, from Monaco to the French Open to a Knicks fan in New York who definitely did not calm down and we would not have it any other way.",
   "sections": [
     {
       "sport": "NFL",
       "stories": [
         {
-          "headline": "Broncos Already Playing Chess While Everyone Else Is Playing Checkers",
-          "body": "Denver is apparently thinking so far ahead that they're already scheming replacements for D.J. Jones in a 2027 mock draft. Say what you want about the Broncos, but at least someone in that building has a long-term vision for keeping the defensive line from falling apart.",
-          "tag": "Draft Talk"
+          "headline": "Eric Weddle's Body Is Still Sending Him the Bill From That 2022 Comeback",
+          "body": "Remember when Eric Weddle came out of retirement to play in the playoffs for the Rams and everyone thought it was the coolest thing ever? Well, years later, Weddle says he's still physically feeling the effects — and he wants Aaron Donald to take notes before even thinking about lacing them back up. Consider it a cautionary tale from one legend to another.",
+          "tag": "Player News"
         },
         {
-          "headline": "If the Broncos Could Redo the 2025 Draft, Here's How It'd Go",
-          "body": "We're doing a full do-over on Denver's 2025 draft picks — always a fun exercise, and honestly a little telling about how the picks are already aging. Broncos fans either love this kind of content or find it deeply stressful, and there's really no in-between.",
-          "tag": "Draft Talk"
+          "headline": "Kyler Murray to the Vikings? OTAs Are Already Pointing to a Frontrunner",
+          "body": "Things are moving fast in Minnesota, where Kyler Murray appears to be separating himself from the pack at quarterback during OTAs. It's early, sure, but when one guy is already standing out this clearly in offseason workouts, the writing tends to stay on the wall. Vikings fans have been starved for a real QB answer — this one's worth watching closely.",
+          "tag": "Training Camp"
+        },
+        {
+          "headline": "The Browns Get Primetime Love — But Only in the Preseason, Lol",
+          "body": "Cleveland got some scheduling news this week, and in classic Browns fashion, it comes with a catch — they're getting primetime exposure in the preseason, not the regular season. It's the kind of thing that feels like a participation trophy, but hey, a spotlight is a spotlight. Maybe they'll use it to prove the league wrong before the real games even start.",
+          "tag": "Scheduling"
         }
       ]
     },
@@ -21,14 +26,14 @@
       "sport": "NBA",
       "stories": [
         {
-          "headline": "Little Knicks Fan Named After Melo Gets a Visit From the Man Himself",
-          "body": "Young Carmelo Rios went viral after his heartwarming devotion to the Knicks melted the internet, and then the story got even better — his namesake, Carmelo Anthony, showed up to make his day. It's the kind of feel-good moment that reminds you why sports fandom hits different when you're a kid. Grab the tissues, this one's earned them.",
-          "tag": "Heartwarming"
+          "headline": "Spike Lee Is Absolutely Not Letting the Knicks' Finals Moment Pass Without a Flex",
+          "body": "New York's most famous superfan is pulling up to Madison Square Garden for Game 3 of the NBA Finals in a pair of Air Jordan 3 PEs, and honestly, what else would you expect? The Knicks are in the Finals, Spike is in rare form, and the fits are going to be must-watch television alongside the actual basketball. MSG hasn't had energy like this in a long, long time.",
+          "tag": "Culture"
         },
         {
-          "headline": "Alabama's NBA Draft Legacy: The Crimson Tide's Finest Lottery Moments",
-          "body": "Alabama hoops doesn't always get the same shine as its football program, but the Crimson Tide have quietly sent some serious talent to the NBA over the years. From lottery picks to late-round gems, there's more draft day history in Tuscaloosa than most fans realize. Worth a look if you want some trivia to flex at your next watch party.",
-          "tag": "History"
+          "headline": "Dominick Barlow Locked In a Real Contract With Philly — Now Comes the Hard Part",
+          "body": "Barlow did enough in year one to earn himself a standard NBA deal with the Sixers, which is no small thing. But the scouting report has a glaring hole in it, and teams at this level will absolutely exploit it if he doesn't put in the work this offseason. Year two is where we find out if he's a rotation piece or a cautionary tale.",
+          "tag": "Player Development"
         }
       ]
     },
@@ -36,19 +41,19 @@
       "sport": "MLB",
       "stories": [
         {
-          "headline": "Gerrit Cole Is Out Here Investing in the Next Generation of Baseball",
-          "body": "Yankees ace Gerrit Cole was caught on video doing something genuinely wholesome — giving back to young baseball players and thinking about the future of the game. It's a nice reminder that behind the filthy slider and the big contract is a guy who actually loves baseball. Good stuff, Gerrit.",
-          "tag": "Feel Good"
-        },
-        {
-          "headline": "Brayan Bello Gets Sent Down, Takes It Hard But Keeps His Head Up",
-          "body": "Red Sox starter Brayan Bello didn't hide his emotions after getting demoted to Triple-A, admitting he shed some tears when he got the news — and honestly, that kind of honesty is refreshing. He told reporters through a translator that he's ready to take on whatever role Boston needs from him, which is exactly the right attitude. The Red Sox clearly still believe in him, and a reset in Triple-A might be just what he needs to rediscover his stuff.",
+          "headline": "Jordan Hicks Might Be Too Expensive to Keep and Too Bad to Play",
+          "body": "The White Sox could be on the verge of cutting ties with reliever Jordan Hicks, who's been struggling this season and is currently on the IL. Paying $8 million for a reliever is already a tough pill to swallow — paying $8 million for a bad reliever is a whole different kind of pain. Chicago's had a rough go of it lately, so don't be shocked if Hicks gets the DFA stamp when he's cleared to return.",
           "tag": "Roster Move"
         },
         {
-          "headline": "Don Mattingly Gets a Cool All-Star Nod in His Interim Phillies Gig",
-          "body": "Interim Phillies manager Don Mattingly is getting some recognition at the All-Star Game, which is a fun little perk for a guy who stepped into a tough situation mid-season. It's a nice moment for a baseball lifer who has quietly been keeping Philadelphia's ship steady. Donnie Baseball doing Donnie Baseball things.",
-          "tag": "Around the League"
+          "headline": "The Cubs Want Tarik Skubal, and Detroit Might Actually Listen",
+          "body": "ESPN floated a Cubs-Tigers trade centered around ace Tarik Skubal, and apparently it's not completely crazy — sources suggest it's a deal Detroit could at least consider. Skubal has been one of the best pitchers in baseball, so if Chicago is serious, they'd better be ready to empty the farm. This one's worth watching as the trade deadline creeps closer.",
+          "tag": "Trade Rumors"
+        },
+        {
+          "headline": "Soroka Saves the D-backs From an Ugly Sunday",
+          "body": "Michael Soroka delivered another quietly impressive outing, helping Arizona beat Washington 5-1 and avoid getting swept at home. Nobody's putting Soroka on a postseason billboard yet, but he keeps showing up when the team needs him most. The D-backs escaped the homestand with their dignity intact — and sometimes that's enough.",
+          "tag": "Big Win"
         }
       ]
     },
@@ -56,19 +61,19 @@
       "sport": "College Sports",
       "stories": [
         {
-          "headline": "Meet 'Jabe Ruth,' the Troy Catcher Who's Carrying College Baseball on His Back",
-          "body": "Troy catcher Jabe Boroff has been absolutely mashing in the NCAA tournament — six home runs and counting — and the nickname 'Jabe Ruth' practically wrote itself. The Trojans are on the doorstep of their first-ever College World Series appearance, and this guy is the reason why. Sometimes college sports hands you a story so perfect it feels made up, and yet here we are.",
-          "tag": "Big Win"
+          "headline": "Longhorns and Ducks Bring the Heat to Austin's Super Regional Showdown",
+          "body": "Texas and Oregon square off in the NCAA Baseball Super Regionals tonight on ESPN, with the Longhorns playing in their own backyard at UFCU Disch-Falk Field — which is about as home-field-advantage as it gets. If you're a college baseball fan and you're not watching this, what are you even doing with your evening?",
+          "tag": "Big Game"
         },
         {
-          "headline": "Milan Momcilovic Is in Lexington and Kentucky Fans Are Already in Love",
-          "body": "The Iowa State transfer chose Kentucky over the NBA Draft, and Big Blue Nation has been buzzing ever since he signed. Now that he's actually on campus, the excitement is turning into full-blown hype — and honestly, the expectations are sky high. John Calipari who?",
-          "tag": "Recruiting"
+          "headline": "Kentucky Just Landed Its Most Hyped Transfer and He's Already in the Building",
+          "body": "Milan Momcilovic pulled out of the NBA Draft, signed with Kentucky, and apparently the whole city of Lexington collectively lost its mind — in the best way. The Iowa State transfer is expected to bring serious scoring punch to a Wildcats squad that's already licking its chops heading into next season.",
+          "tag": "Transfer News"
         },
         {
-          "headline": "Curt Cignetti Wants to Coach Indiana Football Until He Dies, Apparently",
-          "body": "Indiana's head coach announced he has no plans to retire anytime soon, which tracks for a guy who showed up to a basketball game and immediately roasted Purdue, Michigan, AND Ohio State into a microphone. He understood the assignment from day one, and Hoosier fans are absolutely eating it up. The man is not here to make friends — unless you bleed cream and crimson.",
-          "tag": "Coaching News"
+          "headline": "AJ Ferrari Wants to Wrestle Alongside His Brother — and That's Actually Pretty Wholesome",
+          "body": "Former NCAA wrestling champion AJ Ferrari entered the transfer portal and is now saying his top priority is landing at the same school as his brother for his final college season. It's a sweet storyline in a sport that doesn't get nearly enough attention, and whatever program pulls this off is getting a serious weapon on the mat.",
+          "tag": "Transfer News"
         }
       ]
     },
@@ -76,19 +81,14 @@
       "sport": "Soccer/EPL",
       "stories": [
         {
-          "headline": "Eriksen Gives Everyone a Scare Again — But He's Okay",
-          "body": "Christian Eriksen collapsed during a friendly against Ukraine, and yeah, hearts collectively dropped around the world for a moment. Thankfully, the Danish Football Union confirmed he's conscious and doing okay, which is honestly the only thing that matters here. After his cardiac arrest at Euro 2020, this guy has already been through more than anyone should have to — we're just glad he's alright.",
+          "headline": "Eriksen Collapses Again — But He's Okay, And We Can Breathe",
+          "body": "Christian Eriksen gave everyone a serious case of déjà vu when he collapsed during Denmark's friendly against Ukraine on June 7 — five years almost to the day after his terrifying cardiac arrest at Euro 2020. The good news: he was conscious and reportedly feeling okay given the circumstances. This guy has already cheated death once, so here's hoping this was just a scare and nothing more serious.",
           "tag": "Health Scare"
         },
         {
-          "headline": "Nike Is Going All Out for the World Cup and It Shows",
-          "body": "Nike dropped what might be its most ambitious World Cup collection ever, teaming up with seven brands — including Patta — and launching a sleek new Cryoshot sneaker series. It's part kit, part fashion moment, and honestly it's hard to argue with the execution. Whether you're watching from a pub or a couch, at least you'll have options to look good doing it.",
-          "tag": "Gear & Style"
-        },
-        {
-          "headline": "Need to Get in a World Cup Mood? Anime Has You Covered",
-          "body": "With the World Cup on the horizon, someone helpfully rounded up five of the best soccer anime shows to get you properly hyped. If you've never seen Captain Tsubasa or Blue Lock, consider this your sign to fix that immediately. It's the most chaotic and entertaining way to prep for the tournament, and we're fully endorsing it.",
-          "tag": "Culture"
+          "headline": "World Cup vs. Olympics: The Age-Old Debate Gets a Utah Twist",
+          "body": "With Utah gearing up to host the 2034 Winter Olympics, locals are apparently weighing in on whether the World Cup — also coming to the US — is a bigger deal than the Games. Spoiler: soccer fans will tell you it's not even close, while everyone else will disagree loudly. It's the kind of debate that has no right answer but makes for a great argument at the pub.",
+          "tag": "Big Picture"
         }
       ]
     },
@@ -96,13 +96,8 @@
       "sport": "F1",
       "stories": [
         {
-          "headline": "Antonelli Rolls Into Monaco Like He Owns the Place",
-          "body": "Kimi Antonelli came to Monte Carlo already sitting pretty at the top of the drivers' championship, and the Monaco Grand Prix was his chance to really put a bow on it. Racing through the famously tight, unforgiving streets of the principality, Antonelli was the man to beat all weekend. If you're not watching this kid's rise, you're missing one of the better storylines of the 2026 season.",
-          "tag": "Big Win"
-        },
-        {
-          "headline": "The Championship Picture Is Getting Clearer — and It's Got Antonelli's Face On It",
-          "body": "After Monaco, the drivers' standings are looking less like a tight battle and more like a one-man show at the top. Antonelli heading into the summer stretch with a growing lead is the kind of thing that makes rivals very nervous. The question now isn't just whether anyone can catch him — it's whether anyone can even make it interesting.",
+          "headline": "Antonelli Owns Monaco — But Did He Lock Up the Title Too?",
+          "body": "Kimi Antonelli rolled into Monte Carlo already sitting pretty at the top of the drivers' standings, and the Monaco Grand Prix was his chance to really put some distance between himself and the rest of the field. Whether he converted that opportunity is the big talking point this week — and if he did, the championship picture is starting to look less like a race and more like a coronation. Keep an eye on that gap heading into the next round.",
           "tag": "Standings"
         }
       ]
@@ -111,18 +106,18 @@
       "sport": "Tennis",
       "stories": [
         {
-          "headline": "College Kid Done Good: Shnaider Stuns Sabalenka at the French Open",
-          "body": "Diana Shnaider, who was playing college tennis at NC State not too long ago, just knocked off world No. 1 Aryna Sabalenka at Roland Garros — and the tennis world is doing a double take. If she goes all the way, she'd be the first former college player to win a women's Grand Slam singles title since 1979, which is the kind of trivia that makes you stop and think about how wild that is. Pack Pride, apparently, hits different on clay.",
+          "headline": "Former College Kid Shnaider Stuns Sabalenka at the French Open",
+          "body": "Diana Shnaider, who was playing college tennis at NC State not that long ago, just knocked out world number one Aryna Sabalenka at Roland Garros — and the tennis world is doing a double take. If she goes all the way, she'd be the first ex-college player to win a women's Grand Slam singles title since 1979, which is the kind of trivia that makes you stop and think about how wild that gap is. College tennis recruiting coordinators everywhere are printing this out and taping it to their office walls.",
           "tag": "Big Win"
         },
         {
-          "headline": "Off-Court Controversy: Ukrainian Player Calls for Sanctions Against Shnaider",
-          "body": "Just as Shnaider is having her Cinderella moment in Paris, Ukrainian player Oleksandra Oliynykova is calling for her to be sanctioned over ties to a Gazprom-funded event, arguing it amounts to support for Russia's war in Ukraine. It's a reminder that for athletes from the region, the tennis court is never fully separate from the brutal reality happening off of it. This one isn't going away quietly.",
+          "headline": "Off the Court Drama: Ukrainian Player Calls for Sanctions Against Shnaider",
+          "body": "Just as Shnaider's run is making headlines for all the right reasons, there's a serious controversy brewing around her. Ukrainian player Oleksandra Oliynykova is publicly urging tennis authorities to sanction Shnaider, alleging she lent her name and presence to a Gazprom-funded event — a Russian state energy company deeply tied to the war effort. It's a reminder that for players from Russia and Ukraine, every tournament exists against the backdrop of a very real and ongoing conflict.",
           "tag": "Drama"
         },
         {
-          "headline": "It's French Open Men's Final Weekend — Clear Your Sunday",
-          "body": "The Men's Final at Roland Garros is here, and if you haven't been following along, now is a great time to tune in for the most important match of the clay season. Check your local listings for broadcast times and streaming options, because this is the kind of match that tends to deliver — long rallies, big drama, and someone hoisting a trophy on that gorgeous Parisian red clay. Don't be the person who misses it and has to avoid the internet all day.",
+          "headline": "The French Open Men's Final Is On — Here's How to Catch It",
+          "body": "The French Open Men's Final is set for June 7th, so clear your Sunday schedule and find a stream. Check your local listings because coverage is spread across a few channels and platforms depending on your provider. Clay court tennis at its finest — honestly one of the best annual appointments in all of sports.",
           "tag": "Viewing Guide"
         }
       ]
@@ -131,19 +126,19 @@
       "sport": "NHL",
       "stories": [
         {
-          "headline": "Golden Knights Keep Doing Golden Knights Things in the Cup Final",
-          "body": "Vegas grabbed a series lead after winning Game 3, though they nearly gave everyone a heart attack by almost surrendering a 4-0 lead. Classic VGK — make it dramatic, win anyway, repeat.",
-          "tag": "Stanley Cup Final"
+          "headline": "Dylan Larkin Wants Out of Detroit, and Apparently He's Got Options",
+          "body": "Larkin requested a trade from the Red Wings last week, and now three teams are reportedly circling. Detroit fans have been through enough rebuilding cycles to know this stings, but if the relationship is done, it's done — now it's about getting the best return possible.",
+          "tag": "Trade Rumors"
         },
         {
-          "headline": "Joe Pavelski, NHL Coach? It's Not As Crazy As It Sounds",
-          "body": "The Maple Leafs are reportedly eyeing Pavelski for their head coaching vacancy, which would mean going straight from coaching youth hockey to one of the most pressure-cooked benches in the league. Martin St. Louis pulled off that exact wild journey with Montreal, so hey, stranger things have happened in Toronto — and that's really saying something.",
-          "tag": "Coaching Rumors"
+          "headline": "Milan Lucic Hangs 'Em Up After 17 Years of Making People Regret Skating Near Him",
+          "body": "The veteran power forward officially called it a career, closing the book on 17 NHL seasons that included a Stanley Cup with Boston in 2011. His wife Brittany shared some genuinely touching tributes online, and honestly, the outpouring of love is well-deserved — Lucic was one of the last true old-school enforcers the league will see for a while.",
+          "tag": "Retirement"
         },
         {
-          "headline": "Ottawa Is Done Being Picky About Passports at the Draft",
-          "body": "The Senators appear to have quietly dropped their longtime reluctance to draft Russian players, a shift that opens up a much bigger talent pool heading into this year's draft. Smart move — leaving skilled prospects on the board over geography is a luxury bad teams can't really afford.",
-          "tag": "Draft News"
+          "headline": "Larkin Drama Aside, Let's Talk About the Avalanche Falling Apart in the WCF",
+          "body": "Colorado got bounced from the Western Conference Final, and people are asking serious questions about what went wrong for a team that looked like a contender. Meanwhile, the Hurricanes are dealing with their own headaches in goal, so the playoff chaos is very much still alive.",
+          "tag": "Playoff Drama"
         }
       ]
     },
@@ -151,19 +146,19 @@
       "sport": "Golf",
       "stories": [
         {
-          "headline": "LIV Golf's Money Problems Are Getting Hard to Ignore",
-          "body": "Turns out the Saudi-backed rebel league might have a Saudi-backing problem — reports suggest LIV may not have the funding to get through the entire season, with just 47 days until their next event. The PIF is eyeing the exit as the primary financier, and some players are already whispering about jumping ship if the financial structure changes heading into 2027. It's giving 'we'll figure it out' energy, which is not exactly what you want from a league trying to legitimize itself.",
+          "headline": "Nelly Korda Wins the US Women's Open Without Actually Playing That Well — And That's Kind of the Point",
+          "body": "Korda missed 30 greens in regulation at Riviera and still walked away with the U.S. Women's Open trophy, which tells you everything about how mentally locked in she is right now. This wasn't just a win — it's a coronation. The conversation about the face of American women's golf for the next decade starts and ends with her.",
+          "tag": "Big Win"
+        },
+        {
+          "headline": "JT Poston Gets His Moment at the Memorial",
+          "body": "While Korda was stealing the weekend's headlines, J.T. Poston quietly went out and won the Memorial Tournament in a playoff. Poston is one of those guys who doesn't get nearly enough attention for how consistently solid he is, so it's nice to see him break through on a big stage.",
+          "tag": "Big Win"
+        },
+        {
+          "headline": "Six Guys Miss a US Open Qualifier Because of a Medical Emergency at 30,000 Feet",
+          "body": "A group of PGA Tour Americas players missed their final U.S. Open qualifier after a medical emergency forced their flight from Mexico to divert. If that wasn't rough enough, one player — Chris Nido — did make it to the tee but had to play with a friend's clubs after leaving his own behind. Brutal doesn't even begin to cover it.",
           "tag": "Drama"
-        },
-        {
-          "headline": "Scheffler Shakes Off the Rust at The Memorial",
-          "body": "World number one Scottie Scheffler had a rough start at Jack Nicklaus's Memorial Tournament — we're talking nearly-missed-the-cut rough — but he flipped the switch in the weather-delayed third round and reminded everyone why he's the best player on the planet. Apparently his caddie saw it coming before the rest of us did, dropping some cryptic confidence on Saturday that aged very well. Never panic on Scheffler; the man has a nasty habit of making comebacks look routine.",
-          "tag": "Comeback"
-        },
-        {
-          "headline": "Poston and Gerard Share the Memorial Spotlight",
-          "body": "J.T. Poston and Ryan Gerard are knotted up at the top of the Memorial leaderboard after a weather-shortened third round made a mess of the weekend schedule. Gerard is the newer name here and will have plenty of eyes on him to see if he can hold his nerve with Scheffler lurking. Sunday's finish should be a good one — assuming the weather cooperates, which, at this Memorial, feels like a big ask.",
-          "tag": "Standings"
         }
       ]
     }
