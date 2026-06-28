@@ -1,24 +1,14 @@
 {
-  "generatedAt": "2026-06-09T14:34:24.509Z",
-  "intro": "Hey, welcome back to **The Weekly Rundown** — grab a snack, get comfortable, and maybe say a little prayer for Eric Weddle's knees while you're at it. It's been one of *those* weeks in sports, from Monaco to the French Open to a Knicks fan in New York who definitely did not calm down and we would not have it any other way.",
+  "generatedAt": "2026-06-28T13:11:38.293Z",
+  "intro": "Hey, welcome back to The Weekly Rundown, where we've got everything from courtroom drama in Monaco to a Wimbledon champion's world getting flipped upside down — yeah, it's been *that* kind of week. Grab a snack, because the Jets are finally being put to work, the Cubs brought a broom to New York, and Rory McIlroy apparently has a golden ticket that's rubbing some people the wrong way.",
   "sections": [
     {
       "sport": "NFL",
       "stories": [
         {
-          "headline": "Eric Weddle's Body Is Still Sending Him the Bill From That 2022 Comeback",
-          "body": "Remember when Eric Weddle came out of retirement to play in the playoffs for the Rams and everyone thought it was the coolest thing ever? Well, years later, Weddle says he's still physically feeling the effects — and he wants Aaron Donald to take notes before even thinking about lacing them back up. Consider it a cautionary tale from one legend to another.",
-          "tag": "Player News"
-        },
-        {
-          "headline": "Kyler Murray to the Vikings? OTAs Are Already Pointing to a Frontrunner",
-          "body": "Things are moving fast in Minnesota, where Kyler Murray appears to be separating himself from the pack at quarterback during OTAs. It's early, sure, but when one guy is already standing out this clearly in offseason workouts, the writing tends to stay on the wall. Vikings fans have been starved for a real QB answer — this one's worth watching closely.",
-          "tag": "Training Camp"
-        },
-        {
-          "headline": "The Browns Get Primetime Love — But Only in the Preseason, Lol",
-          "body": "Cleveland got some scheduling news this week, and in classic Browns fashion, it comes with a catch — they're getting primetime exposure in the preseason, not the regular season. It's the kind of thing that feels like a participation trophy, but hey, a spotlight is a spotlight. Maybe they'll use it to prove the league wrong before the real games even start.",
-          "tag": "Scheduling"
+          "headline": "Jets Fans, Your Offseason Homework Is Due",
+          "body": "The Jets have been busy this offseason, and cornerback Nahshon Wright is already hyping up the moves — always a good sign when the players are excited before a snap is taken. One Jets prospect even cracked an NFL All-UDFA team, which is either a promising sign of depth or a reminder that the roster still has some question marks. Hey, optimism is free.",
+          "tag": "Offseason Moves"
         }
       ]
     },
@@ -26,14 +16,19 @@
       "sport": "NBA",
       "stories": [
         {
-          "headline": "Spike Lee Is Absolutely Not Letting the Knicks' Finals Moment Pass Without a Flex",
-          "body": "New York's most famous superfan is pulling up to Madison Square Garden for Game 3 of the NBA Finals in a pair of Air Jordan 3 PEs, and honestly, what else would you expect? The Knicks are in the Finals, Spike is in rare form, and the fits are going to be must-watch television alongside the actual basketball. MSG hasn't had energy like this in a long, long time.",
-          "tag": "Culture"
+          "headline": "Maliq Brown Lands in San Antonio and Feels Right at Home",
+          "body": "The young forward is settling into the Spurs system, and by all accounts, the fit feels natural — almost like he's been there before. San Antonio has a way of doing that, quietly building a culture that just works for developing talent. Don't sleep on this one.",
+          "tag": "Player Development"
         },
         {
-          "headline": "Dominick Barlow Locked In a Real Contract With Philly — Now Comes the Hard Part",
-          "body": "Barlow did enough in year one to earn himself a standard NBA deal with the Sixers, which is no small thing. But the scouting report has a glaring hole in it, and teams at this level will absolutely exploit it if he doesn't put in the work this offseason. Year two is where we find out if he's a rotation piece or a cautionary tale.",
-          "tag": "Player Development"
+          "headline": "NBA Vet Sounds the Alarm: Treat Caitlin Clark Better or Lose Everything",
+          "body": "An 11-year NBA veteran is speaking up for Clark, arguing that the WNBA is essentially playing with fire by letting the rough treatment of its biggest star continue unchecked. Clark has single-handedly moved the needle for women's basketball in a way nobody else has in years. Biting the hand that feeds you is never a great strategy.",
+          "tag": "Drama"
+        },
+        {
+          "headline": "Bulls Rookie Caleb Wilson Has a List — and It Has Three Names On It",
+          "body": "Wilson isn't shy about his chip on his shoulder after being the fourth pick in the 2026 Draft, and he's already locked in on proving the teams that passed on him wrong. Chicago fans have seen this kind of motivated energy before, and honestly, it's exactly the kind of attitude you want from a young guy entering a rebuild. Bulletin board material, secured.",
+          "tag": "Rookie Watch"
         }
       ]
     },
@@ -41,19 +36,19 @@
       "sport": "MLB",
       "stories": [
         {
-          "headline": "Jordan Hicks Might Be Too Expensive to Keep and Too Bad to Play",
-          "body": "The White Sox could be on the verge of cutting ties with reliever Jordan Hicks, who's been struggling this season and is currently on the IL. Paying $8 million for a reliever is already a tough pill to swallow — paying $8 million for a bad reliever is a whole different kind of pain. Chicago's had a rough go of it lately, so don't be shocked if Hicks gets the DFA stamp when he's cleared to return.",
-          "tag": "Roster Move"
-        },
-        {
-          "headline": "The Cubs Want Tarik Skubal, and Detroit Might Actually Listen",
-          "body": "ESPN floated a Cubs-Tigers trade centered around ace Tarik Skubal, and apparently it's not completely crazy — sources suggest it's a deal Detroit could at least consider. Skubal has been one of the best pitchers in baseball, so if Chicago is serious, they'd better be ready to empty the farm. This one's worth watching as the trade deadline creeps closer.",
-          "tag": "Trade Rumors"
-        },
-        {
-          "headline": "Soroka Saves the D-backs From an Ugly Sunday",
-          "body": "Michael Soroka delivered another quietly impressive outing, helping Arizona beat Washington 5-1 and avoid getting swept at home. Nobody's putting Soroka on a postseason billboard yet, but he keeps showing up when the team needs him most. The D-backs escaped the homestand with their dignity intact — and sometimes that's enough.",
+          "headline": "Cubs Broom the Mets Right Out of Town",
+          "body": "Dansby Swanson and Pete Crow-Armstrong were the stars of the show as Chicago swept New York in four straight, which is the kind of week that makes Cubs fans forget every bad April they've ever lived through. The Mets, meanwhile, are having exactly the kind of season where a four-game sweep feels less like a surprise and more like a Tuesday. More on them in a second.",
           "tag": "Big Win"
+        },
+        {
+          "headline": "Mets Fire Mendoza, But the House Was Already on Fire",
+          "body": "Carlos Mendoza is out as Mets manager, taking the fall for a brutal 34-47 record — but let's be honest, no skipper was steering that roster to a pennant. When your problems are baked into the roster construction, changing the guy in the dugout is more PR move than fix. Mets fans have seen this movie before and they know how it ends.",
+          "tag": "Drama"
+        },
+        {
+          "headline": "Cooper Ingle Earns His Call-Up the Hard Way",
+          "body": "The Cleveland Guardians called up catcher Cooper Ingle this week, and his path to the bigs is a genuinely good story — he committed to a serious nutrition overhaul and locked in on the little stuff between games, and it paid off. The Guardians lineup has been scuffling, so they could use the fresh energy. Here's hoping the kid gets a hit in his first at-bat so we can all feel good about it.",
+          "tag": "Debut"
         }
       ]
     },
@@ -61,19 +56,19 @@
       "sport": "College Sports",
       "stories": [
         {
-          "headline": "Longhorns and Ducks Bring the Heat to Austin's Super Regional Showdown",
-          "body": "Texas and Oregon square off in the NCAA Baseball Super Regionals tonight on ESPN, with the Longhorns playing in their own backyard at UFCU Disch-Falk Field — which is about as home-field-advantage as it gets. If you're a college baseball fan and you're not watching this, what are you even doing with your evening?",
-          "tag": "Big Game"
+          "headline": "Brendan Sorsby Finds Every Pro Football Door Locked After Betting Scandal",
+          "body": "Texas Tech QB Brendan Sorsby, who admitted to gambling on his own college team, has now been shut out of both the NFL and the CFL — so pretty much every professional football option on the continent is off the table. It's a stunning fall for a guy who had real pro prospects, and a pretty clear message from both leagues that this kind of thing is a hard line. The story keeps getting worse with every news cycle.",
+          "tag": "Drama"
         },
         {
-          "headline": "Kentucky Just Landed Its Most Hyped Transfer and He's Already in the Building",
-          "body": "Milan Momcilovic pulled out of the NBA Draft, signed with Kentucky, and apparently the whole city of Lexington collectively lost its mind — in the best way. The Iowa State transfer is expected to bring serious scoring punch to a Wildcats squad that's already licking its chops heading into next season.",
-          "tag": "Transfer News"
+          "headline": "UVA's Athletic Department Is Getting Put on Blast by Its Own Lacrosse Coach",
+          "body": "Lars Tiffany, one of the most successful lacrosse coaches in the country, is taking UVA to court — and the details of his lawsuit are painting a pretty unflattering picture of how the athletic department operates behind the scenes. Whatever the legal outcome ends up being, this kind of internal dispute going public is never a good look for a program. Grab some popcorn, because this one's going to be messy.",
+          "tag": "Drama"
         },
         {
-          "headline": "AJ Ferrari Wants to Wrestle Alongside His Brother — and That's Actually Pretty Wholesome",
-          "body": "Former NCAA wrestling champion AJ Ferrari entered the transfer portal and is now saying his top priority is landing at the same school as his brother for his final college season. It's a sweet storyline in a sport that doesn't get nearly enough attention, and whatever program pulls this off is getting a serious weapon on the mat.",
-          "tag": "Transfer News"
+          "headline": "New Mexico State's 2026 Schedule Is Here — Time to Get to Know the Aggies",
+          "body": "New Mexico State heads into 2026 for Tony Sanchez's third season at the helm, and we've got a full breakdown of every opponent they'll face this fall. The Aggies have been quietly building something in Las Cruces, so this is a good time to get familiar with the schedule and see what kind of tests are coming their way. Could be a make-or-break year for the Sanchez era.",
+          "tag": "Season Preview"
         }
       ]
     },
@@ -81,14 +76,19 @@
       "sport": "Soccer/EPL",
       "stories": [
         {
-          "headline": "Eriksen Collapses Again — But He's Okay, And We Can Breathe",
-          "body": "Christian Eriksen gave everyone a serious case of déjà vu when he collapsed during Denmark's friendly against Ukraine on June 7 — five years almost to the day after his terrifying cardiac arrest at Euro 2020. The good news: he was conscious and reportedly feeling okay given the circumstances. This guy has already cheated death once, so here's hoping this was just a scare and nothing more serious.",
-          "tag": "Health Scare"
+          "headline": "Is the World Cup Slowly Killing the Game It's Supposed to Celebrate?",
+          "body": "There's a growing chorus of voices worried that football's biggest stage is actually doing long-term damage to the sport itself — think commercialization, bloated formats, and the slow creep of American sports entertainment culture. Whether you think that's alarmist or overdue criticism probably depends on how you felt watching the 2026 tournament. Either way, it's a conversation that isn't going away.",
+          "tag": "Opinion/Drama"
         },
         {
-          "headline": "World Cup vs. Olympics: The Age-Old Debate Gets a Utah Twist",
-          "body": "With Utah gearing up to host the 2034 Winter Olympics, locals are apparently weighing in on whether the World Cup — also coming to the US — is a bigger deal than the Games. Spoiler: soccer fans will tell you it's not even close, while everyone else will disagree loudly. It's the kind of debate that has no right answer but makes for a great argument at the pub.",
-          "tag": "Big Picture"
+          "headline": "Alexi Lalas Is Terrible at His Job — and Fox Sports Couldn't Be Happier",
+          "body": "If you've been watching the World Cup on Fox and wondering how Alexi Lalas keeps getting microphone time despite being almost aggressively wrong about everything, the answer is: that's kind of the whole point. Fox doesn't want nuanced tactical breakdowns — they want loud, quotable, argument-starting television, and Lalas delivers that in spades. Love him or hate him, you're still talking about him.",
+          "tag": "Media/Opinion"
+        },
+        {
+          "headline": "Spurs Snag a Goalkeeper — So Kinsky Can Finally Take the Wheel",
+          "body": "Tottenham have quietly signed Martin Dubravka as their fourth summer addition, and the move is less about Dubravka himself and more about what it signals: Antonin Kinsky is now the guy between the sticks at Spurs. Bringing in a veteran backup to take the pressure off a young starter is smart squad building, assuming Ange's lot can stay healthy long enough to test the theory.",
+          "tag": "Transfer News"
         }
       ]
     },
@@ -96,9 +96,19 @@
       "sport": "F1",
       "stories": [
         {
-          "headline": "Antonelli Owns Monaco — But Did He Lock Up the Title Too?",
-          "body": "Kimi Antonelli rolled into Monte Carlo already sitting pretty at the top of the drivers' standings, and the Monaco Grand Prix was his chance to really put some distance between himself and the rest of the field. Whether he converted that opportunity is the big talking point this week — and if he did, the championship picture is starting to look less like a race and more like a coronation. Keep an eye on that gap heading into the next round.",
-          "tag": "Standings"
+          "headline": "Monaco's Result Isn't Over — See You in Court",
+          "body": "Turns out finishing a race doesn't necessarily mean you've won it. Two teams are taking their Monaco grievances to the courts just as the paddock rolls into Austria, which is either a bold legal strategy or the most dramatic way to spend a race week. The Styrian Mountains are lovely this time of year — less lovely when your lawyers are busy filing paperwork.",
+          "tag": "Drama"
+        },
+        {
+          "headline": "Le Mans Legend Gets His Shot in an F1 Car",
+          "body": "Ryo Hirakawa, who has essentially done everything you can do in endurance racing, is stepping into Esteban Ocon's Haas seat for his first 2026 grand prix outing. It's a fun crossover moment — the kind of driver who's spent years mastering 24-hour slogs now has to recalibrate his brain for 90-minute sprints. No pressure, but everyone's watching.",
+          "tag": "Driver News"
+        },
+        {
+          "headline": "Austria Is On — And the Vibes Are Immaculate",
+          "body": "The Austrian Grand Prix is here, and honestly the Red Bull Ring in the Styrian Mountains might be the most picturesque stop on the entire calendar. It's also one of the shorter, punchier circuits, which tends to produce chaotic, entertaining racing — exactly what the sport needs after a week spent arguing in courtrooms about Monaco.",
+          "tag": "Race Weekend"
         }
       ]
     },
@@ -106,19 +116,9 @@
       "sport": "Tennis",
       "stories": [
         {
-          "headline": "Former College Kid Shnaider Stuns Sabalenka at the French Open",
-          "body": "Diana Shnaider, who was playing college tennis at NC State not that long ago, just knocked out world number one Aryna Sabalenka at Roland Garros — and the tennis world is doing a double take. If she goes all the way, she'd be the first ex-college player to win a women's Grand Slam singles title since 1979, which is the kind of trivia that makes you stop and think about how wild that gap is. College tennis recruiting coordinators everywhere are printing this out and taping it to their office walls.",
-          "tag": "Big Win"
-        },
-        {
-          "headline": "Off the Court Drama: Ukrainian Player Calls for Sanctions Against Shnaider",
-          "body": "Just as Shnaider's run is making headlines for all the right reasons, there's a serious controversy brewing around her. Ukrainian player Oleksandra Oliynykova is publicly urging tennis authorities to sanction Shnaider, alleging she lent her name and presence to a Gazprom-funded event — a Russian state energy company deeply tied to the war effort. It's a reminder that for players from Russia and Ukraine, every tournament exists against the backdrop of a very real and ongoing conflict.",
+          "headline": "Vondrousova Blindsided by Four-Year Ban: 'I Was Completely Broken'",
+          "body": "Just three years after lifting the Wimbledon trophy, Marketa Vondrousova is facing a four-year doping suspension after refusing a drug test last December. She says the news left her feeling utterly destroyed, and honestly, the tennis world is right there with her — this came out of nowhere. Whether you're a fan or a skeptic, a four-year ban is a long time to sit on the sideline and think about what went wrong.",
           "tag": "Drama"
-        },
-        {
-          "headline": "The French Open Men's Final Is On — Here's How to Catch It",
-          "body": "The French Open Men's Final is set for June 7th, so clear your Sunday schedule and find a stream. Check your local listings because coverage is spread across a few channels and platforms depending on your provider. Clay court tennis at its finest — honestly one of the best annual appointments in all of sports.",
-          "tag": "Viewing Guide"
         }
       ]
     },
@@ -126,19 +126,19 @@
       "sport": "NHL",
       "stories": [
         {
-          "headline": "Dylan Larkin Wants Out of Detroit, and Apparently He's Got Options",
-          "body": "Larkin requested a trade from the Red Wings last week, and now three teams are reportedly circling. Detroit fans have been through enough rebuilding cycles to know this stings, but if the relationship is done, it's done — now it's about getting the best return possible.",
+          "headline": "Columbus Is On Fire (And Not The Good Kind)",
+          "body": "Both Zach Werenski and Kirill Marchenko have made it clear they want out of Columbus, which is a rough look for a franchise still trying to convince people the rebuild is going well. The Blue Jackets did snag a promising power forward in the first round, but good luck getting anyone to talk about that when your two best players are basically waving goodbye from the podium.",
           "tag": "Trade Rumors"
         },
         {
-          "headline": "Milan Lucic Hangs 'Em Up After 17 Years of Making People Regret Skating Near Him",
-          "body": "The veteran power forward officially called it a career, closing the book on 17 NHL seasons that included a Stanley Cup with Boston in 2011. His wife Brittany shared some genuinely touching tributes online, and honestly, the outpouring of love is well-deserved — Lucic was one of the last true old-school enforcers the league will see for a while.",
-          "tag": "Retirement"
+          "headline": "Pittsburgh Drafted One Ruck Twin — Now Comes The Awkward Part",
+          "body": "The Penguins took Liam Ruck in the first round, which is great, except now his identical twin Markus is sitting there in round two and the whole thing has the energy of only inviting one sibling to the party. The twins did a joint interview about it, which is either adorable or a very subtle pressure campaign on Pittsburgh's front office — probably both.",
+          "tag": "Draft"
         },
         {
-          "headline": "Larkin Drama Aside, Let's Talk About the Avalanche Falling Apart in the WCF",
-          "body": "Colorado got bounced from the Western Conference Final, and people are asking serious questions about what went wrong for a team that looked like a contender. Meanwhile, the Hurricanes are dealing with their own headaches in goal, so the playoff chaos is very much still alive.",
-          "tag": "Playoff Drama"
+          "headline": "The Wild Watched Round One Like The Rest Of Us, But Bill Guerin Is Cooking",
+          "body": "Minnesota stayed quiet on draft night, passing on a first-round pick, but GM Bill Guerin came out of it sounding like a man with a plan — his 'tomorrow's a new day' quote has big 'I've already made three calls' energy. With the Wild in a pivotal window, expect Guerin to be one of the more active names when the phones start buzzing on day two.",
+          "tag": "Draft"
         }
       ]
     },
@@ -146,19 +146,19 @@
       "sport": "Golf",
       "stories": [
         {
-          "headline": "Nelly Korda Wins the US Women's Open Without Actually Playing That Well — And That's Kind of the Point",
-          "body": "Korda missed 30 greens in regulation at Riviera and still walked away with the U.S. Women's Open trophy, which tells you everything about how mentally locked in she is right now. This wasn't just a win — it's a coronation. The conversation about the face of American women's golf for the next decade starts and ends with her.",
-          "tag": "Big Win"
-        },
-        {
-          "headline": "JT Poston Gets His Moment at the Memorial",
-          "body": "While Korda was stealing the weekend's headlines, J.T. Poston quietly went out and won the Memorial Tournament in a playoff. Poston is one of those guys who doesn't get nearly enough attention for how consistently solid he is, so it's nice to see him break through on a big stage.",
-          "tag": "Big Win"
-        },
-        {
-          "headline": "Six Guys Miss a US Open Qualifier Because of a Medical Emergency at 30,000 Feet",
-          "body": "A group of PGA Tour Americas players missed their final U.S. Open qualifier after a medical emergency forced their flight from Mexico to divert. If that wasn't rough enough, one player — Chris Nido — did make it to the tee but had to play with a friend's clubs after leaving his own behind. Brutal doesn't even begin to cover it.",
+          "headline": "Rory Gets a Special Pass, and Not Everyone Is Happy About It",
+          "body": "The PGA Tour quietly invoked a little-known commissioner's rule to give Rory McIlroy some flexibility around his membership requirements, and predictably, not everyone is thrilled. Billy Horschel — never one to zip it — was among the first to sound off, and suspended players are also speaking up about what they see as a double standard. When you're the Tour's golden boy, apparently the rulebook comes with some fine print.",
           "tag": "Drama"
+        },
+        {
+          "headline": "Ina Yoon Is Running Away With the KPMG, and Nelly Korda Is Chasing",
+          "body": "Ina Yoon holds a five-shot lead heading into the weekend at the KPMG Women's PGA Championship, looking completely unbothered on the biggest stage. Nelly Korda is six back, which is a lot of ground to make up but also exactly the kind of deficit that keeps Saturday interesting. If you're not watching this one, you probably should be.",
+          "tag": "Standings"
+        },
+        {
+          "headline": "Phil Mickelson Allegations Are Serious, and They're Not Going Away",
+          "body": "Investigative golf journalist Alan Shipnuck — who has never shied away from the Phil Mickelson beat — has published a report detailing two incidents in which Mickelson allegedly made unwanted public sexual advances, based on interviews with 19 people. This is a developing and deeply serious story, and it adds to an already lengthy list of controversies surrounding the six-time major champion. We'll be watching how the Tour and sponsors respond.",
+          "tag": "Controversy"
         }
       ]
     }
