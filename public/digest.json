@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-06-28T13:25:48.424Z",
-  "intro": "Hey, welcome back to The Weekly Rundown, where we've got drama, redemption, and a whole lot of chaos to catch you up on! From Jets fans finally getting put to work to Wimbledon royalty taking a shocking fall, this week did *not* come to play.",
+  "generatedAt": "2026-06-28T13:51:50.257Z",
+  "intro": "Hey, welcome back to The Weekly Rundown for the week of June 28th — it's been a *week*, folks. Messi is out here defying physics in his seventh straight World Cup, Giannis is officially a Miami Heat, the Leafs finally got their guy in Gavin McKenna, and Tommy Fleetwood is *done* being everybody's favorite bridesmaid at the Travelers Championship.",
   "sections": [
     {
-      "sport": "NFL",
+      "sport": "Soccer & World Cup",
       "stories": [
         {
-          "headline": "Jets Fans, Your Offseason Homework Is Due",
-          "body": "The Jets have been busy this offseason, and cornerback Nahshon Wright is apparently a fan of what the front office has been up to. One Jets undrafted free agent even cracked an All-UDFA team, which is either a great sign or a very low bar — probably both.",
-          "tag": "Offseason Update"
+          "headline": "Messi Scores in His Seventh Straight World Cup, Because of Course He Does",
+          "body": "Argentina cruised past Jordan 3–1, with Lionel Messi netting his sixth goal of the tournament and becoming the first player ever to score in seven consecutive World Cups. At this point it feels less like a record and more like a personality trait.",
+          "tag": "Big Win"
         },
         {
-          "headline": "Oregon's Defense Is Already Getting Hyped for 2026",
-          "body": "ESPN dropped their top 10 college defensive players entering 2026, and the Ducks landed two names on the list — not bad for a program that's still settling into the Big Ten. If Washington and Finney can stay healthy and hungry, Oregon's defense could be a real headache for opposing offenses this fall.",
-          "tag": "College Preview"
+          "headline": "Iran Eliminated in the Final Seconds by a 3–3 Draw They Weren't Even Playing In",
+          "body": "Algeria and Austria served up an absolute six-goal circus, complete with a stoppage-time equalizer from Sasa Kalajdzic that didn't just tie the match — it simultaneously knocked Iran out of the tournament. Iran had zero control over their own fate in those final seconds, which is genuinely one of the crueler ways to go home from a World Cup.",
+          "tag": "Drama"
         },
         {
-          "headline": "Mizzou Is Betting Big on a Wide Receiver Named Cayden Lee",
-          "body": "Missouri is building out what could be a genuinely dangerous offense in 2026, and All-SEC wideout Cayden Lee is the piece they're counting on to tie it all together. If the Tigers can get consistent production at receiver, their offense might finally live up to the hype fans have been waiting on.",
-          "tag": "Player Spotlight"
+          "headline": "Harry Kane Breaks England's World Cup Scoring Record With His 11th Goal",
+          "body": "England beat Panama 2–0 in their group finale, but the real story was Kane surpassing Gary Lineker to become England's all-time World Cup top scorer with 11 goals. Jude Bellingham also got on the scoresheet, so England head into the knockouts looking sharp — now the only question is whether they can avoid their traditional penalty shootout meltdown.",
+          "tag": "Results"
         }
       ]
     },
@@ -26,109 +26,19 @@
       "sport": "NBA",
       "stories": [
         {
-          "headline": "Maliq Brown Lands in San Antonio and Feels Right at Home",
-          "body": "The Spurs have a knack for making young players feel like they belong, and Maliq Brown is the latest to walk into that culture. Whether it's the coaching staff, the system, or just the Spurs magic, Brown seems to have landed in exactly the right spot to develop. Keep an eye on this one — San Antonio has a way of quietly turning prospects into players.",
-          "tag": "Player Development"
+          "headline": "Giannis Packs His Bags for South Beach in the Offseason's Jaw-Dropper",
+          "body": "The Bucks just blew everything up, shipping two-time MVP Giannis Antetokounmpo to the Miami Heat in a blockbuster deal that includes Tyler Herro, Kel'el Ware, Jaime Jaquez, and a pile of draft picks. Miami gets their franchise cornerstone, but they're already staring down a roster that's thin on depth and short on shooting — so pat yourself on the back, Heat front office, you've got work to do. The league's balance of power just shifted hard, and free agency hasn't even officially opened yet.",
+          "tag": "Trade"
         },
         {
-          "headline": "An NBA Vet Has Thoughts on How the WNBA Is Treating Caitlin Clark",
-          "body": "An 11-year NBA veteran is speaking up for Caitlin Clark, arguing the league is shooting itself in the foot by letting players rough her up without consequence. Clark has single-handedly moved the needle for women's basketball in a way nobody else has, and the concern is that the rough treatment could eventually wear on her. It's a fair point — you don't have the golden goose and then let everyone kick it.",
-          "tag": "Drama"
+          "headline": "LaMelo's Minnesota Moment: Hornets Ship Their Star to the Timberwolves",
+          "body": "Charlotte waved goodbye to LaMelo Ball this week, sending the flashy guard to Minnesota in another trade that's turning the offseason into must-watch TV. It's a big swing for the Timberwolves, who apparently decided Anthony Edwards needed a co-star worthy of the highlight reel. Meanwhile, Hornets fans are left wondering what exactly the rebuild plan looks like from here.",
+          "tag": "Trade"
         },
         {
-          "headline": "Caleb Wilson Is Already Playing Chip-on-Shoulder Ball for the Bulls",
-          "body": "Nothing fuels a rookie like being passed over, and Caleb Wilson is fully locked in on proving the three guys drafted ahead of him wrong. He's already talking about being a game-changer in Chicago, which is exactly the kind of energy a Bulls rebuild needs. Draft slights have a funny way of producing very motivated basketball players.",
-          "tag": "Rookie Watch"
-        }
-      ]
-    },
-    {
-      "sport": "MLB",
-      "stories": [
-        {
-          "headline": "Cubs Broom the Mets Right Out of Town",
-          "body": "Dansby Swanson and Pete Crow-Armstrong put on a show as Chicago swept New York in all four games this week — not exactly what the Mets needed right now. If you're a Cubs fan, this is the kind of week that makes you forget every bad April memory.",
-          "tag": "Big Win"
-        },
-        {
-          "headline": "Mets Fire Mendoza, But the Real Problems Are Way Above His Pay Grade",
-          "body": "Carlos Mendoza is out as Mets manager, but let's be honest — you can't coach your way out of a 34-47 record when the roster itself is the issue. This feels less like a solution and more like ownership doing something visible so they don't have to do something meaningful.",
-          "tag": "Drama"
-        },
-        {
-          "headline": "Cooper Ingle Earns His Call-Up the Hard Way",
-          "body": "The Guardians called up Cooper Ingle this week, and his path to the show is a good one — he overhauled his nutrition and quietly put in the work between games until the organization had to notice. Cleveland's lineup has been struggling, so here's hoping the new guy brings some fresh energy.",
-          "tag": "Debut"
-        }
-      ]
-    },
-    {
-      "sport": "College Sports",
-      "stories": [
-        {
-          "headline": "Brendan Sorsby Has Now Been Rejected By Two Entire Leagues",
-          "body": "Texas Tech QB Brendan Sorsby, who admitted to gambling on his own team's games, has officially been shut out by both the NFL and the CFL — so that's every professional football league on the continent saying a hard pass. At some point the universe is sending a pretty clear message, Brendan. The door isn't just closed, it's locked, deadbolted, and someone slid a couch in front of it.",
-          "tag": "Drama"
-        },
-        {
-          "headline": "UVA's Athletic Department Has Some Explaining to Do",
-          "body": "Lacrosse coach Lars Tiffany's lawsuit against UVA is pulling back the curtain on some eyebrow-raising stuff about how the Cavaliers run their athletic department. Legal filings have a way of surfacing details that nobody in the administration wanted in the headlines, and this one seems to be doing exactly that. Grab some popcorn — this one could get messy before it gets better.",
-          "tag": "Drama"
-        },
-        {
-          "headline": "New Mexico State Is Ready to Show the World What Year Three Looks Like",
-          "body": "The Aggies are heading into their third season under Tony Sanchez, and someone went ahead and broke down every single opponent on their 2026 schedule so you don't have to. Year three is usually when a coach's system really starts to click, so New Mexico State fans might actually have some reasons to feel good heading into fall. Or at least reasons to look at the schedule and feel cautiously optimistic, which is basically the same thing.",
-          "tag": "Season Preview"
-        }
-      ]
-    },
-    {
-      "sport": "Soccer/EPL",
-      "stories": [
-        {
-          "headline": "Is the World Cup Slowly Killing the Game We Love?",
-          "body": "There's a growing chorus of voices worried that football is losing its soul to commercialization, expanding formats, and — yes — American influence. With the 2026 World Cup headed to North America, the hand-wringing is only going to get louder. Whether that's fair criticism or just old-school purists clutching their scarves is a debate worth having.",
-          "tag": "Drama"
-        },
-        {
-          "headline": "Alexi Lalas Is Terrible at His Job — And That's Exactly the Point",
-          "body": "Fox Sports' loudest American football pundit has been getting roasted by pretty much everyone with working ears during this World Cup, but here's the thing: Fox doesn't care, and neither does their target audience. Lalas isn't there to give you nuanced tactical breakdowns — he's there to be the guy at the bar who says something outrageous enough to keep you watching. Annoying? Sure. Effective? Apparently.",
-          "tag": "Hot Take"
-        },
-        {
-          "headline": "Spurs Do Spurs Things, Sign a Backup Keeper as Their Big Summer Move",
-          "body": "Tottenham have completed the signing of Martin Dubravka, which is essentially the club's way of telling Antonin Kinsky he's their guy in goal going forward. It's the fourth signing of Spurs' summer, which sounds productive until you remember they're still Spurs. Burnley, meanwhile, are closing in on Craig Bellamy — yes, that Craig Bellamy — in what is shaping up to be a busy window for the less glamorous clubs.",
-          "tag": "Transfers"
-        }
-      ]
-    },
-    {
-      "sport": "F1",
-      "stories": [
-        {
-          "headline": "Le Mans Legend Ryo Hirakawa Gets His F1 Shot With Haas",
-          "body": "Endurance racing star Ryo Hirakawa — a Le Mans winner, no less — is stepping into Esteban Ocon's Haas seat for a Grand Prix outing in 2026. It's a cool crossover moment for a guy who's been absolutely dominant in long-distance racing, and honestly, if you can survive 24 hours at Le Mans, a Sunday afternoon in F1 probably feels like a quick errand.",
-          "tag": "Driver News"
-        },
-        {
-          "headline": "Monaco's Drama Isn't Over — It's Headed to Court",
-          "body": "Just when you thought the Monaco GP was done and dusted, two teams are lawyering up and pushing to have the final result overturned. F1 is already rolling into Austria's stunning Styrian Mountains for this weekend's race, but the legal battle from the streets of Monte Carlo is very much still alive. Nothing like a courtroom subplot to keep the off-track entertainment going.",
-          "tag": "Drama"
-        },
-        {
-          "headline": "Electric Boats Are Giving F1 a Run for Its Money — On Water",
-          "body": "The E1 Series is quietly building serious buzz, bringing that slick, high-octane Formula 1 energy to open water with electric RaceBirds and destination events that look absolutely wild. It's still early days, but when F1 drivers and big-name stars start showing up to your races, you're clearly doing something right.",
-          "tag": "Around the Sport"
-        }
-      ]
-    },
-    {
-      "sport": "Tennis",
-      "stories": [
-        {
-          "headline": "Wimbledon Champ Vondrousova Hit With Four-Year Ban in Stunning Fall From Grace",
-          "body": "Just three years after lifting the Wimbledon trophy, Marketa Vondrousova is now facing a four-year doping suspension after refusing a drug test back in December. She described herself as 'completely broken' by the news, and honestly, the tennis world is right there with her — nobody saw this one coming. It's a brutal turn for a player who was riding one of the sport's great Cinderella stories.",
-          "tag": "Drama"
+          "headline": "Lakers Lock Up Austin Reaves on a Max Deal Because Apparently He's Worth It Now",
+          "body": "Los Angeles made sure Austin Reaves isn't going anywhere, securing him with a max contract extension ahead of the free agency frenzy that kicks off June 30. Love him or find him inexplicably overpaid, Reaves has carved out a real role in Hollywood and the Lakers clearly weren't risking losing him to someone else. With the Giannis trade reshaping the Western Conference, keeping your reliable pieces locked in is just good business.",
+          "tag": "Contract"
         }
       ]
     },
@@ -136,19 +46,19 @@
       "sport": "NHL",
       "stories": [
         {
-          "headline": "Columbus Is a Mess and Everyone Knows It",
-          "body": "Zach Werenski and Kirill Marchenko have both made it pretty clear they'd like out of Columbus, which is a rough look for a franchise still trying to convince people it's trending upward. The Blue Jackets did add a promising power forward in the first round, but it's hard to celebrate a new piece when two guys already in the building are quietly packing their bags.",
+          "headline": "Toronto Lands Their Guy: Maple Leafs Snag Gavin McKenna No. 1 Overall in Buffalo",
+          "body": "The Maple Leafs did what Maple Leafs fans have been dreaming about for years — actually winning something at the draft. Toronto selected Gavin McKenna with the first overall pick, signaling a serious franchise reset. No pressure, kid, only an entire hockey-obsessed nation watching your every move.",
+          "tag": "Draft"
+        },
+        {
+          "headline": "Carolina Gets Crafty, Scoops Up John Carlson's Rights After the Draft Dust Settles",
+          "body": "The Hurricanes wasted no time making moves, acquiring the rights to veteran defenseman John Carlson from Washington just after the draft wrapped up. The catch? Carlson is reportedly eyeing around $10 million a year, so Carolina better really like the guy. The deal cost them Kyle Masters and pick 192, which feels like a low-risk gamble for a high-reward conversation.",
           "tag": "Trade Rumors"
         },
         {
-          "headline": "Toronto Drafts Its Next Star — Now the Juggling Act Begins",
-          "body": "The Leafs snagged Gavin McKenna, and the fanbase is understandably hyped — the kid looks like a generational talent. But with Auston Matthews and Matthew Knies already locked into the core, Toronto's front office now has a very interesting puzzle to solve around the cap and the roster's long-term shape.",
-          "tag": "Draft"
-        },
-        {
-          "headline": "Pittsburgh Drafted One Ruck Twin — Now They've Got a Family Situation on Their Hands",
-          "body": "The Penguins took Liam Ruck in round one, which is great, but his identical twin Markus is still on the board heading into day two and you can bet Liam has some opinions about where his brother lands. The twins did a joint interview about it, because of course they did, and now the whole hockey world is rooting for Pittsburgh to just go ahead and make it a package deal.",
-          "tag": "Draft"
+          "headline": "The Leafs Aren't Done Yet: Werenski, Bobrovsky, and Maybe Rielly All in the Rumor Mill",
+          "body": "Toronto apparently didn't think one earth-shattering move was enough this week, because rumors are swirling that Zach Werenski and Sergei Bobrovsky could both be headed to Leafs land. Meanwhile, Matthew Knies and Morgan Rielly are reportedly involved in potential transactions, meaning this roster could look very different by the time July is over. Buckle up, Leafs fans — your offseason is somehow already exhausting.",
+          "tag": "Trade Rumors"
         }
       ]
     },
@@ -156,19 +66,119 @@
       "sport": "Golf",
       "stories": [
         {
-          "headline": "Rory Gets a Rule Bended in His Favor, and Not Everyone's Happy About It",
-          "body": "The PGA Tour quietly invoked a commissioner's exemption to give Rory McIlroy relief from membership requirements amid his ongoing personal situation, and predictably, players noticed. Billy Horschel — never one to bite his tongue — was among the first to speak up, and a suspended tour pro also chimed in asking why the rulebook seems a little more flexible depending on who's holding the pen. It's the kind of inside-baseball tour politics that sounds boring until you realize it's basically about whether the stars get to play by different rules.",
-          "tag": "Tour Drama"
-        },
-        {
-          "headline": "Ina Yoon Is Running Away With the KPMG and She Looks Ice Cold Doing It",
-          "body": "Yoon stretched her lead to five shots heading into the weekend at the KPMG Women's PGA Championship, leaving even Nelly Korda — the closest thing women's golf has to a sure thing — sitting six strokes back with serious ground to make up. Yoon's story has some layers to it, including a past ban for rules violations on the KLPGA, which makes her composure under a major spotlight all the more striking. Whether Korda can summon some weekend magic is the big question, but right now Yoon looks like she's playing a different game than everyone else.",
+          "headline": "Tommy Fleetwood Is Tired of Being Golf's Nicest Also-Ran — Leads Travelers by Three",
+          "body": "Forty-one top-10 finishes and zero PGA Tour wins is the kind of stat that keeps a guy up at night, but Tommy Fleetwood looks like a man on a mission after firing a 7-under 63 in the opening round at TPC River Highlands. He's got a three-shot cushion and a whole lot of motivation heading into the weekend. Local crowd favorite Keegan Bradley is lurking, so it won't be a walk in the park — but Fleetwood fans have been waiting a long time for this one.",
           "tag": "Standings"
         },
         {
-          "headline": "Phil Mickelson Allegations Are Serious, and They're Not Going Away",
-          "body": "Journalist Alan Shipnuck — who literally wrote the book on Mickelson — is out with a detailed report alleging that Phil made unwanted sexual advances on multiple occasions, with the reporting backed by interviews with 19 people. The incidents described are lewd and serious, and this isn't coming out of nowhere given Mickelson's already complicated public legacy over the past decade. This one goes well beyond golf drama — it's a significant and troubling story about conduct that deserves more than a footnote.",
-          "tag": "Serious Allegations"
+          "headline": "Drew Nesbitt Shot a 60 and Still Has Something to Prove at the Korn Ferry Memorial Health",
+          "body": "The 31-year-old Canadian opened with an 11-under 60 — yes, 60 — to tie the Panther Creek course record, then kept his foot on the gas to reclaim the lead through three rounds. After 13 Korn Ferry starts without a win, Nesbitt is one good Sunday away from finally breaking through. Carson Young is just one shot back, so the nerves are going to be real today.",
+          "tag": "Standings"
+        },
+        {
+          "headline": "17-Year-Old Miles Russell Won the U.S. Open by Eight Shots and Now He's Just... Playing Amateur Golf Again",
+          "body": "Miles Russell, a teenager, won the U.S. Open by eight strokes at 9-under, earned a PGA Tour card, and had a viral Father's Day moment walking with his dad — all in the span of a week or so. Then he quietly went and played the Northeast Amateur, because apparently that's just how the kid operates. Carson Bertagnole grabbed the early lead there with an 8-under 61, but Russell's presence alone made it the most-watched amateur event of the summer.",
+          "tag": "Big Win"
+        }
+      ]
+    },
+    {
+      "sport": "MLB",
+      "stories": [
+        {
+          "headline": "Nolan Arenado Went Absolutely Nuclear for the Diamondbacks This Week",
+          "body": "Eight home runs. EIGHT. Arenado went 11-for-27 with 15 RBI between June 21-28, which is less a hot streak and more a one-man demolition derby. The NL Player of the Week award feels almost undersized for what he just pulled off.",
+          "tag": "Results"
+        },
+        {
+          "headline": "Mike Woodruff Is Staying in Milwaukee After Accepting His Qualifying Offer",
+          "body": "The offseason drama surrounding Woodruff's future can officially be put to bed — he's taking the qualifying offer and coming back to the Brewers. No blockbuster free agency tour, no mystery suitors, just a done deal that keeps the Milwaukee roster intact heading into next year.",
+          "tag": "Transactions"
+        },
+        {
+          "headline": "Philly Gets the 2026 All-Star Game and Bryce Harper Is Absolutely Thrilled About It",
+          "body": "Philadelphia was officially named the host city for the 2026 MLB All-Star Game, with Harper himself on hand for the announcement alongside Phillies legends. Honestly, if you're going to throw a midsummer baseball party, Citizens Bank Park with a fired-up Philly crowd is not a bad place to do it.",
+          "tag": "Big News"
+        }
+      ]
+    },
+    {
+      "sport": "Tennis",
+      "stories": [
+        {
+          "headline": "Madison Keys Owns Eastbourne: Three Titles and a History Book to Her Name",
+          "body": "World No. 2 Madison Keys did what no one has ever done before — win the Eastbourne Open three times — by taking down Tatjana Maria 7-5, 6-4 in the final. The fun twist? Maria got there by knocking out top seed Jasmine Paolini earlier in the week, so Keys had to beat a legitimate giant-killer to make history. Eastbourne is basically Keys' personal vacation home at this point.",
+          "tag": "Big Win"
+        },
+        {
+          "headline": "Linda Noskova Crashes the Top 10 Party With Berlin Title",
+          "body": "Czech rising star Linda Noskova defeated Jelena Pegula in the Berlin Open final to claim her second career title — and with it, her first-ever Top 10 ranking. She didn't just win a tournament, she kicked the door to the sport's elite right off its hinges. Keep an eye on this one heading into Wimbledon.",
+          "tag": "Big Win"
+        },
+        {
+          "headline": "Davidovich Fokina Finally Gets His Trophy Moment in Mallorca",
+          "body": "Alejandro Davidovich Fokina has been knocking around the tour for years, but this week in Mallorca he finally broke through for his first-ever tour-level title, beating Ethan Quinn in the final. It's the kind of win that makes you genuinely happy for a guy — nobody could accuse him of not putting in the time. Better late than never, ADF.",
+          "tag": "Big Win"
+        }
+      ]
+    },
+    {
+      "sport": "NFL",
+      "stories": [
+        {
+          "headline": "Will Anderson Jr. Gets PAID: Texans Lock Up Their Defensive Nightmare for $150 Million",
+          "body": "Houston didn't mess around, handing edge rusher Will Anderson Jr. a three-year, $150 million extension with a staggering $134 million guaranteed. That's franchise-cornerstone money, and the Texans are clearly betting he's going to terrorize quarterbacks for years to come. Safe to say, opposing offensive lines just got a little more stressed.",
+          "tag": "Signing"
+        },
+        {
+          "headline": "A.J. Brown Heads to Buffalo as the Eagles Cash In a First-Rounder",
+          "body": "The Eagles shipped star wide receiver A.J. Brown to the Buffalo Bills in exchange for a 2028 first-round pick and a 2027 fifth-rounder — a bold move for both sides. Brown slots in as the clear No. 1 receiver in Buffalo, which should have opposing secondaries losing sleep, and Philly gets a nice draft haul to work with. Josh Allen just got a whole lot more dangerous, as if he needed the help.",
+          "tag": "Trade"
+        },
+        {
+          "headline": "Lions Rookie Hit With Torn ACL Before He Even Gets Started",
+          "body": "Detroit's fifth-round pick Kendrick Law suffered a torn ACL during OTAs this week, ending his rookie season before it ever really began — a tough break that no one wants to see. The Lions will have to move on without him, which stings a little extra given how deep teams dig for any edge heading into camp. Here's wishing him a smooth recovery and a fresh shot next year.",
+          "tag": "Injury Update"
+        }
+      ]
+    },
+    {
+      "sport": "F1",
+      "stories": [
+        {
+          "headline": "Lundgaard Turns Road America Into His Personal Highlight Reel",
+          "body": "Christian Lundgaard took the checkered flag at the XPEL Grand Prix in Elkhart Lake, Wisconsin on June 21, piloting the No. 7 to a clean win at one of North America's most beloved road courses. Okay, it's IndyCar, not F1 — but open-wheel racing is open-wheel racing, and a win is a win. Lundgaard continues to be one of the most quietly impressive young talents in single-seater motorsport.",
+          "tag": "Big Win"
+        },
+        {
+          "headline": "Herta's Austrian GP Goes Sideways on Lap 21 — Under a VSC, No Less",
+          "body": "Colton Herta's Formula 2 weekend in Austria ended in frustration after a retirement on Lap 21 of 28, which somehow managed to happen under a Virtual Safety Car — the motorsport equivalent of stubbing your toe while walking carefully. The young American still has plenty to prove in the junior ranks before that F1 dream becomes reality. Tough day at the office, Colton.",
+          "tag": "Drama"
+        },
+        {
+          "headline": "F1 Takes the Week Off — Nothing to See Here, Folks",
+          "body": "There's no F1 race on the books for this weekend, so the grid is somewhere collectively recharging before the second half of the 2026 season kicks back into gear. Think of it as a palate cleanser between courses — the racing calendar giveth and the racing calendar taketh away. Enjoy the break, because things will get hectic again soon enough.",
+          "tag": "Results"
+        }
+      ]
+    },
+    {
+      "sport": "College Sports",
+      "stories": [
+        {
+          "headline": "Joel Klatt Has Opinions About Your Team's QB (And He's Not Shy About It)",
+          "body": "Joel Klatt dropped his top 10 quarterback rankings for the 2026 college football season, and you just know at least three fanbases are currently furious about it. Whether your guy made the list or got snubbed, this is the kind of offseason content that keeps message boards alive in late June.",
+          "tag": "Preview"
+        },
+        {
+          "headline": "EA Sports College Football 27 Drops July 9 — Say Goodbye to Your Free Time",
+          "body": "Mark the calendar: EA Sports College Football 27 hits shelves on July 9, 2026, and the college football offseason just got a whole lot more bearable. Expect a wave of 'my dynasty is already better than your real team' energy flooding social media approximately 48 hours after launch.",
+          "tag": "Gaming"
+        },
+        {
+          "headline": "College Football Hall of Fame Is Sitting There in Atlanta, Waiting for You",
+          "body": "With actual on-field action still a couple months away, the College Football Hall of Fame in Atlanta is out here reminding fans it exists and honestly, fair enough. If you're a football obsessive starved for content right now, there are worse ways to spend an afternoon.",
+          "tag": "Offseason"
         }
       ]
     }
