@@ -96,10 +96,12 @@ async function generateSection(client, sport, rawNews) {
 Here is this week's news for ${sport}:
 ${rawNews}
 
-Write 2-3 stories based ONLY on actual events mentioned above — do not invent anything. For each story:
-- A punchy, specific headline with real names/teams (rewrite with personality, not a generic title)
-- 2-3 sentences of casual commentary. Like a knowledgeable friend catching you up. Light humor welcome.
+The news above was fetched in real time — treat every fact in it as accurate and write directly from it. Write 2-3 stories. For each story:
+- A punchy headline with real names/teams (rewrite with personality)
+- 2-3 sentences of casual commentary, like a knowledgeable friend catching you up. Light humor welcome.
 - A short tag (1-3 words): "Trade Rumors", "Standings", "Injury Update", "Big Win", "Drama", "Results", "Transfer", etc.
+
+Do not hedge, caveat, or say you are uncertain. Just write the stories.
 
 Return ONLY valid JSON, no markdown:
 {
@@ -137,7 +139,7 @@ async function generateIntro(client, sections) {
     messages: [
       {
         role: "user",
-        content: `Write a 2-sentence casual intro for a weekly sports digest called "The Weekly Rundown." Today is ${today}. This week's biggest stories: ${headlines}. Keep it breezy and specific — reference actual events, not generic filler.`,
+        content: `Write a 2-sentence casual intro for a weekly sports digest called "The Weekly Rundown." Use these headlines as your material — treat them as facts and write from them directly: ${headlines}. Keep it breezy and conversational, like a friend kicking off a recap. Do not hedge or say you are uncertain — just write the intro.`,
       },
     ],
   });
