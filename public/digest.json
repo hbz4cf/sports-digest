@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-07-25T14:25:01.334Z",
-  "intro": "Welcome back to The Weekly Rundown, where this week the sports world collectively refused to let us relax — Messi dragged Argentina through another near-death experience to reach the quarterfinals, Karolina Muchova saved match point and turned the final into an all-Czech showdown by sending Coco Gauff home early, and LeBron James is now a 76er, which is officially everyone's problem. Oh, and Philadelphia also decided dropping $90 million on Leo Carlsson from Anaheim wasn't enough chaos for one week, so buckle up — let's get into it.",
+  "generatedAt": "2026-07-25T14:31:47.537Z",
+  "intro": "Messi notched his eighth goal of the tournament but it took a last-gasp Fernández strike to bail Argentina out against Egypt, while over at Wimbledon, Muchová saved match point to break Gauff's heart in an absolute thriller. Elsewhere, Leclerc crashed Antonelli's party at Silverstone, and McClanahan shut the Yankees down as Tampa Bay stretched their AL East lead.",
   "sections": [
     {
-      "sport": "Soccer & World Cup",
+      "sport": "Soccer",
       "stories": [
         {
-          "headline": "Messi Does Messi Things: Argentina Survive a Heart Attack to Reach the Quarters",
-          "body": "Lionel Messi scored his eighth goal of the tournament and Enzo Fernández broke Egyptian hearts with a stoppage-time winner to seal a wild 3-2 comeback for Argentina. Eight goals. In one World Cup. The man is genuinely not human. Pierluigi Collina had to come out and defend the refs afterward because apparently winning dramatically while Messi is on the pitch is now considered suspicious.",
+          "headline": "Messi at Eight: Argentina Survive Egypt Scare on Fernández's Last-Gasp Strike",
+          "body": "Argentina edged Egypt 3-2 with Enzo Fernández scoring in stoppage time, while Messi's goal pushed him to eight for the tournament. Eight goals at 38 years old at a World Cup is not a sentence that should be legal.",
           "tag": "Big Win"
         },
         {
-          "headline": "Mbappé Scores, Sets One Up, Then Limps Off — Because of Course He Does",
-          "body": "France brushed Morocco 2-0 to advance to the semifinals, with Kylian Mbappé making up for a missed first-half penalty by scoring and then teeing up Ousmane Dembélé's goal. The good news: France are through. The bad news: Mbappé was subbed off with what looked like an injury, and now the entire country of France is holding its breath until further notice.",
+          "headline": "Mbappé Makes History, Then Limps Off Against Morocco",
+          "body": "Kylian Mbappé scored twice against Senegal to become France's all-time leading scorer, then left the Morocco quarterfinal with an apparent injury. France's biggest knockout game of the tournament and their best player is suddenly a question mark.",
           "tag": "Injury Update"
         },
         {
-          "headline": "Newcastle and Brentford Are Out Here Shopping While You Were Watching the World Cup",
-          "body": "While everyone's eyes were glued to penalty shootouts and Messi highlights, the Premier League quietly got busy. Newcastle signed Ajax midfielder Sean Steur on a five-year deal, and Brentford brought in veteran striker Callum Wilson on a one-year contract after his West Ham departure. Manchester City also picked up Jeremy Monga from Leicester for up to £10 million, because of course they did.",
+          "headline": "United Shell Out £50M for Andrey Santos as the Summer Spending Spree Hits Full Stride",
+          "body": "Manchester United agreed a £50 million deal with Chelsea for Brazilian midfielder Andrey Santos, while Atlético Madrid paid €40 million for Morten Hjulmand and Newcastle snapped up 18-year-old Ajax midfielder Sean Steur. The World Cup isn't even over and the transfer window is already unhinged.",
           "tag": "Transfer"
         }
       ]
@@ -26,59 +26,19 @@
       "sport": "Tennis",
       "stories": [
         {
-          "headline": "Muchova Saves Match Point, Sends Gauff Packing, and Makes All-Czech Final a Real Thing",
-          "body": "Karolina Muchova pulled off one of the matches of the tournament, beating Coco Gauff 6-2, 1-6, 7-6(12-10) after saving a match point in a tiebreak that felt like it lasted longer than some people's vacations. With Linda Noskova also through to the semis, Wimbledon is now genuinely flirting with an all-Czech women's final, which would be a wild and wonderful story.",
+          "headline": "Muchová Saves Match Point, Breaks Gauff's Heart in Wimbledon Thriller",
+          "body": "Karolína Muchová outlasted Coco Gauff 6-2, 1-6, 7-6(12-10) in a Wimbledon semifinal that nearly went the other way, saving a match point before closing it out in a tiebreak that lasted longer than most people's lunch breaks. With Linda Nosková already through on the other side, an all-Czech Wimbledon final is now a genuine possibility.",
           "tag": "Drama"
         },
         {
-          "headline": "Osaka Stuns Sabalenka, Kostyuk Rolls Paolini — The Women's Draw Is Wide Open",
-          "body": "Naomi Osaka knocked off Aryna Sabalenka in a legit upset, making it four wins over Sabalenka on the year in what is becoming a very personal rivalry. Meanwhile, Marta Kostyuk dismantled Jasmine Paolini 6-3, 6-2 to reach her first Wimbledon semifinal — the bottom half of the draw basically handed out chaos this week.",
+          "headline": "Djokovic Survives Five-Set War With Auger-Aliassime, Sinner Looms",
+          "body": "Novak Djokovic edged Félix Auger-Aliassime 7-6, 3-6, 6-3, 6-7, 7-6 in one of the tournament's longest matches, with the final two tiebreaks alone enough to age you visibly. Jannik Sinner is up next, so Djokovic gets approximately zero time to recover.",
           "tag": "Big Win"
         },
         {
-          "headline": "Djokovic Grinds Out Another Five-Set Thriller to Book Semifinal No. 8 in a Row",
-          "body": "Novak Djokovic survived Felix Auger-Aliassime in a five-set marathon — including back-to-back tiebreaks in the fourth and fifth sets — to reach his eighth consecutive Wimbledon semifinal, which is an absolutely absurd stat. Jannik Sinner is also still standing, so the Djokovic-Sinner showdown everyone wants is still very much on the table, even if both men pulled out of the Montreal hardcourt event starting August 1st to keep themselves fresh.",
+          "headline": "Osaka Stuns Sabalenka, Mboko Knee Injury Adds to Women's Draw Chaos",
+          "body": "Naomi Osaka knocked out world No. 1 contender Aryna Sabalenka at Wimbledon, blowing the women's draw wide open just as the business end of the tournament arrives. Meanwhile, Victoria Mboko — ranked No. 10 in the world — withdrew from the Canadian Open with a knee injury, giving the chaos a little extra seasoning.",
           "tag": "Results"
-        }
-      ]
-    },
-    {
-      "sport": "NBA",
-      "stories": [
-        {
-          "headline": "LeBron Takes His Talents to Philly — The 76ers Just Became Everybody's Problem",
-          "body": "LeBron James left the Lakers and signed with Philadelphia, and honestly, the rest of the Eastern Conference should be very nervous right now. Pair him with Jaylen Brown, who was traded from Boston in a blockbuster deal that sent Paul George and draft picks to the Celtics, and the Sixers went from question mark to legitimate title threat in about 72 hours. Someone in the Lakers front office is having a very bad week.",
-          "tag": "Drama"
-        },
-        {
-          "headline": "Giannis Packs His Bags for South Beach — Milwaukee's Era Is Officially Over",
-          "body": "Giannis Antetokounmpo has been traded to the Miami Heat, closing the book on one of the most loyal superstar runs in recent NBA history and instantly making Miami a monster in the East. The Heat now have one of the most terrifying frontcourt situations in the league, and Pat Riley somewhere is absolutely cackling. Milwaukee fans, pour one out — it was a great ride.",
-          "tag": "Trade"
-        },
-        {
-          "headline": "Donovan Mitchell Stays a Cavalier, Vegas Is Buzzing, and Kyle Lowry Hangs It Up",
-          "body": "Donovan Mitchell locked in a 4-year, $273 million extension with Cleveland, which is the kind of money that makes you feel very good about your life choices. Meanwhile, Summer League is in full swing in Vegas with top prospects like Darryn Peterson and A.J. Dybantsa turning heads, and the NBA is even testing a wild new one-free-throw rule to keep things moving. Oh, and Kyle Lowry retired after 20 years — a true legend who deserves his flowers.",
-          "tag": "Roster Move"
-        }
-      ]
-    },
-    {
-      "sport": "NHL",
-      "stories": [
-        {
-          "headline": "Philly Throws a $90 Million Hand Grenade at Anaheim Over Leo Carlsson",
-          "body": "The Flyers didn't come to play nice this offseason — Philadelphia tendered a massive 5-year, $90 million offer sheet to Ducks center Leo Carlsson, putting Anaheim on the clock to match or lose their guy. This is the kind of chaos that makes July in hockey genuinely fun, and now all eyes are on the Ducks to see if they blink.",
-          "tag": "Drama"
-        },
-        {
-          "headline": "NHL Free Agency Day 1 Was an Absolute Money Bonfire — $862 Million Gone Before Lunch",
-          "body": "Teams collectively torched over $862 million in salary commitments on the very first day of free agency, and that's not even counting entry-level or minor-league deals. Among the highlights, the Devils locked up captain Nico Hischier on a 5-year, $58.5 million extension, making sure their cornerstone isn't going anywhere. It's the most wonderful, wallet-destroying time of the year.",
-          "tag": "Signings"
-        },
-        {
-          "headline": "Bedard Down for Four Months — Blackhawks Offseason Just Got a Lot Less Fun",
-          "body": "Chicago superstar Connor Bedard is heading into shoulder surgery and won't be back for roughly four months, which puts a serious damper on the Blackhawks' early-season hopes. For a franchise still very much in rebuild mode and built around Bedard's star power, this is about the last thing they wanted to hear heading into the fall.",
-          "tag": "Injury Update"
         }
       ]
     },
@@ -86,19 +46,19 @@
       "sport": "F1",
       "stories": [
         {
-          "headline": "Leclerc Does It Again: Ferrari's Man Steals Silverstone in Late Drama",
-          "body": "Charles Leclerc took the checkered flag at the British Grand Prix, giving Ferrari their second win in three races and ending Leclerc's personal drought stretching all the way back to 2024. George Russell and Lewis Hamilton rounded out the podium, which means yes, Hamilton is now on the Ferrari podium at his home circuit — go ahead and sit with that for a second. A cool, calm Fred Vasseur refused to get carried away about the title fight afterward, which is exactly what you say when you're absolutely thinking about the title fight.",
+          "headline": "Leclerc Crashes Antonelli's Party at Silverstone",
+          "body": "Charles Leclerc won the British Grand Prix under a safety-car finish, while championship leader Kimi Antonelli failed to score a single point. Antonelli still leads on 179 points, but his cushion over Russell and Hamilton just got a lot less comfortable.",
           "tag": "Big Win"
         },
         {
-          "headline": "Antonelli's Silverstone Weekend Went From Perfect to Painful Real Fast",
-          "body": "Kimi Antonelli had the kind of weekend that looked like a masterclass right up until it wasn't — sprint win, pole position, and then zero points after his race fell apart in the closing stages. Mercedes stepped up and accepted blame for the DNF, which is honorable, but it doesn't stop Antonelli's championship lead from quietly shrinking. He's still on top in the standings, but rivals are circling and the reliability question mark over Mercedes is becoming a very loud headline.",
+          "headline": "Verstappen Calls Red Bull's Wing 'Super-Dangerous' After Crashing Out",
+          "body": "Max Verstappen didn't mince words after a rear-wing failure sent him out of the British GP while he was fighting for a podium, and Red Bull reportedly understood his anger. Nothing says team harmony like your driver describing your car as a safety hazard on race weekend.",
           "tag": "Drama"
         },
         {
-          "headline": "Verstappen Calls Red Bull's Wing 'Super-Dangerous,' Horner Waltzes Back Into the Paddock",
-          "body": "It was a rough Sunday for the Red Bull corner of the paddock: Max Verstappen crashed out while fighting for a podium and didn't hold back, calling the team's rear wing setup flat-out dangerous. Meanwhile, Christian Horner made his first paddock appearance since being dismissed from Red Bull, with rumblings that a fuller return could happen if the right opportunity comes along. One ex-Red Bull man crashing out, another one showing back up — Silverstone had absolutely no shortage of storylines.",
-          "tag": "Drama"
+          "headline": "FIA Boss Floats V8 Engines and Refuelling for 2031 — Yes, Really",
+          "body": "FIA president Mohammed Ben Sulayem is reportedly considering a return to V8 engines starting in 2031, potentially with refuelling and an independent engine supplier. Whether this is a bold vision or a nostalgia trip dressed up as a rulebook remains to be seen.",
+          "tag": "Regulations"
         }
       ]
     },
@@ -106,59 +66,59 @@
       "sport": "MLB",
       "stories": [
         {
-          "headline": "Ohtani Hits 300, Verlander Hangs 'Em Up — It's a Week of MLB Legends",
-          "body": "Shohei Ohtani reached 300 career home runs this week, because apparently being the best player on the planet wasn't enough of a legacy already. Meanwhile, Justin Verlander announced he'll retire after the 2026 season, giving baseball fans the rest of the summer to properly appreciate one of the all-time great arms before he walks off into the sunset.",
-          "tag": "Milestone"
-        },
-        {
-          "headline": "Orioles Are Scorching Hot and the AL East Is Officially a Mess",
-          "body": "Baltimore swept the Astros and rattled off seven straight wins, while the Red Sox turned around and swept first-place Tampa Bay in four games — so yeah, the AL East is a complete circus right now and we're here for every second of it. The Yankees, because they cannot help themselves, dropped two of three and watched the Twins pour six home runs on them in an 11-4 beatdown, with Josh Bell going deep twice just to really twist the knife.",
+          "headline": "McClanahan Shuts Down the Yankees as Tampa Bay Widens AL East Lead",
+          "body": "Shane McClanahan threw 6 1/3 scoreless innings and Jonathan Aranda drove in all three runs as the Rays blanked New York 3-0, pushing their AL East lead further over a Yankees team that also got ejected out of another loss. Aaron Boone and bench coach Brad Ausmus were tossed in the process, which is one way to sum up New York's week.",
           "tag": "Standings"
         },
         {
-          "headline": "Yamamoto Shuts Down the Padres and It Isn't Even Close",
-          "body": "Yoshinobu Yamamoto went seven innings, struck out 10, and threw a shutout against San Diego in a 3-0 Dodgers win, because the Padres needed an eighth straight loss like they needed a hole in their playoff hopes. At this point the Dodgers are just lapping the field and Yamamoto is looking like one of the nastiest arms in baseball.",
+          "headline": "Pete Crow-Armstrong Becomes MLB's First 20/20 Man of 2026",
+          "body": "Pete Crow-Armstrong hit his 20th homer and swiped his 20th bag this week, becoming the first player in MLB to hit the 20/20 mark this season — all while the Cubs were busy beating Baltimore 9-7 in a game that featured nine total home runs. Subtle week for the sport.",
+          "tag": "Milestone"
+        },
+        {
+          "headline": "Red Sox Win Streak Hits 13 as Devers Walks It Off",
+          "body": "Boston's hot streak rolled to 13 games on Friday when Rafael Devers delivered a walk-off win to close out the week. The Red Sox have quietly become the most dangerous team nobody is talking about.",
           "tag": "Big Win"
         }
       ]
     },
     {
-      "sport": "College Sports",
+      "sport": "NBA",
       "stories": [
         {
-          "headline": "The NCAA Finally Blew Up the Eligibility Rulebook — Here's What Changed",
-          "body": "The NCAA approved a sweeping Division I eligibility overhaul this week, moving to a five-year/five-season model and tossing out redshirts and waivers entirely. Love it or hate it, it's the cleanest the system has looked in years — no more jumping through hoops for an extra year of eligibility. Players and coaches are still processing what this means, but the era of the redshirt year as we knew it is officially over.",
-          "tag": "Big News"
+          "headline": "Mitchell Stays in Cleveland, Cashes Out to the Tune of $273 Million",
+          "body": "Donovan Mitchell locked in a 4-year, $273 million extension with the Cavaliers, making it very official that he is not going anywhere. Cleveland fans can breathe — their guy is home.",
+          "tag": "Signing"
         },
         {
-          "headline": "Iowa State and BYU Are Playing Spoiler All Over the Big 12",
-          "body": "No. 9 Iowa State survived a thriller against UCF, punching in the go-ahead touchdown with just 30 seconds left to stay unbeaten. Meanwhile, No. 13 BYU is sitting pretty at 7-0 and 4-0 in Big 12 play after edging Oklahoma State by that same 38-35 score — somebody stop these two. The Big 12 chaos is very much alive and well, and both teams are making a serious case for the College Football Playoff conversation.",
-          "tag": "Big Win"
-        },
-        {
-          "headline": "Kansas Is Putting Crypto on Its Jerseys and Yes, This Is Real Life",
-          "body": "Kansas announced a partnership with Ripple this week, making it the first major college athletics program to slap a cryptocurrency logo on team uniforms. Say what you will about the NIL era, but nobody had 'crypto patch on the Jayhawks' on their bingo card. Whether this is a brilliant revenue play or the most 2026 thing imaginable is honestly a matter of perspective.",
+          "headline": "LeBron James Is Still a Free Agent and Somehow That's Not the Weirdest Story This Week",
+          "body": "LeBron is still weighing his options with interest from the 76ers, Warriors, Clippers, Raptors, and Timberwolves all in the mix heading into late July. Meanwhile, Mark Cuban is literally suing the Mavericks over the Luka trade, so the league is keeping itself busy.",
           "tag": "Drama"
+        },
+        {
+          "headline": "Brunson's Wrist Is Fixed, Knicks Fans Can Exhale",
+          "body": "Jalen Brunson had wrist surgery but ESPN reports he'll be ready for the start of the season after returning to basketball activities this summer. New York dodged a big one.",
+          "tag": "Injury Update"
         }
       ]
     },
     {
-      "sport": "NFL",
+      "sport": "NHL",
       "stories": [
         {
-          "headline": "Mahomes Is Coming Back, and Denver Better Be Ready",
-          "body": "Patrick Mahomes had surgery to repair both an ACL and LCL, which sounds like the kind of injury that would sideline a normal human for a year — but this is Mahomes, and he's targeting the September 14th game against the Broncos as his return date. No pressure, Denver, but you're about to be Patient Zero for the Mahomes comeback tour.",
-          "tag": "Injury Update"
-        },
-        {
-          "headline": "Travis Hunter Is Healthy, and the NFL Should Be Nervous",
-          "body": "The most hyped rookie in recent memory is expected to be fully cleared when training camp kicks off, meaning Travis Hunter is about to go from highlight reel to actual NFL field in a hurry. If he's even half as electric in real games as he was in college, a lot of defensive coordinators are going to have a very long season.",
-          "tag": "Injury Update"
-        },
-        {
-          "headline": "The Terrion Arnold Situation Is About as Bad as It Gets",
-          "body": "The Lions released cornerback Terrion Arnold after he was hit with felony kidnapping and robbery charges, and he's now cleared waivers to become a free agent. There's not a lot of light humor to squeeze out of this one — it's a serious legal situation and a stunning fall for a young player who had real promise in Detroit.",
+          "headline": "Philly Throws a $90M Grenade at Anaheim: Leo Carlsson Offer Sheet Is Wild",
+          "body": "The Flyers slapped a 5-year, $90 million offer sheet on Anaheim's Leo Carlsson, giving the Ducks seven days to match or lose their guy. Philadelphia is clearly done being polite about rebuilding.",
           "tag": "Drama"
+        },
+        {
+          "headline": "Hischier Stays, Nemec Leaves: New Jersey Had a Busy Week",
+          "body": "Nico Hischier locked in a 5-year, $58.5M extension to stay in New Jersey, while the Devils shipped Simon Nemec to Calgary, where he immediately landed a 5-year, $36.25M deal. One house cleaned up, one quietly emptied.",
+          "tag": "Signings"
+        },
+        {
+          "headline": "Toronto Drafts Gavin McKenna First Overall and Wastes Zero Time",
+          "body": "The Leafs took McKenna No. 1 overall and signed him to a 3-year entry-level contract before the confetti settled. Dallas' Jason Robertson, meanwhile, is still unsigned — so not everyone had a clean week.",
+          "tag": "Draft"
         }
       ]
     },
@@ -166,19 +126,59 @@
       "sport": "Golf",
       "stories": [
         {
-          "headline": "Gotterup Goes Scorched Earth With a 62 to Win the John Deere Classic",
-          "body": "Chris Gotterup closed with a Sunday 62 — yes, a 62 — to finish at 20-under and steal the John Deere Classic by one stroke. It's his third win of the year, and he's now the first golfer in over 40 years to post three wins in a single PGA Tour season with a final round of 64 or better in each of them. The man is literally incapable of a boring Sunday.",
+          "headline": "Gotterup Goes Nuclear at John Deere, Shoots 62 to Claim Third Win of the Year",
+          "body": "Chris Gotterup closed with a blistering 62 to finish at -20 and win the John Deere Classic, his third PGA Tour victory this season. Three wins before August is the kind of thing that makes people start throwing around words like 'Player of the Year.'",
           "tag": "Big Win"
         },
         {
-          "headline": "Hovland Outlasts Scheffler in a Playoff to Take the Travelers Championship",
-          "body": "Viktor Hovland beat world number one Scottie Scheffler in a playoff to claim the Travelers Championship, wrapping things up on a Monday finish for his eighth PGA Tour victory. Beating the best player on the planet when you need it most is a pretty good calling card, and Hovland made it look almost casual.",
-          "tag": "Big Win"
+          "headline": "Fox Birdies 18 to Steal The Open, Cameron Young Heartbroken Again",
+          "body": "Fox birdied the final hole to win The Open Championship by one shot over Cameron Young, who is quickly becoming the cruelest bridesmaid in major championship golf. One of these years, Young.",
+          "tag": "Results"
         },
         {
-          "headline": "Ryu Crashes Korda's Party to Win the KPMG Women's PGA Championship",
-          "body": "Haeran Ryu claimed her first major title at the KPMG Women's PGA Championship, spoiling what could have been another milestone moment for Nelly Korda. Dewi Weber finished third at 10-under, but this was Ryu's day all the way — first major, and she picked a big one to break through.",
-          "tag": "Big Win"
+          "headline": "Aki Iwai Opens Evian Championship With a Scorching 63, Korda Nowhere to Be Found",
+          "body": "Aki Iwai fired an 8-under 63 to grab a two-shot lead in the opening round of the Evian Championship, while Nelly Korda had a rough start in her bid to bounce back after losing the KPMG. The leaderboard is wide open, but Iwai means business.",
+          "tag": "Standings"
+        }
+      ]
+    },
+    {
+      "sport": "NFL",
+      "stories": [
+        {
+          "headline": "Lions CB Terrion Arnold Cut Loose — And Not Just From Detroit's Roster",
+          "body": "The Lions released Terrion Arnold last week, and now a Florida judge has set a $1 million bond against him in a kidnapping case involving allegations he orchestrated the abduction and pistol-whipping of three people. From starting CB to free agent to bond hearing is quite the offseason arc.",
+          "tag": "Drama"
+        },
+        {
+          "headline": "Kyle Pitts Gets Paid in Atlanta — Three Years, $54 Million to Stay a Falcon",
+          "body": "The Falcons locked up tight end Kyle Pitts on a three-year, $54 million extension that keeps him in Atlanta through 2028. After the injury-riddled stretch Pitts has had, Atlanta is betting he's finally ready to live up to that first-round hype.",
+          "tag": "Contract"
+        },
+        {
+          "headline": "Camps Are Open and Half the League Is Limping Back to Health",
+          "body": "Training camp is officially underway across the NFL, with Bo Nix, George Kittle, Nick Bosa, Travis Hunter, and Malik Nabers among the notable names returning from injuries — Hunter is expected to be fully cleared. Meanwhile, the Jets landed Minkah Fitzpatrick via trade and Trey Hendrickson inked a four-year, $112 million deal, so the offseason spending isn't quite done yet.",
+          "tag": "Injury Update"
+        }
+      ]
+    },
+    {
+      "sport": "College Sports",
+      "stories": [
+        {
+          "headline": "NCAA Blows Up the Eligibility Rulebook With New 5-Year Model",
+          "body": "The NCAA approved a five-season-in-five-year model for Division I athletes and voted to eliminate redshirts and waivers from the eligibility equation. College sports just got a little less confusing, which is honestly its own kind of miracle.",
+          "tag": "Rule Change"
+        },
+        {
+          "headline": "Sorsby Drops Lawsuit, Gets His Injunction, Will Play — What a Week",
+          "body": "Brendan Sorsby's eligibility saga wrapped up with an injunction securing his right to play after Cincinnati accused Texas Tech of tampering and the NCAA sent an inquiry letter. The NFL also confirmed there will be no supplemental draft, so Sorsby is officially a college football problem again.",
+          "tag": "Drama"
+        },
+        {
+          "headline": "Ohio State Lands Jett Harrison, Because One Harrison Apparently Wasn't Enough",
+          "body": "The Buckeyes added 5-star receiver Jett Harrison — yes, Marvin Harrison Jr.'s brother — to their 2027 recruiting class. Ohio State's wide receiver room is becoming a family reunion.",
+          "tag": "Recruiting"
         }
       ]
     }

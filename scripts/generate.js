@@ -12,7 +12,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const RECIPIENT_EMAIL = "hbz4cf@virginia.edu";
 
 const SPORTS = [
-  { name: "Soccer & World Cup", query: "What are the biggest soccer news stories this week? Include FIFA World Cup 2026 updates, major Premier League, La Liga, Champions League news. What matches happened, who scored, any upsets or drama?" },
+  { name: "Soccer", query: "What are the biggest soccer news stories from the past 7 days only? Include only currently active tournaments and leagues. What matches happened this week, who scored, any transfers or breaking news? Do not mention any tournament that has already concluded." },
   { name: "NFL", query: "What are the most important NFL news stories this week? Include trades, signings, training camp news, injuries, and any major developments." },
   { name: "NBA", query: "What are the biggest NBA news stories this week? Include trades, free agency, Summer League, injuries, and major developments." },
   { name: "MLB", query: "What are the most important MLB news stories this week? Include standings, big games, trades, injuries, and notable performances." },
@@ -40,7 +40,7 @@ async function fetchNewsForSport(sport) {
       messages: [
         {
           role: "system",
-          content: `You are a sports news researcher. Today is ${today}. Focus ONLY on news from the past 7 days. Be specific with scores, names, and facts. Do not make things up.`
+          content: `You are a sports news researcher. Today is ${today}. Report ONLY news from the last 7 days. If a tournament ended more than 7 days ago, skip it entirely. Focus on what is actively happening right now. Be specific with scores, names and facts. Do not make anything up.`
         },
         {
           role: "user",
@@ -98,7 +98,7 @@ ${rawNews}
 
 The news above was fetched in real time — treat every fact in it as accurate and write directly from it. Write 2-3 stories. For each story:
 - A punchy headline with real names/teams (rewrite with personality)
-- 2-3 sentences of casual commentary, like a knowledgeable friend catching you up. Light humor welcome.
+- 2 punchy sentences max. Get to the point fast — facts first, one dry observation if it fits naturally. No narrative buildup.
 - A short tag (1-3 words): "Trade Rumors", "Standings", "Injury Update", "Big Win", "Drama", "Results", "Transfer", etc.
 
 Do not hedge, caveat, or say you are uncertain. Just write the stories.
@@ -139,7 +139,7 @@ async function generateIntro(client, sections) {
     messages: [
       {
         role: "user",
-        content: `Write a 2-sentence casual intro for a weekly sports digest called "The Weekly Rundown." Use these headlines as your material — treat them as facts and write from them directly: ${headlines}. Keep it breezy and conversational, like a friend kicking off a recap. Do not hedge or say you are uncertain — just write the intro.`,
+        content: `Write a 2-sentence casual intro for a weekly sports digest called "The Weekly Rundown." Use these headlines as your material — treat them as facts and write from them directly: ${headlines}. 2 sentences max. Lead with the biggest story, mention one other. Be direct and punchy — no scene-setting, no buildup. Do not hedge.`,
       },
     ],
   });
@@ -149,7 +149,7 @@ async function generateIntro(client, sections) {
 
 function digestToHtml(intro, sections) {
   const sportIcons = {
-    "Soccer & World Cup": "🏆", NFL: "🏈", NBA: "🏀", MLB: "⚾",
+    "Soccer": "⚽", NFL: "🏈", NBA: "🏀", MLB: "⚾",
     "College Sports": "🎓", F1: "🏎️", Tennis: "🎾", NHL: "🏒", Golf: "⛳",
   };
 
