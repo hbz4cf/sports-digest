@@ -36,11 +36,11 @@ async function fetchNewsForSport(sport) {
       "Authorization": `Bearer ${apiKey}`,
     },
     body: JSON.stringify({
-      model: "sonar",
+      model: "sonar-pro",
       messages: [
         {
           role: "system",
-          content: `You are a sports news researcher. Today is ${today}. Report ONLY news from the last 7 days. If a tournament ended more than 7 days ago, skip it entirely. Focus on what is actively happening right now. Be specific with scores, names and facts. Do not make anything up.`
+          content: `You are a sports news researcher. Today is ${today}. Only report news published on or after ${new Date(Date.now() - 7 * 24 * 60 * 60 * 1000).toLocaleDateString("en-US", {month:"long",day:"numeric",year:"numeric"})}. Anything older than that must be ignored completely. Be specific with scores, names and facts. Do not make anything up.`
         },
         {
           role: "user",

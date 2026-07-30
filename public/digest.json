@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-07-30T12:01:24.636Z",
-  "intro": "Giannis is a Heat, and the NBA is a completely different league now. Meanwhile, Muchová saved a match point and broke Coco Gauff's heart in one of the best Wimbledon semifinals ever played.",
+  "generatedAt": "2026-07-30T12:07:15.200Z",
+  "intro": "LeBron James is a 76er now, and yes, that actually happened. Meanwhile, Messi is out here dismantling World Cup competition one country at a time — ask Egypt how that went.",
   "sections": [
     {
       "sport": "Soccer",
       "stories": [
         {
-          "headline": "Mbappé Misses a Pen, Scores a Goal, France Doesn't Care — Semis Bound",
-          "body": "France beat Morocco 2-0 in Boston, with Mbappé shaking off a first-half penalty miss to score and set up Dembélé's goal. Les Bleus are in the World Cup semifinals and apparently unbothered by small setbacks.",
+          "headline": "Messi Is Breaking the World Cup and Egypt Found Out the Hard Way",
+          "body": "Argentina trailed Egypt 2-0 before Messi scored his eighth goal of the tournament and Enzo Fernández buried a stoppage-time winner to complete the 3-2 comeback. Messi has now scored in nine consecutive World Cup matches for Argentina and leads the Golden Boot race — at this point it's less a tournament and more a highlight reel.",
           "tag": "Big Win"
         },
         {
-          "headline": "Messi at Eight Goals, Argentina Survives Egypt on a Last-Gasp Enzo Winner",
-          "body": "Enzo Fernández's stoppage-time goal gave Argentina a 3-2 win over Egypt, with Messi now sitting on eight tournament goals because of course he is. FIFA is separately investigating an incident involving streamer IShowSpeed during Argentina's earlier Cape Verde match, which is a sentence that exists in 2026.",
-          "tag": "Results"
+          "headline": "Mbappé Scores, Sets Up a Goal, and Promptly Scares Everyone by Limping Off",
+          "body": "France beat Morocco 2-0 in the quarter-finals in Boston, with Mbappé missing a penalty before delivering a sublime goal and an assist for Dembélé — then exiting in the 77th minute with an apparent injury. Deschamps now has a semi-final to prepare for and a fitness cloud over his best player.",
+          "tag": "Injury Update"
         },
         {
-          "headline": "Man City Get Their Manager, Newcastle Spend Big — Europe's Transfer Window Is Chaos",
-          "body": "Manchester City confirmed Enzo Maresca on a three-year deal, while Newcastle signed Ajax teen Sean Steur and agreed to a £50M-plus move for Johan Manzambi from Freiburg — all while the World Cup is still going. Atletico Madrid also quietly dropped €40M on Morten Hjulmand from Sporting CP, just to round out the week.",
+          "headline": "Alexia Putellas to London City Lionesses Is the Biggest Women's Transfer Ever, Full Stop",
+          "body": "The two-time Ballon d'Or winner has signed with London City Lionesses in what is being called the most significant signing in the history of women's club football. Manchester City Women also added Niamh Charles from Chelsea on a three-year deal, so the WSL arms race this summer is very much real.",
           "tag": "Transfer"
         }
       ]
@@ -26,18 +26,18 @@
       "sport": "NBA",
       "stories": [
         {
-          "headline": "Giannis Is a Heat Man Now, and the NBA Just Got a Lot More Interesting",
-          "body": "The Bucks shipped Giannis Antetokounmpo and Bobby Portis to Miami in a blockbuster that netted Milwaukee Tyler Herro, Kel'el Ware, Jaime Jaquez Jr., Kasparas Jakucionis, three first-round picks, a pick swap, and a 2033 second-rounder. South Beach has seen some big swings before, but landing a two-time MVP might be the biggest one yet.",
+          "headline": "LeBron James Is a 76er Now, Because Why Not",
+          "body": "LeBron James has officially signed with the Philadelphia 76ers, ending his eight-year run with the Lakers and kicking off a record 24th NBA season with a new team. He reportedly wasn't interested until Boston shipped Jaylen Brown to Philly — so credit the Celtics for accidentally building LeBron's next contender.",
+          "tag": "Transfer"
+        },
+        {
+          "headline": "Giannis Heads to Miami, Eastern Conference Chaos Ensues",
+          "body": "The Milwaukee Bucks have traded Giannis Antetokounmpo to the Miami Heat, with Bucks leadership offering public goodbyes once the deal was done. The Eastern Conference now features Giannis in Miami, LeBron and Jaylen Brown in Philly, and Jalen Brunson recovering from wrist surgery in New York — someone's going to have a very bad April.",
           "tag": "Trade"
         },
         {
-          "headline": "LeBron's 24th Season Is Happening — Just Not in LA",
-          "body": "LeBron James will play a record 24th NBA season, but he's doing it without the Lakers uniform. No word yet on where he lands, but at this point the man is simply refusing to let the story end.",
-          "tag": "Breaking News"
-        },
-        {
-          "headline": "Kyle Lowry Hangs It Up After 20 Years of Pure Grit",
-          "body": "Kyle Lowry announced his retirement, closing the book on a 20-year career that included a championship in Toronto and about a thousand charges taken. He was never the most talented guy on the floor and somehow never cared.",
+          "headline": "Kyle Lowry Hangs It Up After 20 Years",
+          "body": "Kyle Lowry has retired from the NBA, closing out a 20-year career highlighted by delivering Toronto its only championship in 2019. He leaves as the defining point guard of the Raptors era — and the guy Drake has to miss the most.",
           "tag": "Retirement"
         }
       ]
@@ -46,99 +46,19 @@
       "sport": "Tennis",
       "stories": [
         {
-          "headline": "Muchová Saves a Match Point and Breaks Coco's Heart in an All-Time Wimbledon Semifinal",
-          "body": "Karolina Muchová outlasted Coco Gauff 6-2, 1-6, 7-6(12-10) — saving a match point along the way — to reach her first Grand Slam final. A 12-10 tiebreak is the tennis equivalent of overtime, sudden death, and a coin flip all at once.",
+          "headline": "Muchová Saves Match Point, Gatekeeps Gauff Out of Wimbledon Final",
+          "body": "Karolina Muchová beat Coco Gauff 6-2, 1-6, 7-6(12-10) in a tiebreak that had absolutely no business going that long, saving a match point along the way to reach her first Wimbledon final. Linda Nosková is waiting for her there after dispatching Marta Kostyuk 6-4, 6-4, setting up a final with zero former Wimbledon champions in it.",
           "tag": "Drama"
         },
         {
-          "headline": "Djokovic Grinds Out a Five-Set War to Keep His Wimbledon Run Alive",
-          "body": "Novak Djokovic beat Félix Auger-Aliassime 7-6(10), 3-6, 6-3, 6-7(4), 7-6(10-4) in a match that lasted long enough to age you visibly. Another Wimbledon semifinal for Djokovic, because of course it is.",
+          "headline": "Djokovic Grinds Out Five-Set War to Set Up Sinner Semifinal",
+          "body": "Novak Djokovic beat Félix Auger-Aliassime 7-6, 3-6, 6-3, 6-7, 7-6 in a match that required two tiebreaks just to finish, booking his eighth consecutive Wimbledon semifinal where Jannik Sinner — who beat Jan-Lennard Struff in a relatively breezy three sets — is next up.",
           "tag": "Big Win"
         },
         {
-          "headline": "Czech, Please: Muchová and Nosková Set Up an All-Czech Wimbledon Women's Final",
-          "body": "Linda Nosková joined Muchová in the final by dispatching Marta Kostyuk 6-4, 6-4, setting up a Wimbledon women's final that is entirely Czech-made. The country's tennis pipeline is officially not messing around.",
-          "tag": "Results"
-        }
-      ]
-    },
-    {
-      "sport": "MLB",
-      "stories": [
-        {
-          "headline": "Tampa Bay Turns the AL East Into a One-Horse Race",
-          "body": "The Rays shut out the Yankees 3-0 behind Shane McClanahan's 6 1/3 innings, pushing their division lead to five games as New York stumbles to 2-8 over its last ten. The Yankees also dropped an 11-4 embarrassment to Minnesota — who hit six home runs — in the same week, so things are going great in the Bronx.",
-          "tag": "Standings"
-        },
-        {
-          "headline": "Yamamoto Fans 10, Padres Lose Their Eighth Straight",
-          "body": "Yoshinobu Yamamoto struck out 10 over seven innings and Freddie Freeman homered as the Dodgers blanked San Diego 3-0. The Padres have now lost eight in a row, which is the kind of skid that turns a pennant race into a formality.",
-          "tag": "Big Win"
-        },
-        {
-          "headline": "Verlander Plans to Hang It Up After 2026",
-          "body": "Justin Verlander has told The Athletic he intends to retire at the end of this season, closing the book on one of the most decorated careers in modern pitching history.",
-          "tag": "Breaking News"
-        }
-      ]
-    },
-    {
-      "sport": "Golf",
-      "stories": [
-        {
-          "headline": "21-Year-Old Jackson Koivun Beats Scheffler by Three to Win the 3M Open",
-          "body": "Jackson Koivun shot a tournament-record 25-under 259 at the 3M Open to claim his first PGA Tour title, leaving world number one Scottie Scheffler three shots back. Not a bad way to announce yourself.",
-          "tag": "Big Win"
-        },
-        {
-          "headline": "Chris Gotterup Makes It Three: Wins John Deere Classic at 20-Under",
-          "body": "Chris Gotterup took the John Deere Classic at 20-under, edging Max Homa by a shot for his third PGA Tour win of the season. Three wins before August is the kind of form that gets people talking.",
-          "tag": "Big Win"
-        },
-        {
-          "headline": "Haeran Ryu Wins KPMG Women's PGA Championship After Starting 10 Shots Back",
-          "body": "Haeran Ryu claimed her first major at the KPMG Women's PGA Championship, overcoming a 10-shot deficit after the opening round to get it done. Coming from 10 back to win a major is not something that happens very often.",
-          "tag": "Big Win"
-        }
-      ]
-    },
-    {
-      "sport": "NFL",
-      "stories": [
-        {
-          "headline": "Lions DB Terrion Arnold Hits Free Agency While Facing $1M Bond in Kidnapping Case",
-          "body": "Cornerback Terrion Arnold cleared waivers and is now a free agent after the Lions moved on amid his ongoing Florida kidnapping and assault case, where he's been hit with a $1 million bond. Rough week to be on the open market.",
-          "tag": "Drama"
-        },
-        {
-          "headline": "Jets Sign Nahshon Wright, Desperately Trying to Forget That Historically Terrible 2025 Defense",
-          "body": "New York added cornerback Nahshon Wright, who racked up eight takeaways last season, as the Jets look to rebuild a defense that somehow went the entire 2025 season without an interception. The bar is low, Nahshon — clear it.",
-          "tag": "Roster Move"
-        },
-        {
-          "headline": "Vikings Lock In New Front Office as QB Battle Heats Up at Camp",
-          "body": "New GM Nolan Teasley finalized his staff by poaching assistant GMs Trent Kirchner from Seattle and Andrew Healy from Cleveland, while coach Kevin O'Connell is already trying to manage the optics of an open quarterback competition. Lots of new faces in Minnesota, zero settled answers.",
-          "tag": "Roster Move"
-        }
-      ]
-    },
-    {
-      "sport": "F1",
-      "stories": [
-        {
-          "headline": "Leclerc Steals Silverstone, Ferrari Is Very Much Back",
-          "body": "Charles Leclerc took the win at the British Grand Prix after a late safety car bunched the field, giving Ferrari their second victory in three races. Fred Vasseur is busy downplaying the title talk, which is exactly what you do when the title talk is very real.",
-          "tag": "Big Win"
-        },
-        {
-          "headline": "Antonelli's Championship Lead Evaporates at the Worst Possible Time",
-          "body": "Kimi Antonelli came into Silverstone with a sprint race win and a points lead, then left with neither after a disastrous main race dropped him out of the scoring entirely. Mercedes now heads into the Belgian GP under serious standings pressure with their engine upgrade still in the mail.",
-          "tag": "Drama"
-        },
-        {
-          "headline": "Horner's Back in the Paddock and Already Talking His Way Into Headlines",
-          "body": "Christian Horner made his first paddock appearance since departing Red Bull, telling Reuters a full return hinges on whether he can be a winner again. Subtle.",
-          "tag": "Drama"
+          "headline": "Mboko Out of Canadian Open as Knee Gives Way",
+          "body": "Victoria Mboko has withdrawn from the Canadian Open due to a knee injury, cutting her summer hard-court season short before it started.",
+          "tag": "Injury Update"
         }
       ]
     },
@@ -146,19 +66,99 @@
       "sport": "NHL",
       "stories": [
         {
-          "headline": "Flyers Throw $90M at Leo Carlsson, Ducks Say 'Nope'",
-          "body": "Philadelphia hit Anaheim with a massive 5-year, $90 million offer sheet for center Leo Carlsson, and the Ducks matched it without blinking. The Flyers walked away empty-handed, which is a very Flyers way to spend a summer.",
+          "headline": "Ducks Match Flyers' Monster $90M Offer Sheet, Keep Leo Carlsson",
+          "body": "Philadelphia threw a grenade at Anaheim by signing Leo Carlsson to a five-year, $90 million offer sheet — a deal that would've cost the Flyers four draft picks if the Ducks walked away. Anaheim matched it, keeping their franchise center and leaving Philly with nothing but a very expensive lesson.",
           "tag": "Drama"
         },
         {
-          "headline": "Gavin McKenna Goes No. 1 to Toronto — Penn State to the Big Stage",
-          "body": "The Maple Leafs used the top pick in the 2026 NHL Draft on Penn State left wing Gavin McKenna, making him the most famous Nittany Lion since forever. No pressure in the most scrutinized hockey market on earth.",
-          "tag": "Draft"
+          "headline": "Celebrini Signs the Richest Contract in NHL History",
+          "body": "Macklin Celebrini just became the highest-paid player in NHL history on an annual basis, locking up a record-setting deal with the San Jose Sharks. The Sharks also nabbed three first-round picks in the 2026 Draft, so apparently the rebuild is going just fine.",
+          "tag": "Signing"
         },
         {
-          "headline": "Hischier Gets Paid, Bedard Gets Surgery — Devils Win the Week, Blackhawks Don't",
-          "body": "New Jersey locked up captain Nico Hischier on a 5-year, $58.5 million extension, a clean win for a team building toward something real. Meanwhile, Connor Bedard is heading into left shoulder surgery and will miss the start of the season, which is a brutal way to kick off year three.",
+          "headline": "Bobrovsky Bolts to Toronto, Leafs Finally Have a Goalie",
+          "body": "Sergei Bobrovsky left Florida after three straight Stanley Cup Final runs and signed a $21 million deal with the Toronto Maple Leafs, giving them the proven playoff netminder they've been desperately searching for. The Panthers responded by trading for Jacob Markstrom within days, because panicking efficiently is still a skill.",
+          "tag": "Transfer"
+        }
+      ]
+    },
+    {
+      "sport": "NFL",
+      "stories": [
+        {
+          "headline": "Brissett Gets Paid: Cardinals Lock Up Their QB at $15.5 Million",
+          "body": "Jacoby Brissett ended his offseason contract standoff with Arizona, signing a one-year deal worth $15.5 million that can climb to $21 million with incentives. He's the guy in the desert — at least for now.",
+          "tag": "Contract"
+        },
+        {
+          "headline": "Shanahan Still Sidelined as 49ers Camp Opens Without Their Head Coach",
+          "body": "Kyle Shanahan missed the start of San Francisco's training camp while recovering from injuries sustained in a car accident earlier this month. Not exactly the vibe you want heading into a season with Super Bowl expectations.",
           "tag": "Injury Update"
+        },
+        {
+          "headline": "Lions CB Terrion Arnold Hit With $1 Million Bond in Kidnapping and Assault Case",
+          "body": "A Florida judge set a $1 million bond for Detroit cornerback Terrion Arnold after charges stemming from a kidnapping and assault case. The Lions are going to have a lot more to worry about than pass coverage this summer.",
+          "tag": "Drama"
+        }
+      ]
+    },
+    {
+      "sport": "MLB",
+      "stories": [
+        {
+          "headline": "Rays Shut Out Yankees Again, Now Own a Five-Game Cushion in the AL East",
+          "body": "Tampa Bay blanked New York 3-0 on Wednesday to push their AL East lead to five games, with the Rays sitting at 53-36 on the season. The Yankees are 50-41 and running out of room to breathe.",
+          "tag": "Standings"
+        },
+        {
+          "headline": "Trout's Back and Already Hitting Bombs, Because Of Course He Is",
+          "body": "Mike Trout came off the IL this week and immediately hit a two-run homer in his return. Meanwhile, Byron Buxton landed on the 10-day IL with a hip injury, because the baseball gods must maintain balance.",
+          "tag": "Injury Update"
+        },
+        {
+          "headline": "Ohtani Hits 300 Home Runs, Crow-Armstrong Makes History — Just Another Week in MLB",
+          "body": "Shohei Ohtani reached 300 career home runs this week while Pete Crow-Armstrong became the first 20/20 player in MLB this season. Justin Verlander also announced he's retiring after 2026, so the milestone energy was running high.",
+          "tag": "Milestones"
+        }
+      ]
+    },
+    {
+      "sport": "F1",
+      "stories": [
+        {
+          "headline": "Norris Finally Breaks Through in Hungary While Antonelli Somehow Extends His Lead Anyway",
+          "body": "Lando Norris took McLaren's first win of the season at the Hungarian GP, holding off Verstappen and Antonelli for the top step. Antonelli finished third but still extended his championship lead — because of course he did.",
+          "tag": "Results"
+        },
+        {
+          "headline": "Leclerc's Silverstone Win Was Great, But the Chaos Around It Won't Quit",
+          "body": "Charles Leclerc ended a nearly two-year win drought at the British GP, but the race finished under a safety car in scenes everyone's still arguing about, while Antonelli was hit with a controversial penalty after starting from pole and limping home in P16. Juan Pablo Montoya is now publicly demanding rule changes, which tells you everything about the temperature in the paddock.",
+          "tag": "Drama"
+        },
+        {
+          "headline": "Horner's Back in the Paddock and Already Talking About a Return",
+          "body": "Christian Horner made his first appearance inside the F1 paddock since being sacked as Red Bull team boss, saying any full comeback hinges on whether he can be a winner again. He's also writing a memoir about his 20 years at Red Bull, so the quiet exit is officially off the table.",
+          "tag": "Drama"
+        }
+      ]
+    },
+    {
+      "sport": "Golf",
+      "stories": [
+        {
+          "headline": "21-Year-Old Jackson Koivun Torches TPC Twin Cities, Beats Scheffler by Three",
+          "body": "Jackson Koivun shot a tournament-record 25-under 259 to claim his first PGA Tour title at the 3M Open, pocketing $1,584,000 and leaving world No. 1 Scottie Scheffler in second place — again. At 21, Koivun just became the most interesting name in golf overnight.",
+          "tag": "Big Win"
+        },
+        {
+          "headline": "Scheffler Is Everywhere and Winning Nowhere: The Runner-Up Season Continues",
+          "body": "Scottie Scheffler has now finished second at both the Travelers Championship — where Viktor Hovland beat him in a Monday playoff — and the 3M Open, adding to a season full of near-misses despite holding the world No. 1 ranking. He's the best player in the world who keeps letting someone else grab the trophy.",
+          "tag": "Drama"
+        },
+        {
+          "headline": "Haeran Ryu Storms from 10 Back to Steal KPMG Women's PGA from Nelly Korda",
+          "body": "Haeran Ryu switched putters mid-tournament at Hazeltine and erased a 10-shot first-round deficit to claim her first major title at the KPMG Women's PGA Championship. Korda, still searching for another major, is now off to a rocky start at the Evian Championship as well.",
+          "tag": "Results"
         }
       ]
     },
@@ -166,19 +166,19 @@
       "sport": "College Sports",
       "stories": [
         {
-          "headline": "Sorsby Saga: NCAA Opens Inquiry Into Cincinnati After QB's Wild Legal Detour",
-          "body": "Cincinnati QB Brendan Sorsby won a temporary injunction, dropped his lawsuit, and now has the NCAA sniffing around his program — all in one week. Texas Tech is accused of tampering by contacting Sorsby mid-season, which is apparently how we do things now.",
+          "headline": "NCAA Blows Up the Redshirt Era: Five Years to Play Five, No More Loopholes",
+          "body": "The NCAA officially replaced its tangled redshirt-and-waiver system with a clean five-seasons-in-five-years model, with the eligibility clock starting at first full-time enrollment or the year after a player turns 19. The goal is fewer 26-year-olds on college rosters — which, fair enough, probably should have happened before COVID made it a crisis.",
+          "tag": "Rule Change"
+        },
+        {
+          "headline": "Texas Tech's Brendan Sorsby Gets His Eligibility Back, Drops NCAA Lawsuit, and Won't Be Going to the NFL Supplemental Draft",
+          "body": "Sorsby sued the NCAA over a gambling-related eligibility ban, got a court injunction reinstating him for the 2026 season, then dropped the lawsuit entirely — all while the NFL quietly decided not to hold a supplemental draft anyway. A wild few weeks that somehow ended with him exactly where he started: a college quarterback.",
           "tag": "Drama"
         },
         {
-          "headline": "Ohio State Is Hoarding Five-Stars Again: Moss, Fakatou, and Harrison All In",
-          "body": "Ohio State landed five-star OT Caden Moss, five-star DL Marcus Fakatou, and legacy WR Jett Harrison in a recruiting week that was frankly unfair to everyone else. Oregon managed to sneak in a five-star WR commit in Sabb, so at least one other school got something nice.",
-          "tag": "Recruiting"
-        },
-        {
-          "headline": "Oklahoma Wins First Baseball Title Since 1994, Routs North Carolina",
-          "body": "Oklahoma demolished North Carolina to claim the college baseball national championship, ending a 32-year title drought for the Sooners. Somewhere in Norman, a very patient fan base is having a very good week.",
-          "tag": "Big Win"
+          "headline": "Ohio State and Notre Dame Are Putting Corporate Logos on Their Jerseys for a Combined $37 Million a Year",
+          "body": "Ohio State inked a jersey patch deal with JPMorgan Chase worth roughly $17 million annually, while Notre Dame went one better with a SoFi patch deal at around $20 million per year. College football's \"amateur\" era is doing just fine, thanks.",
+          "tag": "Business"
         }
       ]
     }
