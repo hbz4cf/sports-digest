@@ -1,5 +1,186 @@
 {
-  "generatedAt": "2026-07-27T11:30:20.720Z",
-  "intro": "I need the headlines to write from — it looks like they didn't come through with your message. Can you paste them here?",
-  "sections": []
+  "generatedAt": "2026-07-30T12:01:24.636Z",
+  "intro": "Giannis is a Heat, and the NBA is a completely different league now. Meanwhile, Muchová saved a match point and broke Coco Gauff's heart in one of the best Wimbledon semifinals ever played.",
+  "sections": [
+    {
+      "sport": "Soccer",
+      "stories": [
+        {
+          "headline": "Mbappé Misses a Pen, Scores a Goal, France Doesn't Care — Semis Bound",
+          "body": "France beat Morocco 2-0 in Boston, with Mbappé shaking off a first-half penalty miss to score and set up Dembélé's goal. Les Bleus are in the World Cup semifinals and apparently unbothered by small setbacks.",
+          "tag": "Big Win"
+        },
+        {
+          "headline": "Messi at Eight Goals, Argentina Survives Egypt on a Last-Gasp Enzo Winner",
+          "body": "Enzo Fernández's stoppage-time goal gave Argentina a 3-2 win over Egypt, with Messi now sitting on eight tournament goals because of course he is. FIFA is separately investigating an incident involving streamer IShowSpeed during Argentina's earlier Cape Verde match, which is a sentence that exists in 2026.",
+          "tag": "Results"
+        },
+        {
+          "headline": "Man City Get Their Manager, Newcastle Spend Big — Europe's Transfer Window Is Chaos",
+          "body": "Manchester City confirmed Enzo Maresca on a three-year deal, while Newcastle signed Ajax teen Sean Steur and agreed to a £50M-plus move for Johan Manzambi from Freiburg — all while the World Cup is still going. Atletico Madrid also quietly dropped €40M on Morten Hjulmand from Sporting CP, just to round out the week.",
+          "tag": "Transfer"
+        }
+      ]
+    },
+    {
+      "sport": "NBA",
+      "stories": [
+        {
+          "headline": "Giannis Is a Heat Man Now, and the NBA Just Got a Lot More Interesting",
+          "body": "The Bucks shipped Giannis Antetokounmpo and Bobby Portis to Miami in a blockbuster that netted Milwaukee Tyler Herro, Kel'el Ware, Jaime Jaquez Jr., Kasparas Jakucionis, three first-round picks, a pick swap, and a 2033 second-rounder. South Beach has seen some big swings before, but landing a two-time MVP might be the biggest one yet.",
+          "tag": "Trade"
+        },
+        {
+          "headline": "LeBron's 24th Season Is Happening — Just Not in LA",
+          "body": "LeBron James will play a record 24th NBA season, but he's doing it without the Lakers uniform. No word yet on where he lands, but at this point the man is simply refusing to let the story end.",
+          "tag": "Breaking News"
+        },
+        {
+          "headline": "Kyle Lowry Hangs It Up After 20 Years of Pure Grit",
+          "body": "Kyle Lowry announced his retirement, closing the book on a 20-year career that included a championship in Toronto and about a thousand charges taken. He was never the most talented guy on the floor and somehow never cared.",
+          "tag": "Retirement"
+        }
+      ]
+    },
+    {
+      "sport": "Tennis",
+      "stories": [
+        {
+          "headline": "Muchová Saves a Match Point and Breaks Coco's Heart in an All-Time Wimbledon Semifinal",
+          "body": "Karolina Muchová outlasted Coco Gauff 6-2, 1-6, 7-6(12-10) — saving a match point along the way — to reach her first Grand Slam final. A 12-10 tiebreak is the tennis equivalent of overtime, sudden death, and a coin flip all at once.",
+          "tag": "Drama"
+        },
+        {
+          "headline": "Djokovic Grinds Out a Five-Set War to Keep His Wimbledon Run Alive",
+          "body": "Novak Djokovic beat Félix Auger-Aliassime 7-6(10), 3-6, 6-3, 6-7(4), 7-6(10-4) in a match that lasted long enough to age you visibly. Another Wimbledon semifinal for Djokovic, because of course it is.",
+          "tag": "Big Win"
+        },
+        {
+          "headline": "Czech, Please: Muchová and Nosková Set Up an All-Czech Wimbledon Women's Final",
+          "body": "Linda Nosková joined Muchová in the final by dispatching Marta Kostyuk 6-4, 6-4, setting up a Wimbledon women's final that is entirely Czech-made. The country's tennis pipeline is officially not messing around.",
+          "tag": "Results"
+        }
+      ]
+    },
+    {
+      "sport": "MLB",
+      "stories": [
+        {
+          "headline": "Tampa Bay Turns the AL East Into a One-Horse Race",
+          "body": "The Rays shut out the Yankees 3-0 behind Shane McClanahan's 6 1/3 innings, pushing their division lead to five games as New York stumbles to 2-8 over its last ten. The Yankees also dropped an 11-4 embarrassment to Minnesota — who hit six home runs — in the same week, so things are going great in the Bronx.",
+          "tag": "Standings"
+        },
+        {
+          "headline": "Yamamoto Fans 10, Padres Lose Their Eighth Straight",
+          "body": "Yoshinobu Yamamoto struck out 10 over seven innings and Freddie Freeman homered as the Dodgers blanked San Diego 3-0. The Padres have now lost eight in a row, which is the kind of skid that turns a pennant race into a formality.",
+          "tag": "Big Win"
+        },
+        {
+          "headline": "Verlander Plans to Hang It Up After 2026",
+          "body": "Justin Verlander has told The Athletic he intends to retire at the end of this season, closing the book on one of the most decorated careers in modern pitching history.",
+          "tag": "Breaking News"
+        }
+      ]
+    },
+    {
+      "sport": "Golf",
+      "stories": [
+        {
+          "headline": "21-Year-Old Jackson Koivun Beats Scheffler by Three to Win the 3M Open",
+          "body": "Jackson Koivun shot a tournament-record 25-under 259 at the 3M Open to claim his first PGA Tour title, leaving world number one Scottie Scheffler three shots back. Not a bad way to announce yourself.",
+          "tag": "Big Win"
+        },
+        {
+          "headline": "Chris Gotterup Makes It Three: Wins John Deere Classic at 20-Under",
+          "body": "Chris Gotterup took the John Deere Classic at 20-under, edging Max Homa by a shot for his third PGA Tour win of the season. Three wins before August is the kind of form that gets people talking.",
+          "tag": "Big Win"
+        },
+        {
+          "headline": "Haeran Ryu Wins KPMG Women's PGA Championship After Starting 10 Shots Back",
+          "body": "Haeran Ryu claimed her first major at the KPMG Women's PGA Championship, overcoming a 10-shot deficit after the opening round to get it done. Coming from 10 back to win a major is not something that happens very often.",
+          "tag": "Big Win"
+        }
+      ]
+    },
+    {
+      "sport": "NFL",
+      "stories": [
+        {
+          "headline": "Lions DB Terrion Arnold Hits Free Agency While Facing $1M Bond in Kidnapping Case",
+          "body": "Cornerback Terrion Arnold cleared waivers and is now a free agent after the Lions moved on amid his ongoing Florida kidnapping and assault case, where he's been hit with a $1 million bond. Rough week to be on the open market.",
+          "tag": "Drama"
+        },
+        {
+          "headline": "Jets Sign Nahshon Wright, Desperately Trying to Forget That Historically Terrible 2025 Defense",
+          "body": "New York added cornerback Nahshon Wright, who racked up eight takeaways last season, as the Jets look to rebuild a defense that somehow went the entire 2025 season without an interception. The bar is low, Nahshon — clear it.",
+          "tag": "Roster Move"
+        },
+        {
+          "headline": "Vikings Lock In New Front Office as QB Battle Heats Up at Camp",
+          "body": "New GM Nolan Teasley finalized his staff by poaching assistant GMs Trent Kirchner from Seattle and Andrew Healy from Cleveland, while coach Kevin O'Connell is already trying to manage the optics of an open quarterback competition. Lots of new faces in Minnesota, zero settled answers.",
+          "tag": "Roster Move"
+        }
+      ]
+    },
+    {
+      "sport": "F1",
+      "stories": [
+        {
+          "headline": "Leclerc Steals Silverstone, Ferrari Is Very Much Back",
+          "body": "Charles Leclerc took the win at the British Grand Prix after a late safety car bunched the field, giving Ferrari their second victory in three races. Fred Vasseur is busy downplaying the title talk, which is exactly what you do when the title talk is very real.",
+          "tag": "Big Win"
+        },
+        {
+          "headline": "Antonelli's Championship Lead Evaporates at the Worst Possible Time",
+          "body": "Kimi Antonelli came into Silverstone with a sprint race win and a points lead, then left with neither after a disastrous main race dropped him out of the scoring entirely. Mercedes now heads into the Belgian GP under serious standings pressure with their engine upgrade still in the mail.",
+          "tag": "Drama"
+        },
+        {
+          "headline": "Horner's Back in the Paddock and Already Talking His Way Into Headlines",
+          "body": "Christian Horner made his first paddock appearance since departing Red Bull, telling Reuters a full return hinges on whether he can be a winner again. Subtle.",
+          "tag": "Drama"
+        }
+      ]
+    },
+    {
+      "sport": "NHL",
+      "stories": [
+        {
+          "headline": "Flyers Throw $90M at Leo Carlsson, Ducks Say 'Nope'",
+          "body": "Philadelphia hit Anaheim with a massive 5-year, $90 million offer sheet for center Leo Carlsson, and the Ducks matched it without blinking. The Flyers walked away empty-handed, which is a very Flyers way to spend a summer.",
+          "tag": "Drama"
+        },
+        {
+          "headline": "Gavin McKenna Goes No. 1 to Toronto — Penn State to the Big Stage",
+          "body": "The Maple Leafs used the top pick in the 2026 NHL Draft on Penn State left wing Gavin McKenna, making him the most famous Nittany Lion since forever. No pressure in the most scrutinized hockey market on earth.",
+          "tag": "Draft"
+        },
+        {
+          "headline": "Hischier Gets Paid, Bedard Gets Surgery — Devils Win the Week, Blackhawks Don't",
+          "body": "New Jersey locked up captain Nico Hischier on a 5-year, $58.5 million extension, a clean win for a team building toward something real. Meanwhile, Connor Bedard is heading into left shoulder surgery and will miss the start of the season, which is a brutal way to kick off year three.",
+          "tag": "Injury Update"
+        }
+      ]
+    },
+    {
+      "sport": "College Sports",
+      "stories": [
+        {
+          "headline": "Sorsby Saga: NCAA Opens Inquiry Into Cincinnati After QB's Wild Legal Detour",
+          "body": "Cincinnati QB Brendan Sorsby won a temporary injunction, dropped his lawsuit, and now has the NCAA sniffing around his program — all in one week. Texas Tech is accused of tampering by contacting Sorsby mid-season, which is apparently how we do things now.",
+          "tag": "Drama"
+        },
+        {
+          "headline": "Ohio State Is Hoarding Five-Stars Again: Moss, Fakatou, and Harrison All In",
+          "body": "Ohio State landed five-star OT Caden Moss, five-star DL Marcus Fakatou, and legacy WR Jett Harrison in a recruiting week that was frankly unfair to everyone else. Oregon managed to sneak in a five-star WR commit in Sabb, so at least one other school got something nice.",
+          "tag": "Recruiting"
+        },
+        {
+          "headline": "Oklahoma Wins First Baseball Title Since 1994, Routs North Carolina",
+          "body": "Oklahoma demolished North Carolina to claim the college baseball national championship, ending a 32-year title drought for the Sooners. Somewhere in Norman, a very patient fan base is having a very good week.",
+          "tag": "Big Win"
+        }
+      ]
+    }
+  ]
 }
