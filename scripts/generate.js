@@ -23,41 +23,54 @@ const SPORTS = [
   { name: "Golf", query: "What are the most important golf news stories this week? Include PGA Tour results, leaderboards, player news, major championship updates." },
 ];
 
-async function fetchNewsForSport(sport) {
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+async function fetchNewsForSport(sport, retries = 3) {
   const apiKey = process.env.PERPLEXITY_API_KEY;
   if (!apiKey) throw new Error("PERPLEXITY_API_KEY not set");
 
   const today = new Date().toLocaleDateString("en-US", { weekday: "long", year: "numeric", month: "long", day: "numeric" });
 
-  const res = await fetch("https://api.perplexity.ai/chat/completions", {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      "Authorization": `Bearer ${apiKey}`,
-    },
-    body: JSON.stringify({
-      model: "sonar-pro",
-      messages: [
-        {
-          role: "system",
-          content: `You are a sports news researcher. Today is ${today}. Only report news published on or after ${new Date(Date.now() - 7 * 24 * 60 * 60 * 1000).toLocaleDateString("en-US", {month:"long",day:"numeric",year:"numeric"})}. Anything older than that must be ignored completely. Be specific with scores, names and facts. Do not make anything up.`
-        },
-        {
-          role: "user",
-          content: sport.query
-        }
-      ],
-      search_recency_filter: "week",
-    }),
-  });
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    const res = await fetch("https://api.perplexity.ai/chat/completions", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "Authorization": `Bearer ${apiKey}`,
+      },
+      body: JSON.stringify({
+        model: "sonar-pro",
+        messages: [
+          {
+            role: "system",
+            content: `You are a sports news researcher. Today is ${today}. Only report news published on or after ${new Date(Date.now() - 7 * 24 * 60 * 60 * 1000).toLocaleDateString("en-US", {month:"long",day:"numeric",year:"numeric"})}. Anything older than that must be ignored completely. Be specific with scores, names and facts. Do not make anything up.`
+          },
+          {
+            role: "user",
+            content: sport.query
+          }
+        ],
+        search_recency_filter: "week",
+      }),
+    });
 
-  if (!res.ok) {
-    const err = await res.text();
-    throw new Error(`Perplexity error: ${res.status} ${err}`);
+    if (res.status === 429 && attempt < retries) {
+      const waitMs = attempt * 5000;
+      console.log(`  (rate limited on ${sport.name}, retrying in ${waitMs / 1000}s...)`);
+      await sleep(waitMs);
+      continue;
+    }
+
+    if (!res.ok) {
+      const err = await res.text();
+      throw new Error(`Perplexity error: ${res.status} ${err}`);
+    }
+
+    const data = await res.json();
+    return data.choices[0].message.content;
   }
-
-  const data = await res.json();
-  return data.choices[0].message.content;
 }
 
 async function rankAndFilterSports(client, sportResults) {
@@ -218,20 +231,19 @@ async function main() {
 
   const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
-  // Step 1: Fetch all news in parallel
+  // Step 1: Fetch all news sequentially (Perplexity rate-limits concurrent requests)
   const sportResults = [];
-  await Promise.all(
-    SPORTS.map(async (sport) => {
-      process.stdout.write(`Fetching ${sport.name} news...\n`);
-      try {
-        const news = await fetchNewsForSport(sport);
-        sportResults.push({ sport: sport.name, news });
-        console.log(`✓ Got ${sport.name} news`);
-      } catch (err) {
-        console.log(`✗ Skipped ${sport.name} (${err.message})`);
-      }
-    })
-  );
+  for (const sport of SPORTS) {
+    process.stdout.write(`Fetching ${sport.name} news...\n`);
+    try {
+      const news = await fetchNewsForSport(sport);
+      sportResults.push({ sport: sport.name, news });
+      console.log(`✓ Got ${sport.name} news`);
+    } catch (err) {
+      console.log(`✗ Skipped ${sport.name} (${err.message})`);
+    }
+    await sleep(1000);
+  }
 
   // Step 2: Rank sports by newsworthiness this week
   console.log("\nRanking sports by newsworthiness...");
