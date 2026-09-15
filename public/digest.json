@@ -1,5 +1,26 @@
 {
-  "generatedAt": "2026-09-14T14:53:37.946Z",
-  "intro": "I need the headlines to write from — it looks like they didn't come through with your message. Could you paste them in?",
-  "sections": []
+  "generatedAt": "2026-09-15T18:39:38.372Z",
+  "intro": "Rybakina dethroned Sabalenka at the US Open this week, claiming both the title and the No. 1 ranking in one ruthless sweep. That's your biggest story — let's get into the rest.",
+  "sections": [
+    {
+      "sport": "Tennis",
+      "stories": [
+        {
+          "headline": "Rybakina Ends Sabalenka's Reign, Grabs No. 1 and a US Open Crown in One Shot",
+          "body": "Elena Rybakina beat Aryna Sabalenka 6-4, 5-7, 6-2 to win her first US Open title and her third Grand Slam, ending Sabalenka's 99-week run at world No. 1 in the process. Becoming the first Kazakh woman to hold the top ranking is a nice bonus; denying Sabalenka a third straight title here probably feels even better.",
+          "tag": "Big Win"
+        },
+        {
+          "headline": "Zverev Wins the US Open at a Reasonable Hour; Shelton's Night Was Less Civilized",
+          "body": "Alexander Zverev defeated Ben Shelton 6-3, 7-6(2), 5-7, 6-2 to claim the US Open and his second Grand Slam title of 2026, while Shelton still walks away ranked No. 4 in the world after a run that included eliminating Carlos Alcaraz in a match that ended at 3:33 a.m. — the latest finish in US Open history. Shelton lost the final, but his schedule was arguably the tougher draw.",
+          "tag": "Results"
+        },
+        {
+          "headline": "Your Updated ATP Top Four: Sinner, Zverev, Alcaraz, and the Guy Who Kept Them All Up Past Midnight",
+          "body": "Post-US Open ATP rankings have Jannik Sinner at No. 1, Zverev at No. 2, Alcaraz at No. 3, and Shelton jumping to No. 4 off his finalist run. Alcaraz is ranked above the man who beat him at 3:33 in the morning, which feels like the least he deserves.",
+          "tag": "Standings"
+        }
+      ]
+    }
+  ]
 }
