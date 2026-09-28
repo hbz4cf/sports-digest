@@ -1,144 +1,44 @@
 {
-  "generatedAt": "2026-09-21T15:01:31.105Z",
-  "intro": "The QB injury bug is already devouring the 2026 NFL season with both Caleb Williams and Jayden Daniels going down. Meanwhile, Texas knocked off Ohio State to claim the No. 1 ranking in college football.",
+  "generatedAt": "2026-09-28T16:40:00.580Z",
+  "intro": "Machado torched the Dodgers and shot the Padres to the top of the Wild-Card standings, and it wasn't even a conversation. Meanwhile, Jayden Daniels dislocated his elbow — again — because apparently once just wasn't enough.",
   "sections": [
-    {
-      "sport": "NFL",
-      "stories": [
-        {
-          "headline": "Williams and Daniels Both Go Down: The QB Injury Bug Is Already Eating the 2026 Season",
-          "body": "Caleb Williams left Chicago's 9-3 loss to Minnesota with a hamstring injury, while Jayden Daniels dislocated his elbow in Washington's loss to Dallas — two of the most promising young QBs in the league, both sidelined before Week 2 is even a memory. It's barely September and the injury report is already reading like a horror novel.",
-          "tag": "Injury Update"
-        },
-        {
-          "headline": "Kenneth Walker III Goes Nuclear in Kansas City as Chiefs Survive Colts in OT",
-          "body": "Kenneth Walker III announced himself to Chiefs Kingdom in a big way, rushing for 173 yards and a 60-yard touchdown to help Kansas City escape Indianapolis 33-30 in overtime and move to 2-0. Nothing like a brand-new running back immediately making everyone forget about the old one.",
-          "tag": "Big Win"
-        },
-        {
-          "headline": "Keenan Allen Hit With DUI Charge as Off-Field Trouble Comes for the Colts' Veteran Receiver",
-          "body": "Colts wide receiver Keenan Allen was formally charged in an alleged drunken driving incident, per court records reported by NFL.com — not exactly the storyline Indianapolis needed with its team already on the wrong end of a heartbreaker against Kansas City. The timing could not be worse.",
-          "tag": "Drama"
-        }
-      ]
-    },
     {
       "sport": "MLB",
       "stories": [
         {
-          "headline": "Braves Party in Houston, Dodgers Make It Five Straight",
-          "body": "Atlanta punched its postseason ticket with a 6-2 win over the Astros, with Harris II, Acuña Jr., and Olson all going deep — because why not pile on. The Dodgers also clinched the NL West the same week with an 8-2 romp over the Reds, their fifth consecutive division title.",
+          "headline": "Machado Wrecks the Dodgers and Sends the Padres to the Top of the Wild-Card Pile",
+          "body": "Manny Machado went yard and drove in three as San Diego knocked off Los Angeles 5-1, vaulting the Padres to the top NL wild-card spot and one win away from a third straight postseason. Fernando Tatis Jr. chipped in three hits because apparently one superstar showing up wasn't enough.",
           "tag": "Big Win"
         },
         {
-          "headline": "Halpin Sends Chicago Packing: Guardians Take AL Central Lead",
-          "body": "Petey Halpin's three-run shot powered Cleveland past the White Sox 6-3, knocking Chicago out of first place after a 74-day run at the top. The Guardians now hold a half-game lead with 11 days left — the AL Central isn't over, but it just got a lot more interesting.",
+          "headline": "Phillies and Astros Punch Their Tickets on the Last Possible Day",
+          "body": "Both Philadelphia and Houston clinched playoff spots on Game 162, with Houston edging out the Rangers after the two clubs spent the week literally tied atop the AL West at 78-79. Nothing like waiting until the absolute last second to make it interesting.",
           "tag": "Standings"
         },
         {
-          "headline": "Padres Crash the Party, Diamondbacks Stumble in NL Wild Card Chaos",
-          "body": "San Diego blasted Miami 8-2 — Ty France's three-run homer headlining a six-run fifth — to pull into a three-way tie atop the NL Wild Card standings. Arizona's own loss to Miami dropped the Diamondbacks 3.5 games back, turning what looked like a comfortable cushion into a genuine sweat.",
-          "tag": "Drama"
+          "headline": "Blake Treinen Hurts His Shoulder Before He Even Gets Into the Game",
+          "body": "Dodgers reliever Blake Treinen exited with a shoulder injury sustained while warming up in the bullpen during Saturday's 4-3 win over the Giants — tough timing with the postseason around the corner. Los Angeles got the win, but that's a brutal footnote heading into October.",
+          "tag": "Injury Update"
         }
       ]
     },
     {
-      "sport": "Tennis",
+      "sport": "NFL",
       "stories": [
         {
-          "headline": "Rybakina Wins the US Open and the No. 1 Ranking in One Shot",
-          "body": "Elena Rybakina claimed the US Open title and became the 30th world No. 1 in WTA history, knocking out Qinwen Zheng along the way. Thirty players into the WTA's history of No. 1s, and it only took Rybakina a Grand Slam title to finally get there.",
-          "tag": "Big Win"
+          "headline": "Jayden Daniels Dislocates His Elbow Again — Yes, Again",
+          "body": "Commanders QB Jayden Daniels dislocated his elbow for the second time since last season, ruling him out for Week 3 against Seattle. He's not on IR, so a return is technically possible, but two dislocations in under a year is not exactly a confidence booster.",
+          "tag": "Injury Update"
         },
         {
-          "headline": "Zverev Finally Gets His Slam, Shelton Gets a Career-High Ranking",
-          "body": "Alexander Zverev beat Ben Shelton in the US Open final to claim the title, while Shelton still walks away with a career-high No. 4 ranking and Frances Tiafoe returned to the top 10 at No. 8. A tough loss for Shelton, but American tennis is doing just fine.",
-          "tag": "Results"
+          "headline": "Jaxson Dart's Rookie Year Is Over After Knee Surgery",
+          "body": "Giants QB Jaxson Dart is done for the regular season after suffering a knee injury against the Rams, with surgery now confirmed. New York's quarterback situation just went from a fun storyline to a full-blown problem in a hurry.",
+          "tag": "Injury Update"
         },
         {
-          "headline": "Ranked No. 205, Liam Draxl Absolutely Dismantled a Top-35 Player",
-          "body": "Canada's Liam Draxl upset France's Arthur Rinderknech 6-2, 7-5 in Quebec City to help Canada go up 2-0 in Davis Cup, despite sitting 173 spots below his opponent in the rankings. The scoreline suggests Rinderknech didn't exactly make him work for it.",
-          "tag": "Drama"
-        }
-      ]
-    },
-    {
-      "sport": "College Sports",
-      "stories": [
-        {
-          "headline": "Texas Beats Ohio State, Takes the Throne at No. 1",
-          "body": "The Longhorns knocked off Ohio State and climbed to the top of the AP Top 25, officially making themselves the team everyone else has to chase. It's only Week 3, but Texas looks like it means business.",
-          "tag": "Big Win"
-        },
-        {
-          "headline": "Kentucky Walks Into College Station and Leaves With an Upset",
-          "body": "The Wildcats beat Texas A&M 31-21 on the road, torching the Aggies' early-season momentum and shaking up the playoff picture in one shot. Texas A&M's path just got a lot more complicated.",
-          "tag": "Drama"
-        },
-        {
-          "headline": "Lane Kiffin Goes Back to Baton Rouge and Walks Out Smiling",
-          "body": "Ole Miss beat LSU in a game that had all the storyline energy you'd expect from Kiffin returning to face his old program, and the Rebels delivered. LSU's loss is already being called one of the most damaging results in the conference race this week.",
-          "tag": "Results"
-        }
-      ]
-    },
-    {
-      "sport": "NBA",
-      "stories": [
-        {
-          "headline": "Kawhi's Homecoming Is Official: Leonard Headed Back to Toronto",
-          "body": "After weeks of league scrutiny holding things up, the Kawhi Leonard trade to the Raptors is finally done, with Brandon Ingram, Gradey Dick, and draft compensation heading to the Clippers. Toronto gets its guy back — the same franchise he ghosted in 2019, which is a choice narrative.",
-          "tag": "Trade"
-        },
-        {
-          "headline": "NBA Drops the Hammer on the Clippers: $30M Fine, Five Picks Gone, Ballmer Suspended",
-          "body": "The league handed the Clippers one of the harshest punishments in recent memory over the Kawhi/Aspiration cap-circumvention case — stripping five first-round picks, fining the team $30 million, and suspending owner Steve Ballmer, Lawrence Frank, and Gillian Zucker. Between this and the Leonard trade, it has been a genuinely brutal week to be a Clippers fan.",
-          "tag": "Drama"
-        },
-        {
-          "headline": "Giannis Is a Miami Heat Now, Because Why Not",
-          "body": "ESPN reported a blockbuster deal sending Giannis Antetokounmpo and Bobby Portis to Miami in exchange for Tyler Herro, Kel'el Ware, Jaime Jaquez Jr., Kasparas Jakucionis, three first-round picks, a pick swap, and a second-round pick. The Heat somehow keep landing franchise cornerstones and the rest of the league keeps letting them do it.",
-          "tag": "Trade"
-        }
-      ]
-    },
-    {
-      "sport": "NHL",
-      "stories": [
-        {
-          "headline": "Hellebuyck Goes AWOL, Jets Suspend Their Own Starter",
-          "body": "Connor Hellebuyck didn't show up to Winnipeg's training camp and the Jets responded by suspending him, making his trade request about as official as it gets. The Jets are suddenly staring down a goaltending crisis before the season even starts.",
-          "tag": "Drama"
-        },
-        {
-          "headline": "Batherson Gets Paid: Ottawa Drops $86M on Their Guy",
-          "body": "Drake Batherson signed an eight-year, $86 million deal with the Senators — the richest contract in franchise history. Ottawa is clearly betting on Batherson as the cornerstone of whatever they're building in the nation's capital.",
-          "tag": "Contract"
-        },
-        {
-          "headline": "Gauthier Cashes In as Ducks Lock Up Their Centerpiece for Six Years",
-          "body": "Anaheim signed Cutter Gauthier to a six-year, $81 million extension, using cap space freed up by the Chris Kreider departure to get it done. The Ducks are putting real money behind their rebuild.",
-          "tag": "Contract"
-        }
-      ]
-    },
-    {
-      "sport": "Soccer",
-      "stories": [
-        {
-          "headline": "Grimaldo and David Hand Real Madrid a Derby Day Nightmare",
-          "body": "Atlético Madrid beat Real Madrid 2-1 on September 20, with Grimaldo and David scoring in a six-minute blitz before Rüdiger's 89th-minute consolation made it look closer than it was. El Derbi goes to the red-and-white half of Madrid.",
-          "tag": "Drama"
-        },
-        {
-          "headline": "Raphinha Runs Riot: Hat-Trick Sinks Sevilla as Barcelona Roll 3-1",
-          "body": "Raphinha bagged all three goals in Barcelona's 3-1 win at Sevilla on September 20, with Lamine Yamal setting up both second-half strikes. Barcelona look very hard to live with right now.",
-          "tag": "Big Win"
-        },
-        {
-          "headline": "Cavan Sullivan Scores Twice as Philly Union Demolish San Diego 5-0",
-          "body": "Philadelphia Union hammered San Diego FC 5-0 on September 15, with 17-year-old Cavan Sullivan netting twice and adding an assist to strengthen his U.S. national team case. Five goals, zero doubt.",
-          "tag": "Big Win"
+          "headline": "Nick Chubb Retiring as a Brown, the Way It Should Be",
+          "body": "Browns RB Nick Chubb will officially retire as a Cleveland Brown in a ceremony on Friday, the team announced. After everything his body went through, it's a genuinely nice ending to one of the more quietly beloved careers in recent NFL history.",
+          "tag": "Retirement"
         }
       ]
     },
@@ -146,19 +46,59 @@
       "sport": "Golf",
       "stories": [
         {
-          "headline": "Spaun Torches Wentworth With Four Late Birdies, Sends Presidents Cup Snub a Postcard",
-          "body": "J.J. Spaun closed with four birdies in his last five holes for a 67, winning the BMW PGA Championship at 17-under and beating a four-man group including Rory McIlroy and Adam Scott by two shots. Getting left off the U.S. Presidents Cup team apparently lit a fire.",
+          "headline": "U.S. Steamrolls Sunday Singles to Steal the Presidents Cup from Medinah",
+          "body": "The Americans won nine of 12 singles matches on Sunday to erase a three-point deficit and take the Presidents Cup at Medinah Country Club. Turns out a three-point lead with one day to play means absolutely nothing when the U.S. shows up.",
+          "tag": "Results"
+        },
+        {
+          "headline": "Bridgeman Goes Scorched Earth with a 61 to Win the Biltmore Championship",
+          "body": "Jacob Bridgeman trailed by five shots and responded with a career-best 10-under 61, winning the inaugural Biltmore Championship Asheville for his second PGA Tour victory of the season. Nothing like opening the fall swing by making everyone else look like they were playing a different sport.",
           "tag": "Big Win"
         },
         {
-          "headline": "Neal Shipley Is Running Away From the Field in Asheville",
-          "body": "Shipley fired a career-low 62 in round two at the Biltmore Championship, then backed it up with a 65 to reach 21-under through 54 holes, holding a one-shot lead over Ben Kohles entering Sunday's final round. The man is not messing around.",
-          "tag": "Standings"
+          "headline": "Fitzpatrick Laps the Field in France, Closes in on Fourth Title of 2026",
+          "body": "Matt Fitzpatrick led by five shots heading into the final round of the FedEx Open de France at Le Golf National and did exactly what you'd expect — he closed it out for his fourth win of the year. At some point the DP World Tour should just mail him the trophy early.",
+          "tag": "Big Win"
+        }
+      ]
+    },
+    {
+      "sport": "College Sports",
+      "stories": [
+        {
+          "headline": "Florida Absolutely Demolished No. 4 Ole Miss, and It Wasn't Close",
+          "body": "The Gators torched Ole Miss 52-28 in one of the week's nastiest upsets, sending the Rebels tumbling out of the top four and launching Florida into the top 10. Ole Miss had just climbed to No. 4 — enjoy the view while it lasted.",
+          "tag": "Big Win"
         },
         {
-          "headline": "Zach Johnson Is Absolutely Feasting on the Champions Tour",
-          "body": "Johnson won the Pure Insurance Championship on Sunday for his second consecutive PGA Tour Champions victory and sixth win of his first season on the 50-and-over circuit. At this pace, he'll need a bigger trophy case by October.",
-          "tag": "Big Win"
+          "headline": "Texas Survives Tennessee in a Nail-Biter, Stays in the Top 3",
+          "body": "Texas escaped Knoxville with a 20-17 win over Tennessee in the marquee matchup of the weekend, holding onto their spot in the AP top three alongside Georgia and Notre Dame. Three points is three points — a win's a win.",
+          "tag": "Results"
+        },
+        {
+          "headline": "Bill Belichick at UNC Comes With a Catch, Per the Chancellor",
+          "body": "UNC's chancellor made it clear this week that the program's support for Bill Belichick \"comes with expectations\" — a fairly pointed thing to say about your own head coach in September. The Belichick-to-college experiment keeps getting more interesting by the week.",
+          "tag": "Drama"
+        }
+      ]
+    },
+    {
+      "sport": "Soccer",
+      "stories": [
+        {
+          "headline": "Messi Who? Jamal Thiaré Breaks Inter Miami Hearts in the 98th Minute",
+          "body": "Columbus Crew beat Inter Miami 2–1 on Saturday in front of a record 21,188 fans at ScottsMiracle-Gro Field, with Jamal Thiaré's stoppage-time winner canceling out Lionel Messi's equalizer. Josef Martínez had given Miami the lead from the spot, but apparently nobody told Columbus the script.",
+          "tag": "Drama"
+        },
+        {
+          "headline": "Raphinha Is on Fire and Deco Has Already Forgotten Julián Álvarez's Name",
+          "body": "Barcelona's Raphinha has scored 14 goals in eight matches — 12 of them in La Liga — and sporting director Deco bluntly declared Álvarez \"is in the past\" as Raphinha slides into the centre-forward role. He's currently outscoring both Lamine Yamal and Kylian Mbappé, which is not a sentence anyone predicted writing this season.",
+          "tag": "Hot Streak"
+        },
+        {
+          "headline": "Pulisic Stays Paid: AC Milan Eye Contract Extension Through 2031",
+          "body": "AC Milan are reportedly planning to hand Christian Pulisic a new deal worth around €5 million per season through summer 2031, following his goal in a 3–0 dismantling of Lecce. Good week to be the USMNT's favorite son in Serie A.",
+          "tag": "Transfer"
         }
       ]
     },
@@ -166,19 +106,79 @@
       "sport": "F1",
       "stories": [
         {
-          "headline": "Monaco Gets a Sprint Race and Nobody Asked For a More Stressful Monaco Weekend",
-          "body": "F1 confirmed the 2027 calendar this week: 24 races, a record 10 Sprint weekends, and yes, Monaco is finally getting one of them. Bahrain opens the year, Abu Dhabi closes it, and the streets of Monte Carlo are about to get a whole lot more chaotic on a Saturday.",
-          "tag": "Big News"
+          "headline": "Russell Snatches Baku Win From Verstappen by a Blink",
+          "body": "George Russell beat Max Verstappen by less than two tenths of a second in Azerbaijan, with Isack Hadjar rounding out the podium. Russell trims Kimi Antonelli's championship lead to 66 points — close enough to matter, not close enough to panic about yet.",
+          "tag": "Big Win"
         },
         {
-          "headline": "Hamilton Says He's Not Sabotaging Ferrari From The Inside, Ferrari Is Investigating His Brakes",
-          "body": "Lewis Hamilton denied reports that he's been pushing to remove Ferrari personnel amid a rough stretch that included a Spanish GP retirement due to a brake failure — which the team has since launched an investigation into. He's third in the championship at 191 points, 101 behind leader Kimi Antonelli, so the timing of the internal drama is not ideal.",
+          "headline": "Colapinto Wipes Out Norris, Norris Wants Him Gone",
+          "body": "Franco Colapinto collected a 10-second penalty for causing the safety-car restart crash that ended Lando Norris's race in Baku. Norris responded by publicly calling for Colapinto to be banned, which is about as subtle as the crash itself.",
           "tag": "Drama"
         },
         {
-          "headline": "Antonelli Heads To Baku With a Massive Lead and a Very Nervous Mercedes Pit Wall",
-          "body": "Kimi Antonelli sits 81 points clear of teammate George Russell at the top of the Drivers' Championship heading into Azerbaijan, while Mercedes leads the Constructors' by 145 over Ferrari. Red Bull is still waiting on Isack Hadjar's return and won't rush him back for Baku, which tells you everything about where their season stands.",
-          "tag": "Standings"
+          "headline": "Ocon Out at Haas, Antonelli Says the Title Fight Isn't Over",
+          "body": "Haas is expected to cut Esteban Ocon loose at season's end with no renewal offer on the table. Meanwhile, Kimi Antonelli — still leading the championship by 66 points — insists the title race is 'not over,' which is technically true but a strange hill to plant a flag on.",
+          "tag": "Paddock Talk"
+        }
+      ]
+    },
+    {
+      "sport": "Tennis",
+      "stories": [
+        {
+          "headline": "Fernandez Goes Full Scorched Earth in Singapore, Wins Last 9 Games to Claim Title",
+          "body": "Leylah Fernandez won the WTA 500 in Singapore by winning the final nine games against Talia Gibson — which is a very Fernandez way to do it. It's her sixth career title and punches her back into the Top 30.",
+          "tag": "Big Win"
+        },
+        {
+          "headline": "Kimberly Birrell Beats a Fellow Australian for Her First WTA Title Because of Course She Did",
+          "body": "Birrell took the Seoul title in an all-Australian final, cracking the Top 50 in the process and picking up her first WTA Tour singles trophy. The Czech Republic also won the Billie Jean King Cup for the 12th time, with Noskova and Muchova shutting out Ukraine 2-0 in Shenzhen.",
+          "tag": "Results"
+        },
+        {
+          "headline": "Draper Out Until 2027, Alcaraz Thriving — Business as Usual on the Men's Side",
+          "body": "Jack Draper is sidelined until 2027, which is rough news for anyone who had him circled for the fall stretch. Meanwhile, Carlos Alcaraz beat Taylor Fritz at the Laver Cup to put Team Europe up 7-5, because Alcaraz apparently doesn't do slumps.",
+          "tag": "Injury Update"
+        }
+      ]
+    },
+    {
+      "sport": "NHL",
+      "stories": [
+        {
+          "headline": "Fantilli Gets Paid: Columbus Locks Up Their Guy for $82.5M",
+          "body": "Adam Fantilli signed a six-year, $82.5 million extension with the Columbus Blue Jackets on Sept. 25, carrying a $13.75M cap hit that puts him among the NHL's elite earners. The standoff is over — now Columbus just has to build a winner around him.",
+          "tag": "Contract"
+        },
+        {
+          "headline": "Hellebuyck Watch Is Officially a Thing Now",
+          "body": "Connor Hellebuyck's name kept popping up in trade rumors all week, with multiple reports linking the Jets goalie to potential destinations around the league. Winnipeg hasn't moved him yet, but the noise isn't dying down.",
+          "tag": "Trade Rumors"
+        },
+        {
+          "headline": "Pastrnak Gets the 'C' in Boston",
+          "body": "David Pastrnak was named captain of the Boston Bruins on Sept. 27, filling the void left when Brad Marchand was traded back in March 2025. Safe to say the Bruins didn't have to look very far for their next leader.",
+          "tag": "Drama"
+        }
+      ]
+    },
+    {
+      "sport": "NBA",
+      "stories": [
+        {
+          "headline": "Curry Inks $116M Extension, Not Done Bleeding the Warriors Dry Just Yet",
+          "body": "Stephen Curry signed a two-year, $116 million extension to stay in Golden State, because of course he did. At this point, the Warriors wouldn't know what to do with themselves if Steph was somewhere else.",
+          "tag": "Contract"
+        },
+        {
+          "headline": "Buddy Hield Is Basically a Moving Box at This Point",
+          "body": "Hield was shipped from Atlanta to Charlotte as part of a Dorian Finney-Smith deal, then almost immediately flipped again to Chicago in a separate Rob Dillingham trade — all in the same week. The man has logged more miles than a FedEx truck this offseason.",
+          "tag": "Trade"
+        },
+        {
+          "headline": "Bucks Under Investigation, Ballmer Suspended — The NBA's Got Drama Before a Ball Is Tipped",
+          "body": "Milwaukee is being investigated for possible salary-cap circumvention tied to a Gary Trent Jr. deal, while the Clippers named John Gibson interim governor after Steve Ballmer was suspended over the Kawhi Leonard situation. Training camp hasn't even started and the league already needs a spreadsheet to track the chaos.",
+          "tag": "Drama"
         }
       ]
     }
