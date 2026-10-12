@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-05T17:02:17.160Z",
-  "intro": "Ben Rice went nuclear in the MLB playoff opener as the Yankees bludgeoned the Red Sox 9-0, and it wasn't even close. Meanwhile, the NBA brought the hammer down on the Clippers over the Kawhi Leonard investigation, and the league isn't playing around.",
+  "generatedAt": "2026-10-12T17:39:21.883Z",
+  "intro": "Georgia walked into Tuscaloosa and walked out No. 1, making it official that the Bulldogs are the class of college football. Meanwhile, the Eagles blew up their offensive line in the same week, shipping out Jurgens and losing Lane Johnson for good.",
   "sections": [
     {
       "sport": "MLB",
       "stories": [
         {
-          "headline": "Ben Rice Goes Nuclear: Yankees Bludgeon Red Sox 9-0 in Playoff Opener",
-          "body": "Ben Rice went off for six RBIs — including a grand slam in the eighth — as the Yankees dismantled the Red Sox 9-0 in Game 1, with Cam Schlittler dealing 6 1/3 shutout innings to set the tone. New York swept the series by Wednesday, which is exactly the kind of October the Red Sox were hoping to avoid.",
-          "tag": "Big Win"
-        },
-        {
-          "headline": "Michael King Nearly Makes History, Padres Blank Cubs 8-0",
-          "body": "Michael King took a no-hitter into the seventh inning as San Diego steamrolled Chicago 8-0 in Game 1, then finished off the sweep to punch their Division Series ticket. The Cubs managed to avoid the no-no but couldn't avoid getting bounced in three.",
+          "headline": "Rays Sweep Yankees Into the Offseason, Judge Watches From the Couch",
+          "body": "Tampa Bay ousted New York in the ALDS to reach the ALCS for just the third time in franchise history, with Drew Rasmussen carrying a no-hitter into the eighth inning of Game 1 and striking out 10. Aaron Judge, sidelined by a calf injury, missed the entire postseason and is already lobbying the Yankees to go 'all-in' for 2027 — which is one way to process elimination.",
           "tag": "Results"
         },
         {
-          "headline": "Austin Riley Saves Atlanta, But the Phillies Aren't Dead Yet",
-          "body": "Riley's three-run bomb in the eighth gave the Braves a 5-3 Game 1 win, but Philadelphia came right back to take Game 2 and force a deciding Game 3. Someone's postseason is ending in Atlanta this week.",
+          "headline": "Brewers Draw First Blood Against the Dodgers in Battle of the NL's Best",
+          "body": "Milwaukee beat Los Angeles 2–1 in NLCS Game 1 on a go-ahead fifth-inning single from Luis Lara, setting up what should be a legitimate battle between the NL's two winningest teams at 103 and 100 victories. The Dodgers, making their third straight NLCS appearance, handed the Game 1 ball to Tarik Skubal ahead of Yoshinobu Yamamoto, and it didn't go their way.",
+          "tag": "Big Win"
+        },
+        {
+          "headline": "Guardians Claw Back From 2–0 Down, Ramirez Snaps Out of It Just in Time",
+          "body": "Cleveland erased a 2–0 series deficit against the White Sox, forcing and winning a decisive Game 5 to advance to the ALCS. José Ramírez shook off a batting slump with a big Game 3 performance — because of course he did.",
           "tag": "Drama"
         }
       ]
@@ -26,18 +26,58 @@
       "sport": "NFL",
       "stories": [
         {
-          "headline": "Washington's Season Is Crumbling: Mariota Out, Lane Likely Done",
-          "body": "Marcus Mariota left Sunday's London loss to the Colts with a knee injury, and WR Jaylin Lane is reportedly done for the season after fracturing and dislocating his ankle. The Commanders are officially in crisis mode before October is even a week old.",
+          "headline": "Eagles Blow Up Their Offensive Line: Jurgens Traded, Lane Johnson Done",
+          "body": "Philadelphia shipped two-time Pro Bowl center Cam Jurgens to Baltimore for a 2028 second-rounder, then watched Lane Johnson walk away from the game after 14 years. Losing your center and your franchise tackle in the same week is a rough way to spend an October.",
+          "tag": "Trade"
+        },
+        {
+          "headline": "Lamar Jackson's Ankle Has Ravens Sweating Heading Into Week 5",
+          "body": "Jackson left the Tennessee game at halftime with an ankle injury, with Tyler Huntley stepping in and his Week 5 status listed as a long shot. Baltimore just traded for a Pro Bowl center and may now be starting a backup quarterback — great timing.",
           "tag": "Injury Update"
         },
         {
-          "headline": "Drake Maye and the Patriots Just Upset the Bills in Buffalo",
-          "body": "New England pulled off one of Week 4's biggest shockers, knocking off the Bills in Buffalo behind a strong showing from Drake Maye. Mike Vrabel says his concern level is still \"very high\" — which somehow makes the win feel more ominous for everyone else.",
+          "headline": "Barkley, Surtain, Pittman, Thornton: The NFL's Walking Wounded Pile Up",
+          "body": "Saquon Barkley is week-to-week with a hamstring, Patrick Surtain II tweaked his ankle in Denver's loss to San Francisco, Michael Pittman heads to IR for at least four games, and Tyquan Thornton suffered a major injury on a Raiders tackle. It's only Week 5 and the injury report is already reading like a MASH unit.",
+          "tag": "Injury Update"
+        }
+      ]
+    },
+    {
+      "sport": "College Sports",
+      "stories": [
+        {
+          "headline": "Georgia Walks Into Tuscaloosa and Walks Out No. 1",
+          "body": "The Bulldogs beat Alabama 20–17 on the road, their first regular-season win over the Tide since 2007, and jumped straight to the top of the AP Top 25. Texas also lost to Oklahoma on a last-second field goal the same week, so the entire top of the CFP picture reshuffled in 48 hours.",
           "tag": "Big Win"
         },
         {
-          "headline": "Tyreek Hill to Kansas City? His Agent Says a Deal Could Happen Any Day",
-          "body": "The Chiefs are reportedly interested in bringing Tyreek Hill back, and agent Drew Rosenhaus told NBC Sports he expects Hill to sign with a team within days. Patrick Mahomes getting his old weapon back is the kind of rumor that should make the rest of the AFC nervous.",
+          "headline": "Kentucky Does the Unthinkable Twice in a Row",
+          "body": "The Wildcats beat No. 10 LSU 35–34 by converting a two-point play in overtime — their second straight one-point OT win, reportedly a first in FBS history. Nobody asked Kentucky to carry the SEC chaos torch, but here we are.",
+          "tag": "Drama"
+        },
+        {
+          "headline": "Florida Flips Five-Star Receiver Royal Right Out of Texas's Hands",
+          "body": "The Gators landed top-2027 wide receiver prospect Royal, who had been committed to Texas, in one of the bigger recruiting flips of the cycle so far. Texas is having quite the week.",
+          "tag": "Transfer"
+        }
+      ]
+    },
+    {
+      "sport": "NHL",
+      "stories": [
+        {
+          "headline": "Hellebuyck Goes Full Holdout, Jets Drop the Hammer",
+          "body": "Winnipeg goaltender Connor Hellebuyck demanded a trade, skipped training camp entirely, and got himself suspended indefinitely for the trouble. Meanwhile, Dylan Larkin is doing the polite Canadian version of the same thing in Detroit — requesting a trade but still showing up to work.",
+          "tag": "Drama"
+        },
+        {
+          "headline": "Oilers and Penguins Can't Stop Trading With Each Other",
+          "body": "Edmonton sent defenseman Spencer Stastney to Pittsburgh in exchange for forward Filip Hallander on October 7 — the second consecutive year these two clubs have pulled off an in-season swap. At this point just give them each other's front office numbers and call it a partnership.",
+          "tag": "Trade"
+        },
+        {
+          "headline": "Edvinsson Wants Out of Toronto and Everyone's Talking About It",
+          "body": "Simon Edvinsson's trade request from the Maple Leafs was one of the most-read NHL stories of the week, which says a lot about how the Leafs manage their roster situations. Toronto: still must-watch television, just not always for the right reasons.",
           "tag": "Trade Rumors"
         }
       ]
@@ -46,99 +86,19 @@
       "sport": "NBA",
       "stories": [
         {
-          "headline": "NBA Absolutely Destroys the Clippers Over Kawhi Leonard Investigation",
-          "body": "The league dropped the hammer on Los Angeles, stripping the Clippers of 5 first-round picks and slapping them with a $30 million fine in the Kawhi Leonard probe. Rough time to also announce Brandon Ingram is starting the season with a partially torn Achilles.",
-          "tag": "Drama"
+          "headline": "Detroit Goes All-In: Duren and Ausar Thompson Get $355 Million in Extensions",
+          "body": "The Pistons locked up Jalen Duren on a five-year, $200 million deal and Ausar Thompson on a five-year, $155 million extension in the same week, making it a very expensive few days in Detroit. Rebuilds are cute until the bills arrive.",
+          "tag": "Contracts"
         },
         {
-          "headline": "LeBron James Is a 76er Now — and He Wanted to Be a Knick",
-          "body": "LeBron showed up to his first Philly media day and casually admitted he had wanted to sign with New York before landing in Philadelphia. The Knicks fan base will be fine, probably.",
-          "tag": "Drama"
-        },
-        {
-          "headline": "Jalen Duren Skipped Media Day, Got $200 Million — Sounds About Right",
-          "body": "The Pistons and Duren ended their contract standoff with a 5-year, $200 million extension after he sat out media day entirely amid the dispute. Bold negotiating strategy, and apparently it worked.",
-          "tag": "Contract"
-        }
-      ]
-    },
-    {
-      "sport": "College Sports",
-      "stories": [
-        {
-          "headline": "Missouri Crashes Florida's Party, Sends Gators Tumbling Out of the Top 10",
-          "body": "Missouri knocked off previously unbeaten Florida this week, handing the Gators their first loss of the season and a brutal drop in the AP rankings. The Tigers rewarded themselves with a jump to No. 14 — not a bad consolation prize for Mizzou fans who've been waiting for a moment like this.",
-          "tag": "Big Win"
-        },
-        {
-          "headline": "Minnesota Keeps the Little Brown Jug, Michigan Has Bigger Problems Than a Jug",
-          "body": "Minnesota beat Michigan 20-14 to hold onto the Little Brown Jug at home for the first time since 1977 — yes, 1977. The Wolverines are in a full-blown rough patch, and losing a rivalry trophy to a team nobody was talking about this week didn't help.",
-          "tag": "Drama"
-        },
-        {
-          "headline": "Northwestern Rushes for 413 Yards Against Penn State Because Sure, Why Not",
-          "body": "Northwestern ran all over Penn State to the tune of 413 rushing yards in a win that nobody saw coming from the Wildcats' offense. It's the kind of stat line that makes you double-check the box score, then check it again.",
-          "tag": "Big Win"
-        }
-      ]
-    },
-    {
-      "sport": "NHL",
-      "stories": [
-        {
-          "headline": "Marchenko Heads to Toronto in the Season's First Blockbuster",
-          "body": "The Maple Leafs wasted no time making noise, acquiring Kirill Marchenko from Columbus in a deal that closed September 28 and immediately became the biggest trade of opening week. Toronto is clearly done being subtle.",
-          "tag": "Trade"
-        },
-        {
-          "headline": "Bedard Gets Paid: $75 Million to Stay in Chicago",
-          "body": "Connor Bedard locked up a five-year, $15 million AAV extension with the Blackhawks, keeping him in Chicago through the 2030-31 season. The rebuild just got a whole lot more interesting.",
-          "tag": "Contract"
-        },
-        {
-          "headline": "Barkov on LTIR, Panthers Already in Crisis Mode",
-          "body": "Florida placed Aleksander Barkov on long-term injured reserve with no clear timeline for his return, a brutal blow before the season even finds its footing. The Panthers went from Cup contender to question mark in a hurry.",
+          "headline": "Knicks Lose Hukporti to Ruptured Achilles Before the Season Even Starts",
+          "body": "Ariel Hukporti ruptured his right Achilles in New York's preseason opener, adding another frontcourt headache to a team that really didn't need one. Nothing like a brutal injury in a game that doesn't count.",
           "tag": "Injury Update"
-        }
-      ]
-    },
-    {
-      "sport": "Tennis",
-      "stories": [
-        {
-          "headline": "Medvedev Beats Rublev in a Very Medvedev-vs-Rublev Final",
-          "body": "Daniil Medvedev claimed the Hangzhou Open title with a 7-5, 6-4 win over Andrey Rublev in an all-Russian, all-top-seed final. At this point these two should just share a trophy cabinet.",
-          "tag": "Big Win"
         },
         {
-          "headline": "Rybakina and Sabalenka Sent Packing Early in Beijing",
-          "body": "World No. 1 Elena Rybakina and No. 2 Aryna Sabalenka both fell early at the China Open, torching the top of the draw before the tournament really got going. Chaos reigned, and Coco Gauff was happy to show up to the wreckage with a 7-6(4), 4-6, 6-2 win over Camila Osorio.",
+          "headline": "Kuminga Turns Down Lakers, Takes Short-Term Timberwolves Deal to Bet on Himself",
+          "body": "Jonathan Kuminga passed on a Lakers offer worth more than $12 million annually and signed a shorter deal with Minnesota, keeping himself in position to hit free agency again next summer. High-risk move, but the math makes sense if he stays healthy and performs.",
           "tag": "Drama"
-        },
-        {
-          "headline": "Alcaraz Is Back, Sinner Is Not — The Leaderboard Is Listening",
-          "body": "Carlos Alcaraz rolled through Tokyo with a 7-6(6), 6-1 win over Matteo Arnaldi and a walkover courtesy of Denis Shapovalov's hip injury, while Jannik Sinner sat out the China and Shanghai stretch with a lingering knee problem. The rankings picture is quietly shifting.",
-          "tag": "Injury Update"
-        }
-      ]
-    },
-    {
-      "sport": "Soccer",
-      "stories": [
-        {
-          "headline": "Lamine Yamal Is Now Worth More Than a Small Country's GDP",
-          "body": "Barcelona's Lamine Yamal hit a €225.9 million estimated transfer value this week, the highest valuation FootballTransfers has ever recorded in an October update. The kid is 17.",
-          "tag": "Transfer"
-        },
-        {
-          "headline": "Kenan Yıldız Has Arsenal, Real Madrid, and Bayern All Sweating",
-          "body": "Juventus winger Kenan Yıldız has reportedly caught the eye of three of Europe's biggest clubs, with Arsenal, Real Madrid, and Bayern Munich all said to be monitoring him. Juve may want to get that contract sorted.",
-          "tag": "Transfer Rumors"
-        },
-        {
-          "headline": "USA Puts Mexico Away 3–0 With Two Teenagers Leading the Charge",
-          "body": "The United States beat Mexico 3–0, with teen scorers Cavan Sullivan and Julian Hall doing the damage. The future of American soccer continues to be annoyingly exciting.",
-          "tag": "Big Win"
         }
       ]
     },
@@ -146,19 +106,59 @@
       "sport": "F1",
       "stories": [
         {
-          "headline": "Verstappen Finally Wins One, But Antonelli's Still Running the Show",
-          "body": "Max Verstappen took his first win of 2026 at the relocated Bahrain GP in Malaysia, with Antonelli crossing second and Hamilton third after a rain-delayed, software-cursed start that pushed the race back nearly two hours. Antonelli now sits 84 points clear in the championship, so Verstappen's big day was really just a footnote in someone else's title story.",
-          "tag": "Results"
+          "headline": "Verstappen Owns Singapore, Puts Red Bull Back in the Fight",
+          "body": "Max Verstappen cruised to victory at Marina Bay on Sunday, his second straight win, with Leclerc second and Antonelli third. Red Bull now trails McLaren by just seven points in the constructors' standings, so that gap closed fast.",
+          "tag": "Big Win"
         },
         {
-          "headline": "Russell Retirement Stings as Antonelli Pulls Away",
-          "body": "George Russell's race-ending retirement in Malaysia couldn't have come at a worse time, handing Antonelli a clean run to a runner-up finish and an 84-point championship cushion. At this rate, Russell is going to need a lot more than a one-off PETRONAS livery to turn his season around.",
+          "headline": "Antonelli One Race Away From Sealing the Title at 19",
+          "body": "Kimi Antonelli's podium in Singapore stretched his championship lead to 102 points, and he can mathematically clinch the title next weekend in Austin. His teammate Russell started 19th due to a power-unit penalty and still salvaged ninth, which is either impressive or a little embarrassing for everyone else.",
           "tag": "Standings"
         },
         {
-          "headline": "Alonso Staying, Ocon Leaving — Aston Martin and Haas Sort Out Their Futures",
-          "body": "Fernando Alonso confirmed he'll remain at Aston Martin through 2027, while Haas and Esteban Ocon officially confirmed they'll split at the end of this season. Two announcements, two very different vibes.",
+          "headline": "Hamilton's One-Stop Gamble Backfires, Piastri Passes Him on the Last Lap",
+          "body": "Lewis Hamilton was left stranded on worn soft tyres late in the race after Ferrari's one-stop strategy went south, and Oscar Piastri swept past him on the final lap to take fifth. Leclerc grabbed the podium for Ferrari while Hamilton settled for sixth.",
+          "tag": "Drama"
+        }
+      ]
+    },
+    {
+      "sport": "Soccer",
+      "stories": [
+        {
+          "headline": "Barcelona Are Just Built Different Right Now",
+          "body": "Anthony Gordon needed 78 seconds to score his first Barcelona goal, and then Gabriel Jesus and Jules Koundé piled on in a 3–0 demolition of Getafe — eight games, eight wins, 24 points. La Liga might already be over.",
+          "tag": "Big Win"
+        },
+        {
+          "headline": "Isco Turned Back the Clock and Betis Loved Every Second",
+          "body": "Real Betis hammered Osasuna 5–2 on Saturday, with Isco scoring twice and Osasuna's Ante Budimir somehow managing to score for both sides. A rough afternoon for Osasuna, to put it mildly.",
+          "tag": "Results"
+        },
+        {
+          "headline": "Cole Palmer Is a Chelsea Man Until 2034 — Make That Make Sense",
+          "body": "Chelsea locked Palmer down with a new contract running all the way through 2034, which is either a brilliant piece of business or a very long time to be at Stamford Bridge. Probably both.",
           "tag": "Transfer"
+        }
+      ]
+    },
+    {
+      "sport": "Tennis",
+      "stories": [
+        {
+          "headline": "Sinner's Knee Hands Zverev the Year-End No. 1 Crown",
+          "body": "Jannik Sinner has shut down his 2026 season with knee inflammation, and the math is brutal — he'll bleed over 3,000 ranking points without defending his Paris Masters and ATP Finals titles. Alexander Zverev inherits the year-end No. 1, becoming only the second German man ever to reach the top spot after Boris Becker.",
+          "tag": "Injury Update"
+        },
+        {
+          "headline": "Djokovic Wins Title No. 102 in Beijing, Then Gets Bounced in Shanghai Two Days Later",
+          "body": "Novak Djokovic claimed his seventh Beijing title and 102nd career trophy after de Minaur retired hurt, going a surreal 34-0 at the China Open all-time. Hubert Hurkacz immediately brought him back to earth with a 6-4, 6-3 second-round demolition in Shanghai.",
+          "tag": "Results"
+        },
+        {
+          "headline": "Alcaraz Is Back, Zheng Makes History, and a No. 1 Got Beaten by Someone Ranked Outside the Top 100",
+          "body": "Carlos Alcaraz ended an eight-month title drought by defending his Tokyo crown, while Zheng Qinwen became the first Chinese player to win the China Open women's title since the tournament launched in 2004. Meanwhile, Alina Charaeva became just the ninth player ever ranked outside the top 100 to defeat a world No. 1, doing it against Rybakina after dropping the first set.",
+          "tag": "Big Win"
         }
       ]
     },
@@ -166,19 +166,19 @@
       "sport": "Golf",
       "stories": [
         {
-          "headline": "100 Starts, One Trophy: Smotherman Finally Breaks Through at Black Desert",
-          "body": "Austin Smotherman closed with a 3-under 68 to win the Bank of Utah Championship at 26-under 258, banking $1,080,000 in his 100th PGA Tour start. Doug Ghim finished two shots back in second — close, but not close enough to ruin a moment that was a long time coming.",
+          "headline": "Brennan Closes the Door in Yokohama, Pockets His Second Win of 2026",
+          "body": "Michael Brennan shot a final-round 68 at Yokohama Country Club to win the Baycurrent Classic at 16-under, edging Jacob Bridgeman and Keith Mitchell by one stroke. Six straight closing pars isn't exactly must-watch TV, but it got the job done.",
           "tag": "Big Win"
         },
         {
-          "headline": "Jarvis Holds the Keys at Dunhill Links With One Round Left",
-          "body": "Casey Jarvis fired a 7-under 65 at the Old Course to take a two-shot lead into the final round of the Alfred Dunhill Links Championship. Adrian Meronk's 63 kept things interesting, and Matt Fitzpatrick lurks six back — mathematically alive, realistically optimistic at best.",
-          "tag": "Results"
+          "headline": "Schauffele's Double Bogey on 18 Turns a Potential Win Into a Tie for Fourth",
+          "body": "Xander Schauffele was one shot off the lead heading to the 18th hole, then made double bogey to finish two back of Brennan at 13-under. The cruelest part of golf is that the tournament doesn't end on 17.",
+          "tag": "Drama"
         },
         {
-          "headline": "Dan Brown Shuts It Down for 2026 After Wrist Woes Derail His Season",
-          "body": "Dan Brown is stepping away from the PGA Tour for the remainder of 2026 after a recurring wrist injury forced a withdrawal at the BMW PGA Championship and wrecked his year. No timeline for a return has been given.",
-          "tag": "Injury Update"
+          "headline": "Vaughn Taylor Birdies Second Playoff Hole to Take Furyk and Friends Title",
+          "body": "Taylor and Alex Cejka both finished regulation at 17-under 199 at Hammock Beach Resort, traded pars on the first playoff hole, then Taylor ended it with a birdie on the second to claim his first Champions win of 2026 and $330,000.",
+          "tag": "Big Win"
         }
       ]
     }
