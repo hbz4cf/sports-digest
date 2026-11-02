@@ -1,44 +1,24 @@
 {
-  "generatedAt": "2026-10-26T15:02:42.534Z",
-  "intro": "The Brewers are running the show in the World Series, dropping the Rays to 0-2 after another stunning win to put Milwaukee one step closer to a championship. Meanwhile, UCF just torched the college football landscape by knocking off No. 2 BYU in double overtime, and Week 8 is an absolute mess.",
+  "generatedAt": "2026-11-02T18:05:09.341Z",
+  "intro": "Kimi Antonelli became F1's world champion at just 20 years old, and the Milwaukee Brewers finally broke through with their first-ever World Series title behind MVP William Contreras — it's been a wild week in sports. Oh, and Lamar Jackson's thumb is suddenly Baltimore's biggest problem.",
   "sections": [
-    {
-      "sport": "MLB",
-      "stories": [
-        {
-          "headline": "Brewers Stun Rays Again to Go Up 2-0 in the World Series",
-          "body": "Milwaukee erased a 4-0 deficit in Game 2, with Sal Frelick's sixth-inning homer and rookie Cooper Pratt's go-ahead RBI single sealing a 5-4 win — the Brewers' second four-run comeback of this postseason. The Series shifts to Tampa Bay, where the Rays desperately need to figure out how to stop digging their own graves with defensive miscues and baserunning blunders.",
-          "tag": "Big Win"
-        },
-        {
-          "headline": "William Contreras Is Quietly Running the Show for Milwaukee",
-          "body": "Contreras has four hits, two caught-stealing in Game 1, and a crucial tag at home in Game 2 — he's basically doing everything but selling peanuts in the stands. If the Brewers close out their first World Series title since 1982, Contreras will have a strong case for Series MVP.",
-          "tag": "Results"
-        },
-        {
-          "headline": "The Rays Are Sending a Former Brewer to Save Their Season in Game 3",
-          "body": "Tampa Bay is turning to Freddy Peralta — acquired from the Mets at the deadline and 7-0 with a 0.89 ERA over his last 10 outings — to keep the Rays' World Series hopes alive. Nothing like asking a guy to beat his old team to avoid going down 3-0.",
-          "tag": "Drama"
-        }
-      ]
-    },
     {
       "sport": "NFL",
       "stories": [
         {
-          "headline": "Giants Bench Jameis, Hand Keys to J.J. McCarthy",
-          "body": "New York is turning to J.J. McCarthy at quarterback as coach John Harbaugh called it part of a broader team evaluation — which is a polite way of saying things aren't working. Jameis Winston, meanwhile, adds another stop to his tour of NFL benches.",
-          "tag": "Drama"
-        },
-        {
-          "headline": "Brian Thomas Jr. Trade Rumors Are Heating Up — Chiefs and Steelers Are Circling",
-          "body": "After back-to-back games without a single catch, the Jaguars' Brian Thomas Jr. is reportedly drawing trade interest from Kansas City and Pittsburgh. Jacksonville hasn't confirmed anything, but two stonkingly quiet games from a premier receiver tends to get people talking.",
-          "tag": "Trade Rumors"
-        },
-        {
-          "headline": "Lamar Jackson Still Out, Tyler Huntley Running Baltimore's Offense for Third Straight Week",
-          "body": "A high-ankle sprain has kept Lamar Jackson sidelined through Week 7, with Tyler Huntley making his third consecutive start for the Ravens. Baltimore's offense is managing, but there's a reason Lamar is the MVP and Huntley is the backup.",
+          "headline": "Lamar Jackson's Thumb Could Sink Baltimore's Season",
+          "body": "The Ravens' MVP quarterback is heading to surgery and IR after a thumb injury, meaning Baltimore loses him for at least four games at the worst possible time. A team built around one guy just found out what life looks like without him.",
           "tag": "Injury Update"
+        },
+        {
+          "headline": "Bears Go All-In, Trade Two First-Rounders for Jeffery Simmons",
+          "body": "Chicago ripped a premium defensive tackle away from Tennessee at the deadline, paying two first-round picks plus more to land the All-Pro Simmons. The Bears are done being cute about rebuilding — they want in now.",
+          "tag": "Trade"
+        },
+        {
+          "headline": "Washington Stomps Philly 27–10 as Eagles' Collapse Hits Six Straight Losses",
+          "body": "The Commanders handed Philadelphia its sixth consecutive defeat, dropping the Eagles to 2–6 and pushing them to the edge of NFC East irrelevance. Washington is 2–4–1 and somehow the healthier-looking franchise in this rivalry right now.",
+          "tag": "Big Win"
         }
       ]
     },
@@ -46,39 +26,39 @@
       "sport": "F1",
       "stories": [
         {
-          "headline": "Antonelli Cruises to Win No. 9, Title Within Arm's Reach",
-          "body": "Kimi Antonelli dominated the United States Grand Prix at COTA, beating Leclerc by over 13 seconds to move just two points away from the world championship. The 20-year-old can wrap it up in Mexico City next weekend with a ninth-place finish or better.",
+          "headline": "Kimi Antonelli, Age 20, Is Your New F1 World Champion",
+          "body": "Antonelli finished third in Mexico City on Sunday to clinch the 2026 Drivers' Championship with four races still to go, becoming the youngest world champion in F1 history. The kid replaced Lewis Hamilton at Mercedes and immediately won the title — no pressure or anything.",
           "tag": "Big Win"
         },
         {
-          "headline": "Ferrari's Upgrade Finally Delivers, McLaren Has a Rough One",
-          "body": "Leclerc and Hamilton finished second and fourth in Austin, with Ferrari's latest upgrade package looking like a genuine step forward. McLaren had the opposite weekend — tyre troubles for both Norris and Piastri let Red Bull erase their gap in the constructors' standings.",
+          "headline": "Verstappen Wins in Mexico, Nudges Hamilton Out of Second by Two Points",
+          "body": "Max Verstappen took his third win of the season in Mexico City, with Hamilton crossing the line second for Ferrari — a result that still wasn't enough to hold off Verstappen in the standings, 261 to 259. With Antonelli already 119 points clear, those two are essentially racing each other for the runner-up trophy.",
           "tag": "Results"
         },
         {
-          "headline": "Four Drivers, Eight Points: The Fight for Second Is Chaos",
-          "body": "Russell leads Hamilton by one point, Hamilton leads Verstappen by five, and Verstappen leads Leclerc by three in what is genuinely the tightest four-way battle for a runner-up spot in recent memory. Everyone below Antonelli is playing for pride and positioning with five rounds left.",
+          "headline": "Mercedes Nearly Clinched Everything in Mexico — Nearly",
+          "body": "Antonelli's title sealed one half of a potential historic double for Mercedes, but the constructors' championship slipped through their fingers for now, with Ferrari and Red Bull keeping the gap alive. São Paulo is next, and Mercedes — sitting 126 points clear — will get another shot.",
           "tag": "Standings"
         }
       ]
     },
     {
-      "sport": "College Sports",
+      "sport": "MLB",
       "stories": [
         {
-          "headline": "UCF Stuns No. 2 BYU in Double OT, Chaos Reigns in Week 8",
-          "body": "UCF took down No. 2 BYU 39–31 in double overtime, while Cincinnati knocked off No. 8 Texas Tech and Wisconsin throttled No. 16 USC 24–7 — all in the same weekend. The AP poll is going to need a moment.",
+          "headline": "Milwaukee Finally Does It: Brewers Win First World Series, Contreras Named MVP",
+          "body": "The Milwaukee Brewers are World Series champions for the first time in franchise history, with catcher Willson Contreras taking home MVP honors. Rookie Cooper Pratt broke a 48-year-old World Series record, Sal Frelick did the Lambeau Leap, and manager Pat Murphy took a shot at the Yankees — so basically a perfect week in Wisconsin.",
           "tag": "Big Win"
         },
         {
-          "headline": "Arch Manning and Texas Are Quietly Becoming a Problem",
-          "body": "Texas beat No. 7 Ole Miss 34–27 and jumped eight spots to No. 11 in the AP poll, with Arch Manning looking every bit like the hype was warranted. Meanwhile, Utah is 7–0 after Devon Dampier ran for 150 yards and two touchdowns to erase a 10-point deficit against Houston.",
-          "tag": "Results"
+          "headline": "Skubal Sweepstakes Are On: Dodgers, Mets and Cubs All Want the Same Guy",
+          "body": "Tarik Skubal is the hottest name in the early offseason, with the Dodgers, Mets, and Cubs all circling before the December 1 lockout deadline. Three of the richest teams in baseball chasing one pitcher — this should go smoothly.",
+          "tag": "Trade Rumors"
         },
         {
-          "headline": "Locksley, Doeren, Aranda All Out — Coaching Carousel Gets Ugly",
-          "body": "Maryland fired Mike Locksley after a 12-game Big Ten losing streak, NC State parted ways with Dave Doeren after 14 seasons, and Baylor moved on from Dave Aranda — all in the same week. Someone's about to get a very good head coaching job.",
-          "tag": "Drama"
+          "headline": "Options Chaos: Royals Cut Estévez, Cardinals Drop Stanek, Padres Pass on Canning and Giolito",
+          "body": "The offseason roster shuffle is already underway, with Kansas City declining Carlos Estévez's $13 million option, St. Louis cutting Ryne Stanek loose, and San Diego passing on both Griffin Canning and Lucas Giolito. The Brewers are also open to trading closer Trevor Megill, so the relief pitcher market is about to get very crowded.",
+          "tag": "Transactions"
         }
       ]
     },
@@ -86,39 +66,59 @@
       "sport": "NBA",
       "stories": [
         {
-          "headline": "Luka Drops 52 and the Lakers Are Already Undefeated — Sorry, Rest of the West",
-          "body": "Luka Dončić torched Utah for 52 points and 10 assists, putting the Lakers at 3–0 and making himself just the third player in franchise history to hit that mark after Elgin Baylor and Jerry West. It's early, but Luka is absolutely not treating it that way.",
-          "tag": "Big Win"
-        },
-        {
-          "headline": "Thunder Hit With Another Brutal Injury as Jalen Williams Is Stretchered Off",
-          "body": "Oklahoma City's Jalen Williams suffered a gruesome leg injury against the Clippers and left the court on a stretcher, with no confirmed diagnosis or timetable yet available. The Thunder just handed Cason Wallace a $139 million extension, so the roster depth is there — but losing Williams early would be a serious blow to a legitimate title contender.",
+          "headline": "The NBA Is Basically a MASH Unit Right Now",
+          "body": "Nine All-Stars — including Anthony Edwards (two months, knee), Chet Holmgren (8-10 weeks, patellar tendon), and Jalen Williams (fractured fibula, season TBD) — are already sidelined with multiweek injuries before November even starts. It's the worst early-season injury wave in recent memory, and your fantasy team is cooked.",
           "tag": "Injury Update"
         },
         {
-          "headline": "Porzingis' Health Is Failing Again and Golden State Already Wants Out",
-          "body": "Kristaps Porziņģis is reportedly reconsidering his basketball future after another flare-up of his postural orthostatic tachycardia syndrome, and the Warriors — who gave him a two-year, $40 million extension last summer — are already shopping him in trade talks. Golden State is having a rough offseason in real time.",
-          "tag": "Drama"
+          "headline": "Curry Is Ageless and This Warriors Rookie Just Scored 37",
+          "body": "Stephen Curry dropped 99 points across three games — including a perfect 8-for-8 night in Denver — to fuel a four-game Warriors winning streak, while rookie Yaxel Lendeborg piled on with 37 points against the Clippers, the most by a Golden State rookie since Curry himself scored 42 back in 2010. Golden State is quietly having a good time while the rest of the league is in a walking boot.",
+          "tag": "Big Win"
+        },
+        {
+          "headline": "Porzingis on the Block as Warriors Eye a Trade",
+          "body": "Golden State is shopping Kristaps Porzingis, who remains out indefinitely while dealing with a private health issue that has him questioning his basketball future. Meanwhile, the broader trade market is buzzing around names like Norman Powell and Lauri Markkanen — though Markkanen already has his own problems, listed day-to-day with a wrist sprain.",
+          "tag": "Trade Rumors"
         }
       ]
     },
     {
-      "sport": "Soccer",
+      "sport": "NHL",
       "stories": [
         {
-          "headline": "Isak Is On Fire: Liverpool Cruise Past Brighton on the Back of Three Straight Scorers",
-          "body": "Alexander Isak bagged his sixth Premier League goal in seven games as Liverpool put Brighton away 2-0, with Pascal Groß doing Liverpool the favor of opening the scoring himself. At this rate, Isak is becoming the most expensive good decision Liverpool ever made.",
-          "tag": "Results"
+          "headline": "Kucherov Wants Out of Tampa and the Lightning Are Playing Dumb",
+          "body": "Nikita Kucherov has told the Lightning he won't sign an extension and wants a trade, but Tampa Bay is publicly insisting he's going nowhere. At $9.5 million with a 10-team no-trade list and UFA status looming, this standoff has all the makings of a very awkward road trip.",
+          "tag": "Drama"
         },
         {
-          "headline": "Pulisic and McKennie Keep the USMNT Expat Tour Rolling in Serie A",
-          "body": "Christian Pulisic scored as AC Milan blanked Udinese 2-0, while Weston McKennie got off the schneid with his first goal of the season in Juventus's 2-0 win over Lecce. A good weekend to be American in Italy.",
-          "tag": "Results"
+          "headline": "Dylan Larkin Has Left the Building — Literally",
+          "body": "Larkin didn't just request a trade from Detroit, he walked out and is now suspended without pay while the Red Wings wait for an offer they actually like. Montreal is being floated as a destination, which would be quite the consolation prize for a franchise that's been rebuilding since roughly the Obama administration.",
+          "tag": "Drama"
         },
         {
-          "headline": "Salah in Turkey, and Three Big Clubs Are Already Eyeing His Replacement's Replacement",
-          "body": "Mohamed Salah is generating buzz in Trabzonspor's corner of Turkey after his August move from Liverpool, and Liverpool have reportedly moved on to scouting 18-year-old Bayern Munich forward Lennart Karl — along with Arsenal and Manchester United. Karl has one goal and one assist in nine appearances, which is apparently enough to get three giants camping outside your door.",
-          "tag": "Transfer"
+          "headline": "Seattle Flips Shane Wright to Nashville in a Bet-on-the-Future Swap",
+          "body": "The Kraken traded 2022 fourth-overall pick Shane Wright to the Predators for 6-foot-4 winger Matthew Wood, a first-rounder from 2023 — a straight one-for-one before either player hits restricted free agency this summer. Both teams are essentially trading question marks and hoping theirs turns into an answer.",
+          "tag": "Trade"
+        }
+      ]
+    },
+    {
+      "sport": "College Sports",
+      "stories": [
+        {
+          "headline": "USC Embarrasses Ohio State, Sends Buckeyes Tumbling Out of the Top 10",
+          "body": "The Trojans dismantled No. 2 Ohio State 24–7, with Trent Mosley setting the tone on a 69-yard touchdown grab while the Buckeyes played without injured QB Julian Sayin. Rough week to be in Columbus.",
+          "tag": "Big Win"
+        },
+        {
+          "headline": "Florida State Fires Mike Norvell With a $50 Million Send-Off",
+          "body": "After three straight losses, the Seminoles showed Norvell the door — and handed him what's reportedly one of the largest buyouts in college football history. At least someone's winning in Tallahassee.",
+          "tag": "Drama"
+        },
+        {
+          "headline": "Indiana Stays Perfect at 8–0, Survives Minnesota in Overtime Thriller",
+          "body": "The Hoosiers escaped Minneapolis 23–16 in OT, courtesy of a 60-yard field goal and a game-winning play to open the extra period. Indiana is quietly becoming the most interesting undefeated team in the country.",
+          "tag": "Results"
         }
       ]
     },
@@ -126,19 +126,19 @@
       "sport": "Tennis",
       "stories": [
         {
-          "headline": "Zverev Locks Up Year-End No. 1 — First German to Do It Since Becker",
-          "body": "Alexander Zverev will finish 2026 as world No. 1 after Carlos Alcaraz lost and Jannik Sinner shut down his season early. Boris Becker last pulled this off for Germany, which tells you everything about how long that wait was.",
+          "headline": "Zverev Reaches the Summit: First German World No. 1 Since Becker",
+          "body": "Alexander Zverev claimed the ATP's top ranking on Monday, bumping Jannik Sinner to No. 2 after a season that included Roland Garros and US Open titles. Germany hadn't had a men's No. 1 since Boris Becker in 1991, so no pressure or anything.",
           "tag": "Standings"
         },
         {
-          "headline": "Rybakina Defends Ningbo Title, Fernandez Has No Answer",
-          "body": "Elena Rybakina beat Leylah Fernandez to successfully defend her Ningbo crown and pocket career title No. 15, all while remaining No. 1 in the WTA rankings ahead of Sabalenka and Andreeva. The only player to take a set off her all week was Katarzyna Kawa, who at least goes home with a career-high ranking of No. 106 as a consolation prize.",
-          "tag": "Big Win"
+          "headline": "Alcaraz Steamrolls Vienna, Wawrinka Quietly Calls It a Career",
+          "body": "Carlos Alcaraz dismantled Alex de Minaur 6-1, 6-4 in just 87 minutes to win the Vienna Open and stay perfect in ATP 500 finals this season. Meanwhile in Basel, Stan Wawrinka lost to Jiri Lehecka and walked off the court for the last time, closing a career that included three Grand Slam titles.",
+          "tag": "Results"
         },
         {
-          "headline": "Musetti Ends Four-Year Title Drought, Fritz Comes Up Short Again",
-          "body": "Lorenzo Musetti defeated Taylor Fritz in Lyon to claim his third ATP title and first in four years. Meanwhile, Tallon Griekspoor quietly won Brussels over Jan-Lennard Struff for his fourth career trophy — a solid week for the guys who weren't headlining anything.",
-          "tag": "Results"
+          "headline": "Dart Breaks Through, Vacherot Makes Monaco History",
+          "body": "Harriet Dart won her first WTA title at the Guangzhou Open, while Valentin Vacherot took the Basel ATP 500 crown to become the first Monegasque player ever to win at that level. A solid week for first-timers.",
+          "tag": "Big Win"
         }
       ]
     },
@@ -146,19 +146,39 @@
       "sport": "Golf",
       "stories": [
         {
-          "headline": "Smotherman Outlasts Power in Bermuda Marathon, Pockets $1.08M",
-          "body": "Austin Smotherman won the Butterfield Bermuda Championship on Monday after a three-hole sudden-death playoff against Seamus Power, both having finished 72 hours of wind-delayed golf at 16-under 197. The win vaulted Smotherman to 51st in the FedExCup standings and right on the bubble of the top-50 OWGR cutoff that earns a Masters invite — suddenly this Monday grind looks like it was worth every extra hole.",
+          "headline": "Andrew Novak Goes Wire-to-Wire in Mexico, Wins by Five",
+          "body": "Andrew Novak claimed his first PGA Tour title at the VidantaWorld Mexico Open, closing with a 69 to finish at 25-under and beat Steven Fisk and Kristoffer Ventura by five strokes. He built a six-shot cushion through the middle rounds and never looked back — a pretty comfortable way to get your first win.",
           "tag": "Big Win"
         },
         {
-          "headline": "Sabbatini Torches the Senior Field with a Sunday 62 at the Stifel Charity Classic",
-          "body": "Rory Sabbatini shot a closing 62 to claim his first PGA Tour Champions title at 13-under 199, edging Darren Clarke by one shot. A 62 to earn your maiden senior-tour win is a pretty emphatic way to announce you've arrived.",
+          "headline": "LIV's Exodus Continues: Oosthuizen and Poulter Both Head for the Door",
+          "body": "Louis Oosthuizen is joining Jon Rahm, Sergio Garcia, and David Puig in leaving LIV Golf for the DP World Tour, while Ian Poulter has also quit LIV and insists his playing days aren't done. At this rate, LIV's roster is going to need a serious restock.",
+          "tag": "Transfer"
+        },
+        {
+          "headline": "Chacarra Tops Race to Dubai After India Win, Playoff Season Underway",
+          "body": "Eugenio Chacarra won the DP World India Championship at 21-under to jump to the top of the Race to Dubai standings, ahead of Patrick Reed and Rory McIlroy with three events left. The Abu Dhabi Aldar Championship has also kicked off the tour's playoff run, with Rahm and Tyrrell Hatton making their first starts since ditching LIV Golf 2.0.",
+          "tag": "Standings"
+        }
+      ]
+    },
+    {
+      "sport": "Soccer",
+      "stories": [
+        {
+          "headline": "Kane Finally Gets His Flowers: England's Striker Wins the 2026 Ballon d'Or",
+          "body": "Harry Kane took home the 2026 Ballon d'Or after a ridiculous 61-goal, 51-game season for Bayern Munich — a number that sounds made up but isn't. Alexia Putellas claimed the women's award, because Barcelona apparently just has those lying around.",
+          "tag": "Award"
+        },
+        {
+          "headline": "Pepi's Back and PSV Did Not Take It Easy on Willem II",
+          "body": "Ricardo Pepi returned from injury and immediately contributed a goal and an assist in PSV's 7–0 demolition of Willem II on October 31. Nothing like easing back into match fitness by being part of a scoreline that should come with an apology.",
           "tag": "Big Win"
         },
         {
-          "headline": "Katsuragawa Makes It Two DP World Tour Titles with Genesis Win in South Korea",
-          "body": "Japan's Yuto Katsuragawa won the Genesis Championship at Woo Jeong Hills by two shots at 13-under 271, with Frederic LaCroix and Martin Couvra sharing second. Race to Dubai leader Eugenio Chacarra tied for 22nd, so the door to that title remains open with only Abu Dhabi and Dubai left on the calendar.",
-          "tag": "Results"
+          "headline": "Nico Williams Isn't Going Anywhere — He Told Arsenal, Barca, and Everyone Else Thanks But No",
+          "body": "Nico Williams shut down interest from Arsenal, Barcelona, and a handful of other European clubs by signing a new long-term deal with Athletic Club through 2035. Loyalty is rare in modern football, and apparently so is the bag Athletic Club must have offered.",
+          "tag": "Transfer"
         }
       ]
     }
